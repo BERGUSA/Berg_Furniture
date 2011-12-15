@@ -1,0 +1,1 @@
+<? $host = "localhost"; $db = "berg_storelocator"; $username = "berg_admin"; $password = "Market12"; ?>

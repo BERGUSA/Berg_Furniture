@@ -1,0 +1,138 @@
+<!-- BEGIN: main -->
+<!doctype html>
+
+<html>
+<head>	
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="Berg Furniture offers a wide variety of innovative children's furniture. Our Collections are fresh, unique, colorful, and exciting." />
+<meta name="keywords" content="Berg, Furniture, Children, Beds, Innovative, Systems, Bedroom, Smart, Loft" />
+
+<!-- LINKS -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<!-- FAVICON -->
+<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
+
+
+<!--[if lt IE 7]>
+        <script type="text/javascript" src="js/unitpngfix.js"></script>
+<![endif]--> 
+
+
+<title>Berg Furniture | Store Locator</title>
+
+<link href="{styleHref}" type="text/css" rel="stylesheet" rev="stylesheet" > 
+{pageScript}
+
+<script type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) 
+
+x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { 
+
+v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+//-->
+</script>
+
+</head>
+
+<body>
+<div id="outside_container">
+  <div class="container">
+	
+	
+	{FILE{header}} 
+	
+	
+ 	<div class="aboutContainer">
+              		<div class="prodTitle">
+                    	<p>Store Locator</p>
+                    </div>  
+					<div id="storeLocator">
+					<td>
+						<h2 class="txtheader">Find a dealer</h2>
+						<table cellpadding="0" cellspacing="0" border="0" class="searchtable" height="100" width="600">
+						
+						<tr>
+						  <td width="100%">
+						  <form action="{formAction}" method="{formMethod}" id="pcIsoform" style="margin:10px 20px;" 
+						  	onSubmit="validate(this); return false;">
+						  <input type="hidden" name="lat" value="" />
+						  <input type="hidden" name="lng" value="" />
+						  <table cellpadding="0" cellspacing="0" class="innersearchtable" border="0" align="center">
+							  <tr>
+								<th>Enter Zip Code or Address</th>
+							    <td style="padding-left: 40px;">
+								<input type="text" class="locatorform" name="postcode" size="50" required='yes' validate='text' message='{lang.enter_postal}' /><!-- <img src="/Contact/images/input_right.gif" class="inputCorner"/> --></td>
+							  </tr>
+							  <tr>	
+							 	<th style="padding-top:15px;">Select Country</th>
+								<td>
+								<select class="country-select" name="countryIso" style="width:150px; margin-left:40px;">
+									<!-- BEGIN:countryisooption1 -->
+									<option value="{country.iso}" title="{country.name}" {country.selected} >{country.name}</option>
+									
+							        <!-- END:countryisooption1 -->
+								</select>
+								<br />
+								</td>
+						 	  </tr>
+						  
+						       <tr>
+								<th style="padding-top:15px;">Select Radius</th>
+							    <td style="padding-left: 40px;">
+								<select name="radius" style="width:150px">
+								<!-- BEGIN: radiusoption -->
+								<option value="{row.value}">{row.option}</option>
+								<!-- END: radiusoption -->
+								</select>
+							  </tr>	  
+						 <tr>
+					      
+					      <tr>
+						    <td>&nbsp;</td>
+						<td>
+					  
+					  <input type="button" value="Find a Dealer" class="locator-submit" 
+					
+					onClick="if(validateNs(document.getElementById('pcIsoform'))) 
+					
+					postcodeLookUp(document.getElementById('pcIsoform'));"></td></tr>
+						  </table>
+						  </form>
+						  </td>
+						 
+						</tr>
+						</table>
+						<p style="padding-top:5px; color:#999;" class="searchfooter"><strong>**Not all styles or collections are available at every retailer**<br />Having trouble finding a store?</strong> 
+					
+					: <a href="/contact.php">Contact Us</a></p>
+					
+					</td>
+					</div>
+
+		 </div>
+	</div>
+</div>
+
+	{FILE{footer}}    
+    
+</body>
+</html>
+<!-- END: main -->

@@ -1,0 +1,41 @@
+<!-- BEGIN: main -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>{data.businessName} - {data.address} {data.address2}, {data.state} {data.postal} :: {pageTitle} </title>
+<meta name="keywords" content="{metaKeywords}" >
+<meta name="description" content="{metaDescription}" >
+<link href="{styleHref}" type="text/css" rel="stylesheet" rev="stylesheet" >
+{pageScript}
+</head>
+<body>
+	<table cellpadding="0" cellspacing="0" border="0" class="searchtable" width="100%" align="center">
+	<tr>
+	  <th class="tableheader">{lang.weekly_ad_info}</th>
+	</tr>
+	<tr>
+	  <td>
+	  <div><!-- BEGIN:storelogo --><img align="right" src="{data.logo}" border="0"><!-- END:storelogo --></div>
+	  <div class="txtsubheader">{data.businessName}</div>
+	  {data.address} {data.address2}<br />
+	  {data.city}, {data.state} {data.postal}<br />
+	  {data.phone}<br/>
+	  <!-- BEGIN: websiteHTML -->
+	  <a class='smalltxt altaltlink' href='{data.website}' target='{data.websiteTarget}'>{data.shownWebsite}</a><br />
+	  <!-- END: websiteHTML -->
+	  <a class="smalltxt altlink" href="javascript:window.print();">{lang.print_page}</a> | 
+	  <script type="text/javascript">document.write('<a class="smalltxt altlink" href="mailto:?subject=' + "{data.businessName} - {data.address} {data.address2}, {data.state} {data.postal}" + '&body='+window.location+'">{lang.email_page}</a>');</script><br>
+	  <a class="smalltxt altaltlink" href="javascript:window.close();">{lang.close_page}</a>
+	  </td>
+	</tr>
+	</table>
+	<table cellpadding="0" cellspacing="0" border="0" class="searchtable" width="100%" align="center">	
+	<tr>
+	  <td>{data.weeklyAd}</td>
+	</tr>
+	</table>
+	<p class="searchfooter"><strong>{lang.having_trouble}</strong> {lang.contact_by_email}: {siteEmail}, {lang.phone}: {sitePhone}</p>
+	{lang.copyright}
+</body>
+</html>
+<!-- END: main -->

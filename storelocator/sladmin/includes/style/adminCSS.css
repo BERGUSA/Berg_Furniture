@@ -1,0 +1,148 @@
+/* Administration CSS Document */
+body{
+	font-size:14px;
+	margin:0px;
+	padding:0px;
+}
+a {
+	color:darkblue;
+	text-decoration:none;
+}
+input {
+	border:1px solid #C6C6C6;
+}
+a:hover {
+}
+body table {
+	font-size:inherit;
+}
+.adminTable{
+	background-image:url(../../images/box_left.jpg);
+	background-repeat:repeat-y;
+	font-size:inherit;
+}
+.rightbg{
+	background-image:url(../../images/box_right.jpg);
+	background-position:right;
+	background-repeat:repeat-y;
+}
+.adminTable table {
+	font-size:inherit;
+}
+.adminTable th{
+	background-color:#7996B1;
+	border:1px solid #C1C1C1;
+	font-variant:small-caps;
+}
+.indexTable {
+	border-left:1px solid #C1C1C1;
+	border-right:1px solid #C1C1C1;
+	border-top:1px solid #C1C1C1;		
+}
+.indexTR th{
+	text-align:left;
+	border:0;
+}	
+.indexRow {
+	background-color:#F9F9F9;	
+}
+.indexRow td{
+	border-bottom:1px solid #C1C1C1;
+}
+.column {
+	font-weight:bold;
+	border-right:1px solid #C1C1C1;
+	border-left:1px solid #C1C1C1;	
+	background-color:#F9F9F9;
+	width:20%;
+}
+.row{ 
+	border-right:1px solid #C1C1C1;
+}
+.logoRow{ 
+	border-left:1px solid #C1C1C1;
+	border-right:1px solid #C1C1C1;
+	border-top:1px solid #C1C1C1;
+}
+.submitRow{
+	border-bottom:1px solid #C1C1C1;
+}
+h2 {
+	font-size:20px;
+	font-variant:small-caps;
+}
+.directions {
+	font-size:14px;
+	background-color:#F1F1F1;
+	border:1px solid #C1C1C1;
+	padding:2px;
+}
+.error {
+	font-size:14px;
+	background-color:#CCFFFF;
+	border:1px solid #C1C1C1;
+	padding:2px;
+}
+.altRow {
+	background-color:#CCFFFF;
+}
+.altRow td{
+	border-bottom:1px solid #C1C1C1;
+}
+.clickRow {
+	background-color:#FFFFCC;
+}
+.clickRow td{
+	border-bottom:1px solid #C1C1C1;
+}
+.adminHeader {
+	border-right:1px solid #C1C1C1;
+	border-left:1px solid #C1C1C1;	
+	background-color:#F9F9F9;
+	width:175px;
+}
+.adminTop{
+	border-bottom:1px solid #C1C1C1;
+	padding:2px;
+	padding-left:10px;
+	padding-right:10px;
+}
+.adminMain{
+	padding:10px;
+}
+.leftNav ul{
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	border-bottom:1px solid #C1C1C1;
+}
+.leftNav li{
+	border-top:1px solid #C1C1C1;
+	background-color:white;
+	padding-left:2px;
+	background-color:white;
+	padding-left:5px;
+}
+.leftNav li:hover {
+	background-color:white;
+}
+.leftNav li a{
+}
+.leftNav div {
+	background-image:url(../../images/navHeader.gif);
+	background-repeat:repeat-x;
+	font-weight:bold;
+	font-variant:small-caps;
+	color:white;
+	padding-left:5px;
+}
+.validate {
+	border:1px solid #FF0000;
+	background-color:#CCFFFF;
+}
+.box_top_mid {
+	background-image:url(../../images/box_top_mid.jpg);
+}
+.box_bottom_mid {
+	background-image:url(../../images/box_bottom_mid.jpg);
+}

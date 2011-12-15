@@ -1,0 +1,144 @@
+<!-- BEGIN: main -->
+<!doctype html>
+
+<html>
+<head>	
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<!-- LINKS -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<!-- FAVICON -->
+<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
+
+
+<!--[if lt IE 7]>
+        <script type="text/javascript" src="js/unitpngfix.js"></script>
+<![endif]--> 
+
+<title>{data.businessName} - {data.address} {data.address2}, {data.state} {data.postal} :: {pageTitle} </title>
+<meta name="keywords" content="{metaKeywords}" >
+<meta name="description" content="{metaDescription}" >
+
+</head>
+<body>
+<div id="outside_container">
+  <div class="container">
+	{FILE{header}}
+                
+                    
+<!----------------------- STORE INFO -------------------------->
+
+
+<div class="aboutContainer">
+	<div class="prodTitle">
+    	<p>Store Locator</p>
+	</div>
+
+
+
+
+
+
+	<div id="storeAbout">
+		<div class="txtheader">{lang.store_detail}</div>
+		
+        <div><!-- BEGIN:storelogo --><!-- remove logo <img src="{data.logo}" border="0"> --> <!-- END:storelogo --></div>
+        
+        <div id="storeinfo" style="float:left; width:300px;">
+            <div style="font-family: Geneva, Arial, Helvetica, sans-serif;color: #573617; font-size:18px;font-weight:bold;">
+            {data.businessName}</div>
+            {data.address} {data.address2}<br />
+            {data.city}, {data.state} {data.postal}<br />
+            {data.phone}<br/>
+          
+            <!-- BEGIN: websiteHTML -->
+                  <a class='smalltxt altaltlink' href='{data.website}' target='{data.websiteTarget}'>{data.shownWebsite}</a><br />
+            <!-- END: websiteHTML -->
+                  
+            <!-- BEGIN: weeklyAdHTML -->
+                  <a class='smalltxt altaltaltlink' href='javascript:popUpWindow("ad_info.php?store={data.id}", 10, 10, 800, 600);'>
+                  {lang.weekly_ad}</a><br />
+                  
+            <!-- END: weeklyAdHTML -->
+         	{lang.additional_info}<a name="additionalinfo"></a>
+            <!-- BEGIN:additionalinfo -->{data.pageHTML}
+            <!-- END:additionalinfo -->
+            <!-- BEGIN:noadditionalinfo --><p>n/a</p>
+            <!-- END:noadditionalinfo -->
+        </div>
+	 	
+        
+        <div style="float:right; margin-right:70px; padding-bottom:10px;">
+          <a class="smalltxt altlink" href="javascript:window.print();">{lang.print_page}</a> | 
+		  <script type="text/javascript">document.write('<a class="smalltxt altlink" href="mailto:?subject='+ "{data.businessName} - {data.address} {data.address2}, {data.state} {data.postal}" + '&body='+window.location+'">{lang.email_page}</a>');</script>
+	  	
+	  
+	  	<div style=" width:300px" id="smallMapDiv" class="map"><span class="alttxt">Loading map...</span></div>	 	  
+	  </div>
+	
+	
+	
+		<div style="float:left;">
+	  {lang.directions}
+
+	
+	  <form style="margin:0; padding:0;" id="dirForm" action="#">
+	  <input type="hidden" name="toAddress" class="smalltxt altlink" value="{data.address}, {data.city}, {data.state} {data.postal}, {data.country}">	  
+	  <strong>{lang.to}:</strong> {data.address}, {data.city}, {data.state} {data.postal}, {data.country}
+	  <p><strong>{lang.from}:</strong><input type="text" class="textinput" size="30" name="fromAddress" value="">
+	  <strong>{lang.lang}:</strong>
+	  <select id="locale" class="smalltxt altlink"  name="locale">
+	  <option value="en" selected>English</option>
+	  <option value="fr">French</option>
+	  <option value="de">German</option>
+	  <option value="ja">Japanese</option>
+	  <option value="es">Spanish</option>
+	  
+</select>
+	  <input type="button" value="{lang.get_directions}" class="smalltxt altlink" onClick="setDirections(this.form.fromAddress.value, this.form.toAddress.value, this.form.locale.value);">
+	  </p>
+	  </form>
+	  </div>
+      <div id="drOutDiv" class="tableheader" style="display:none; clear:both">
+	  
+	 {lang.get_directions_results}
+      
+	    <div style="padding-bottom:15px;">
+		<a href="javascript:window.print();" class="smalltxt altlink">{lang.print_results}</a>
+		<div id="directions" class="smalltxt altlink" style="width: 275px;"></div>
+		
+		<div id="drMap" class="map" style="width: 310px; height: 400px; position:absolute; top:557px; left: 482px; margin:0 auto;"></div>
+		
+
+	 	</div>
+	  </div>
+
+	  
+                                         
+                                         
+</div>
+</div>
+</div>
+</div>                                          	
+</div>
+
+<!------------------------END STORE INFO-------------------------------------->
+
+{FILE{footer}}
+
+
+
+
+
+
+
+
+{pageScript}	  
+{googleMapScript}
+</body>
+</html>
+<!-- END: main -->     
+          																																																																				

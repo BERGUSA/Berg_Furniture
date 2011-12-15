@@ -1,0 +1,390 @@
+<!-- BEGIN: main -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>{data.businessName} - {data.address} {data.address2}, {data.state} {data.postal} :: {pageTitle} </title>
+<meta name="keywords" content="{metaKeywords}" >
+<meta name="description" content="{metaDescription}" >
+<link href="{styleHref}" type="text/css" rel="stylesheet" rev="stylesheet" >
+<link rel="stylesheet" href="../Berg_Furniture_Online/css/style.css" type="text/css" media="screen" />
+<link rel="shortcut icon" href="/Berg_Furniture_Online/img/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="img/favicon.ico" type="image/x-icon" />
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10894475-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+<script type="text/javascript" src="js/niceforms.js"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10894475-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+</head>
+<body>
+<div id="outside_container">
+  <div class="container">
+	
+<div id="header">
+                    <h1><a href="/index.asp"><img alt="Berg Furniture" src="/Berg_Furniture_Online/img/logo.png"/></a></h1>
+                    <div class="hidden"><h1>Berg Furniture</h1></div>
+                    
+                    
+                    <div id="navigation2">
+                        <div id="home"><a href="/index.asp"></a></div>
+                        	<ul id="menu">
+                            
+                            <li class="mega">
+                            	<h2>
+                                	<a href="#">COLLECTIONS</a>
+                                </h2>
+                                <div id="menu1">
+                                	
+                                    <span style="border-right: #333 1px solid; float: left; width: 200px; padding-right: 40px;">
+                                          <a href="/space_savers.asp"><img src="/Berg_Furniture_Online/img/images/furn_icon_01.png" alt="Space Savers"/></a>
+                                          
+                                          <h3><a href="/space_savers.asp">Space Savers</a></h3>
+                                          <p>
+                                          <a href="/22_805.asp">22-805</a>,
+                                          <a href="/22_807.asp">22-807</a>,
+                                          <a href="/22_808.asp">22-808</a>,
+                                          <a href="/22_815.asp">22-815</a>,
+                                          <a href="/22_816.asp">22-816</a>,
+					  					  <a href="/22_825.asp">22-825</a>,
+										  <a href="/22_827.asp">22-827</a>
+                                          </p>
+                                     
+                                     
+                                          <a href="/captains_bed.asp"><img src="/Berg_Furniture_Online/img/images/furn_icon_02.png" alt="Captain's Bed" style="margin-top:5px;" /></a>
+                                     
+                                         <h3><a href="/captains_bed.asp">Captain's Beds</a></h3>
+                                         <p>
+                                         <a href="/22_895.asp">22-895</a>,
+                                         <a href="/22_905.asp">22-905</a>,
+                                         <a href="/22_915.asp">22-915</a>,
+                                         <a href="/22_916.asp">22-916</a>,
+                                         <a href="/22_931.asp">22-931</a>,
+                                         <a href="/22_935.asp">22-935</a>
+                                         </p>
+                                         
+                                         <a href="/jr_captains_bed.asp"><img src="/Berg_Furniture_Online/img/images/furn_icon_07.png" alt="Jr. Captain's Bed" style="margin-right:25px; margin-left:4px"/></a>
+                                         
+                                         
+                                         <h3><a href="/jr_captains_bed.asp">Jr. Captain's Beds</a></h3>
+                                         <p>
+                                         <a href="/22_940.asp">22-940</a>,
+                                         <a href="/22_950.asp">22-950</a>,
+                                         <a href="/22_959.asp">22-959</a>,
+                                         <a href="/22_965.asp">22-965</a>,
+                                         <a href="/22_68.asp">22-68</a>
+                                         </p>
+                                         
+                                         <a href="/enterprise_collection.asp"><img src="/Berg_Furniture_Online/img/images/furn_icon_03.png" alt="Enterprise"/></a>
+                                         
+                                         <h3><a href="/enterprise_collection.asp">Enterprise</a></h3>
+                                         <p>
+                                         <a href="/40_415.asp">40-415</a>,
+                                         <a href="/40_515.asp">40-515</a>,
+                                         <a href="/40_525.asp">40-525</a>,
+                                         <a href="/40_830.asp">40-830</a>,
+                                         <a href="/40_29.asp">40-29</a>
+                                         </p>
+                                   </span>
+                                   
+                                   <span style="float:left; padding-left: 40px; width: 200px;">
+                                         <a href="/utica.asp"><img src="/Berg_Furniture_Online/img/images/furn_icon_04.png" alt="Utica" style="width:60px;"/></a>
+                                         
+                                         <h3><a href="/utica.asp">Utica</a></h3>
+                                         <p>
+                                         <a href="/23_805.asp">23-805</a>,
+                                         <a href="/23_815.asp">23-815</a>,
+                                         <a href="/23_835.asp">23-835</a>,
+                                         <a href="/23_855.asp">23-855</a>,
+                                         <a href="/23_905.asp">23-905</a>
+                                         </p>
+                                         
+                                         <a href="/play_and_study.asp"><img src="/Berg_Furniture_Online/img/images/furn_icon_05.png" alt="Play and Study" style="margin-top:-5px; width:60px; padding-bottom: 7px;" /></a>
+                                         
+                                         <h3><a href="/play_and_study.asp">Play &amp; Study</a></h3>
+                                         <p>
+                                         <a href="/91_72.asp">91-72</a>,
+                                         <a href="/91_74.asp">91-74</a>,
+                                         <a href="/91_76.asp">91-76</a>
+                                         <br />
+                                         <br />
+                                         </p>
+                                        <a href="/kids_hq.asp"><img src="/Berg_Furniture_Online/img/images/furn_icon_06.png" alt="Kids HQ" style="margin-top:0px;"/></a>
+                                         
+                                         <h3><a href="/kids_hq.asp">Kids HQ</a></h3>
+                                         <p>
+                                         <a href="/90_05.asp">90-05</a>
+                                        
+                                         </p>
+                                         
+                                         
+                                        <br />
+                                        <a href="/oslo.asp"><img src="/Berg_Furniture_Online/img/images/furn_icon_08.png" alt="Oslo" style="margin-top:-8px; margin-right:29px;"/></a>
+                                         
+                                         <h3><a href="/oslo.asp">Nursery</a></h3>
+                                         <p>
+                                         <a href="/oslo.asp">Oslo Crib</a>, <br />
+                                         <a href="/oslo_crib_to_twin.asp">Oslo Crib to Twin</a>
+                                        
+                                         </p>
+                                   </span>
+                                </div>	
+                            </li>
+                            
+                            <li class="mega">
+                            	<h2><a href="/storelocator">STORE LOCATOR</a></h2>
+                            </li>
+                        	<li class="mega">
+                            	
+                                <h2><a href="/why_buy_berg.asp">WHY BUY BERG?</a></h2>
+                                
+                                <div id="menu2">
+                                
+                                <h3><b>&gt;&nbsp;&nbsp;</b><a href="/why_buy_berg.asp">Why Buy Berg?</a></h3>
+                                <p>
+                                <a href="/mission_statement.asp">Mission Statement</a>
+                                <br />
+                                <a href="/research.asp">Research</a>
+                                <br />
+                                <a href="/made_usa.asp">Made in USA</a>
+                                <br />
+                                <a href="/consTech.asp">Construction &amp; Tech</a>
+                                <br />
+                                <a href="/testimonies.asp">Testimonials</a>
+                                </p>
+                                
+                                <h3><b>&gt;&nbsp;&nbsp;</b><a href="/contact">Contact Us</a></h3>
+                                <p>
+                                <a href="/contact">General Questions</a>
+                                <br />
+                                <a href="/product_contact">Product Questions</a>
+                                <br />
+                                <a href="/crib_contact">Crib Questions</a>
+                                </p>
+                                
+                                <h3><b>&gt;&nbsp;&nbsp;</b><a href="/history.asp">History</a></h3>
+                                
+                                <br />
+                                
+                                <h3><b>&gt;&nbsp;&nbsp;</b><a href="/factory_tour.asp">Factory Tour</a></h3>
+                                <br />
+                                <h3><b>&gt;&nbsp;&nbsp;</b><a href="/faqs.asp">FAQ's</a></h3>
+                                
+                                
+                                </div>
+                        </li>
+                        
+                       	<li class="mega">
+                            	<h2><a href="#">BERG COMMUNITY</a></h2>
+                                
+                                <div id="menu3">
+                                	<a href="http://www.facebook.com/home.php?#/pages/Barrington-NJ/Berg-Furniture/251098782140?ref=nf"><img src="/Berg_Furniture_Online/img/fb_icon.png" style="margin-right: 0px; margin-top: 10px; width:25px;"/></a>
+                                    <p style="margin-right: 0px; margin-top: 17px;"><a href="http://www.facebook.com/home.php?#/pages/Barrington-NJ/Berg-Furniture/251098782140?ref=nf">Berg on Facebook</a></p>
+                                    <br />
+                                    <br />
+                                    <a href="http://www.flickr.com/photos/bergfurniture/"><img src="/Berg_Furniture_Online/img/fr_icon.png" style="margin-right: 0px; margin-top: -40px; margin-left:1px; width:24px;"/></a>
+                                    <p style="margin-right: 12px; margin-top: -33px;"><a href="http://www.flickr.com/photos/bergfurniture">Berg on Flickr</a></p>
+                                </div>
+                            </li>
+                        
+                        </ul>
+                	</div>
+                  
+</div>
+                
+                    
+
+<div class="aboutContainer">
+          <div class="prodTitle">
+              <p>Store Locator</p>
+          </div>
+
+
+
+
+
+
+<div id="storeAbout">
+
+
+
+	<div class="txtheader">{lang.store_detail}</div>
+	
+	
+	
+	  {lang.store_information}
+	
+	
+	  
+	  
+
+<div><!-- BEGIN:storelogo --><img src="{data.logo}" border="0"><!-- END:storelogo --></div>
+	  <div class="txtsubheader">{data.businessName}</div>
+	  {data.address} {data.address2}<br />
+	  {data.city}, {data.state} {data.postal}<br />
+	  {data.phone}<br/>
+	  
+<!-- BEGIN: websiteHTML -->
+	  <a class='smalltxt altaltlink' href='{data.website}' target='{data.websiteTarget}'>{data.shownWebsite}</a><br />
+<!-- END: websiteHTML -->
+	  
+<!-- BEGIN: weeklyAdHTML -->
+	  <a class='smalltxt altaltaltlink' href='javascript:popUpWindow("ad_info.php?store={data.id}", 10, 10, 800, 600);'>
+      {lang.weekly_ad}</a><br />
+	  
+<!-- END: weeklyAdHTML -->
+	 	<a class="smalltxt altlink" href="javascript:window.print();">{lang.print_page}</a> | 
+	  <script type="text/javascript">document.write('<a class="smalltxt altlink" href="mailto:?subject='+ "{data.businessName} - {data.address} {data.address2}, {data.state} {data.postal}" + '&body='+window.location+'">{lang.email_page}</a>');</script>
+	  
+	  
+	  <div align="left" style="width:300px" id="smallMapDiv" class="map"><span class="alttxt">Loading map...</span></div>	 	  
+	  
+	
+	
+	
+
+	  {lang.directions}
+
+	
+	  <form id="dirForm" action="#">
+	  <input type="hidden" name="toAddress" class="smalltxt altlink" value="{data.address}, {data.city}, {data.state} {data.postal}, {data.country}">	  
+	  <strong>{lang.to}:</strong> {data.address}, {data.city}, {data.state} {data.postal}, {data.country}
+	  <p><strong>{lang.from}:</strong> <img src="/Contact/images/input_left.gif" class="inputCorner"/><input type="text" class="textinput" size="30" name="fromAddress" value=""><img src="/Contact/images/input_right.gif" class="inputCorner"/>
+	  <strong>{lang.lang}:</strong>
+	  <select id="locale" class="smalltxt altlink"  name="locale">
+	  <option value="en" selected>English</option>
+	  <option value="fr">French</option>
+	  <option value="de">German</option>
+	  <option value="ja">Japanese</option>
+	  <option value="es">Spanish</option>
+	  
+</select>
+	  <input type="button" value="{lang.get_directions}" class="smalltxt altlink" onClick="setDirections(this.form.fromAddress.value, this.form.toAddress.value, this.form.locale.value);">
+	  </p>
+	  </form>
+	  <div id="drOutDiv" class="tableheader" style="display:none;">
+	  
+	 <div class="tableheader">{lang.get_directions_results}</div>
+      
+	    
+		<a href="javascript:window.print();" class="smalltxt altlink">{lang.print_results}</a>
+		<div id="directions" class="smalltxt altlink" style="width: 275px"></div>
+		
+		<div id="drMap" class="map" style="width: 310px; height: 400px; margin-top:15px;"></div>
+		
+
+	  
+	  </div>
+
+	  
+                                         
+                                          {lang.additional_info}<a name="additionalinfo"></a>
+                                         
+                                        
+	
+                                            
+                                          
+                                          <!-- BEGIN:additionalinfo -->{data.pageHTML}
+                                          
+                                          <!-- END:additionalinfo -->
+                                          
+                                          <!-- BEGIN:noadditionalinfo --><p>n/a</p>
+                                          
+                                          <!-- END:noadditionalinfo -->
+                                          	
+										
+	
+	<p class="searchfooter"><strong>Having trouble finding a store?</strong> : <a href="/contact">Contact Us</a></p>
+	
+	
+
+</div>
+
+
+
+<div id="footer">
+    	<div id="footerBorder"></div>
+        <div class="globalNav">       
+                <div id="gNprod"><h4>PRODUCTS</h4><br />
+                    <ul>
+                        <li><a href="/space_savers.asp">Space Savers</a></li>
+                        <li><a href="/captains_bed.asp">Captain's Bed</a></li>
+                        <li><a href="/jr_captains_bed.asp">Jr. Captain's Bed</a></li>
+                        <li><a href="/enterprise_collection.asp">Enterprise</a></li>
+                        <li><a href="/utica.asp">Utica</a></li>
+                        <li><a href="/play_and_study.asp">Play &amp; Study</a></li>
+                        <li><a href="/kids_hq.asp">Kids HQ</a></li>
+                        <li><a href="/oslo.asp">Nursery</a></li>
+                        
+                    </ul>
+                </div>
+                <div id="gNcs"><h4>CUSTOMER SERVICE</h4><br />
+                	<ul>	
+                        <li><a href="/contact">Contact Us</a></li>
+                        <li><a href="/faqs.asp">FAQs</a></li>
+                        <li><a href="/storelocator">Store Locator</a></li>
+                        <li><a href="/factory_tour.asp">Factory Tour</a></li>
+                    </ul>
+                </div>
+                <div id="gNabout"><h4><a href="/why_buy_berg.asp">WHY BUY BERG?</a></h4><br />
+                	<ul>
+                    	<li><a href="/mission_statement.asp">Mission Statement</a></li>
+                        <li><a href="/research.asp">Research</a></li>
+                        <li><a href="/made_usa.asp">Made in USA</a></li>
+                        <li><a href="/consTech.asp">Construction &amp; Tech</a></li>
+                        <li><a href="/testimonies.asp">Testimonials</a></li>
+                        <li><a href="/history.asp">History</a></li>
+                        
+                    </ul>
+                </div>
+                <div id="gNcomm"><h4>BERG COMMUNITY</h4><br />
+                	<a href="http://www.facebook.com/home.php?#/pages/Barrington-NJ/Berg-Furniture/251098782140?ref=nf">
+                    <img src="/Berg_Furniture_Online/img/fb_icon.png" alt="facebook" title="Berg on Facebook" style="float:left";/></a>
+                   
+                    <a href="http://www.flickr.com/photos/bergfurniture">
+                    <img src="/Berg_Furniture_Online/img/fr_icon.png" alt="flickr" title="Berg on Flickr"/></a>
+                </div>
+    			
+                <div id="ftrLogo"><a href="/index.asp">Berg Furniture</a></div>
+         		
+         </div>
+         <div id="ftrBtm">
+         	<p>2010 Berg Furniture &copy; <i>All Rights Reserved</i></p>
+ 		 	<div id="madeUSA">Made in the USA</div>
+         </div>	   
+    </div>
+
+
+
+
+
+
+
+
+
+{pageScript}	  
+{googleMapScript}
+</body>
+</html>
+<!-- END: main -->     
+          																																																																				

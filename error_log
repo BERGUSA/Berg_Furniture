@@ -1,0 +1,6 @@
+[08-Nov-2011 14:03:13] PHP Warning:  include(header_new.asp) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/berg/public_html/contact.php on line 8
+[08-Nov-2011 14:03:13] PHP Warning:  include(header_new.asp) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/berg/public_html/contact.php on line 8
+[08-Nov-2011 14:03:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'header_new.asp' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/berg/public_html/contact.php on line 8
+[08-Nov-2011 14:03:13] PHP Warning:  include(footer_new.asp) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/berg/public_html/contact.php on line 123
+[08-Nov-2011 14:03:13] PHP Warning:  include(footer_new.asp) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/berg/public_html/contact.php on line 123
+[08-Nov-2011 14:03:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'footer_new.asp' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/berg/public_html/contact.php on line 123

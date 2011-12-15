@@ -1,0 +1,25 @@
+<!-- WHATS NEW TAB -->
+						<div id="tab1">
+                        	<div class="hidden"><h2>All New Space Saver 22-827</h2></div>
+                        	<div class="slideshow"> 
+                            	<div id="newtab1"><a title="New 22-827" href="/22_827.asp"></a></div>
+                                <div id="newtab2"><a title="New 22-68" href="/22_68.asp"></a></div>
+                                
+                            </div>
+                        </div> 
+						
+						<!--PHOTO CONTEST FINALISTS  TAB1 -->
+						<div id="tab1">
+                        	<a href="/contest-gallery.php"></a>
+							<div class="hidden"><h2>Photo Contest Finalists Click here to see the finalists!</h2></div>
+                        </div> 
+                        
+                    
+						<!--FREE SHELF PROMO TAB2 -->
+					   <div id="tab2"><a href="/promotions.asp"></a></div> 
+					   
+					   	<!-- CONTEST WINNER -->
+						<div id="tab1">
+                        	<a href="/contest-winner.php"></a>
+							<div class="hidden"><h2>Congratulations Brain! You won! Click here for more info.</h2></div>
+                        </div>

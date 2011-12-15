@@ -1,0 +1,271 @@
+<!-- BEGIN: main -->
+<!doctype html>
+
+<html>
+<head>	
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="Berg Furniture offers a wide variety of innovative children's furniture. Our Collections are fresh, unique, colorful, and exciting." />
+<meta name="keywords" content="Berg, Furniture, Children, Beds, Innovative, Systems, Bedroom, Smart, Loft" />
+
+<!-- LINKS -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<!-- FAVICON -->
+<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
+
+
+<!--[if lt IE 7]>
+        <script type="text/javascript" src="js/unitpngfix.js"></script>
+<![endif]--> 
+
+<title>Berg Furniture | Store Locator Results</title>
+
+
+<link href="{styleHref}" type="text/css" rel="stylesheet" rev="stylesheet" >
+{headScript}
+
+<script type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+//-->
+</script>
+</head>
+
+<body onLoad="{bodyonload}" onunload="GUnload()" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="outside_container">
+  <div class="container">
+	
+		{FILE{header}}
+                    
+         <div class="aboutContainer">
+      		<div class="prodTitle">
+            	<p>Store Locator</p>
+            </div>  
+
+		<div id="storeResults">
+
+			<div class="txtheader">{lang.search_results}</div>
+	
+
+			<!-- BEGIN: searchresults -->
+			<div class="maptable" style="width:750px;">
+	
+	  
+			  <a name="mapview"></a>
+			  <div class="txtsubheader">{lang.found} {totalRows} {lang.locations_near} {location}</div>
+			  <div style="margin-bottom:5px;">
+	  
+				<!-- BEGIN: paging -->
+					  &nbsp;|&nbsp;<strong>{lang.page}:</strong> {currentPage} of {totalPages}, {lang.showing} 
+				
+				{pageTotalRows} {lang.per_page} <!-- BEGIN: lastpage --> <a class="smalltxt altlink" 
+				
+				style="text-decoration:none" 
+				
+				href="store_locator_results.php?start={pdata.start}&postcode={pdata.postcode}&location={pdata.location}&countr
+				
+				yIso={pdata.countryIso}&lat={pdata.lat}&lng={pdata.lng}&radius={PHP._REQUEST.radius}#mapview">&laquo; Previous Page</a><!-- 
+				
+				END:lastpage--><!-- BEGIN:nextpage -->&nbsp;|&nbsp;<a class="smalltxt altlink" style="text-decoration:none" 
+				
+				href="store_locator_results.php?start={pdata.start}&postcode={pdata.postcode}&location={pdata.location}&countr
+				
+				yIso={pdata.countryIso}&lat={pdata.lat}&lng={pdata.lng}&radius={PHP._REQUEST.radius}#mapview">Next Page &raquo;</a><!-- END:nextpage -->
+					  <!-- END: paging -->
+					  
+				
+				</div>
+	  
+		
+	  		<div class="resultsdisplay1">
+				  <ol style="margin-top: -20px;">
+				    <!-- BEGIN: resultsdisplay1 -->
+				    <li>
+					<div id="{data.itemDivId}"><a href="javascript:;" onClick="{data.onclick1}">		
+					<img src="{data.iconSrc}" border="0" />
+					
+					<!-- BEGIN: preferred -->
+						<img src="star.png" border="0"/>
+					<!-- END: preferred -->{data.businessName} - {data.distance}</a><br />
+					</div>
+					
+					<div class="resultsdataitem" style="display:none" id="{data.hiddenDivId}">
+					<img src="{data.iconSrc}" border="0" /> 
+			
+					
+					<!-- BEGIN: preferred2 -->
+						<img src="star.png" border="0"/>
+					<!-- END: preferred2 -->
+							
+					<strong>{data.businessName} - {data.distance}</strong><br />
+					        		
+					<img src="uploads/{data.logo}" border="0" style="width:244px; {noShow} ">	
+					
+					<a class="smalltxt altlink" onClick="{data.onclick2}" href="javascript:;">{lang.zoom}</a> | <a 
+			
+			class="smalltxt altlink" href="store_info.php?store={data.id}" target="_blank">{lang.more_info_small} 
+			
+			&raquo;</a><br />
+					
+			        {data.address} {data.address2}<br />
+					{data.city}, {data.state} {data.postal}<br />
+					{data.phone}<br/><br/>
+					<i><b>Products on display:</b><br/>
+					{data.pageHTML}</i><br/><br/>
+					<!-- BEGIN: websiteHTML -->
+					<a href='{data.website}' target='{data.websiteTarget}'>{data.shownWebsite}</a><br />
+					<!-- END: websiteHTML -->
+					<!-- BEGIN: weeklyAdHTML -->
+					<a href='javascript:popUpWindow("ad_info.php?store={data.id}", 10, 10, 800, 
+			
+			600);'>{lang.weekly_ad}</a><br />
+					<!-- END: weeklyAdHTML -->
+					<a href="store_info.php?store={data.id}#directions" target="_blank">{lang.directions}</a>
+					</div>
+					</li>
+				    <!-- END: resultsdisplay1 -->
+				  </ol>
+	  </div> <!-- end .resultsdisplay1 -->
+	  
+	  <div id="mapDiv" class="map" style="width:500px; margin-left:250px; margin-top:24px;"><span class="alttxt">Loading map...</span></div>	  
+			  
+	</div> <!-- end .maptable -->
+	
+	
+	<!-- END: searchresults -->
+	<!-- BEGIN: errornotice -->
+		<p class="error" id="errorDiv" style="display:none;">{lang.no_results_near} {location}. 
+	
+	{lang.please_redefine}</p>
+		<script>changeColor2('errorDiv',0);</script>
+		<!-- END: errornotice -->
+	
+	
+
+
+		<!-- Start: perform another search -->
+		
+		
+		<div id="anothersearch" style="padding-top:45px;">
+			<h2>Perform Another Search</h2>
+			<table cellpadding="0" cellspacing="0" border="0" class="searchtable" style="width: 750px;">
+				
+				<tr>
+				  <td width="100%">
+				  <form action="{formAction}" method="{formMethod}" id="pcIsoform" style="margin:10px 20px;"
+					onSubmit="validate(this); return false;">
+				  <input type="hidden" name="lat" value="" />
+				  <input type="hidden" name="lng" value="" />
+				  <table cellpadding="0" cellspacing="0" class="innersearchtable" border="0" align="center">
+				  <tr>
+					<th>Enter Zip Code or Address</th>
+				    <td style="padding-left: 40px;">
+					<input type="text" class="locatorform" name="postcode" size="50" required='yes' validate='text' message='{lang.enter_postal}' /><!-- <img src="/Contact/images/input_right.gif" class="inputCorner"/> --></td>
+				  </tr>
+				 
+				   	<th style="padding-top:15px;">Select Country</th>
+					<td>
+					<select class="country-select" name="countryIso" style="width:150px; margin-left:40px;">
+					<!-- BEGIN:countryisooption1 -->
+					<option value="{country.iso}" title="{country.name}" 
+			
+			{country.selected} 
+			
+			>{country.name}</option>
+					<!-- END:countryisooption1 -->
+					</select>
+					<!-- Default Country Display <span class="alttxt smalltxt" 
+			
+			id="pcIso"><script>document.write(document.getElementById('pcIsoform').countryIso.value);
+			</script>&nbsp;<a 
+			
+			href="javascript:ch('pcIso', 'pcIsoform');" class="smalltxt 
+			
+			altlink">Change Country</a></span> -->
+					</td>
+			 	  </tr>
+				  
+			       <tr>
+					<th style="padding-top:15px;">Select Radius</th>
+				    <td style="padding-left: 40px;">
+					<select name="radius" style="width:150px">
+					<!-- BEGIN: radiusoption -->
+					<option value="{row.value}">{row.option}</option>
+					<!-- END: radiusoption -->
+					</select>
+				  </tr>	  
+				 <tr>
+			      
+			      <tr>
+				    <td>&nbsp;</td>
+				<td>
+			  <input type="button" value="Search Again" class="locator-submit"  
+			
+			onClick="if(validateNs(document.getElementById('pcIsoform'))) 
+			
+			postcodeLookUp(document.getElementById('pcIsoform'));"></td></tr>
+				  </table>
+				  </form>
+				  </td>
+				 
+				</tr>
+				</table>
+				<p style="padding-top:5px; color:#999;" class="searchfooter"><strong>**Not all styles or collections are available at every retailer**<br />Having trouble finding a store?</strong> 
+			
+			: <a href="/contact.php">Contact Us</a></p>
+				
+			</td>
+			</tr>
+			</table>
+			{pageScript}
+			{googleMapScript}
+			
+			</td>
+			</tr><table width="770" cellpadding="5"  cellspacing="0">
+			 
+			             <tr>
+			               <td><p>&nbsp;
+			                </p>
+			               </td>
+			             </tr>
+			         </table>
+			</DIV>
+		
+		</div>
+
+</div>
+</div>
+</div>
+
+{FILE{footer}}
+         
+<script type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+
+</div>
+
+
+</body>
+</html>
+<!-- END: main -->
