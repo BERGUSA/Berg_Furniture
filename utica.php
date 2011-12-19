@@ -56,7 +56,7 @@
                             </div>
                             
                             <div class="prodTab">
-                            <a href="Mix_and_Match.php"><img src="img/Coll_pics/MnM.jpg" />
+                            <a href="mix_and_match.php"><img src="img/Coll_pics/MnM.jpg" />
                             <p><b>Mix &amp; Match</b><br/>Utica Loft &amp; Jr. Captain's Bed</p></a>
                             </div>
                            

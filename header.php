@@ -292,11 +292,11 @@
         
 
 			<li class="mega">
-				<h2><a href="/contact.php">CONTACT US</a></h2>
+				<h2><a href="contact.php">CONTACT US</a></h2>
 				<div id="menu3">
-					 <p><a href="/contact.php">General Questions</a><br />
+					 <p><a href="contact.php">General Questions</a><br />
 
-						<a href="/crib_contact.php">Crib Questions</a>
+						<a href="crib_contact.php">Crib Questions</a>
 					</p>
 				</div> 
 			</li>
@@ -304,9 +304,9 @@
 
        <div id="usa-icon">
 
-       		<a href="/made_usa.php">
+       		<a href="made_usa.php">
 
-       			<img src="/img/usa-icon.png" alt="made in usa" />
+       			<img src="img/usa-icon.png" alt="made in usa" />
 
        		</a>
 

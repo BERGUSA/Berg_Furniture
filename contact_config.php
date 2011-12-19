@@ -78,7 +78,7 @@ $msg .= "---Message--- \r\n".stripslashes($_POST['message'])."\r\n\n";  //the me
     echo "
    	<div class=\"MsgError\">
 		<h2>Error!!</h2>
-		<p>Sorry <b><?=$name;?></b>, your message failed to send. Try later!</p>
+		<p>Sorry <b><?=$name;?></b>, your message failed to send. Please try later!</p>
 	</div>";
 }
 
