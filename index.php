@@ -85,10 +85,10 @@
                         </div> 
 						-->
 						<!-- TAB3 -->
-					   <div id="tab3"><a href="factory_tour.php"></a>
+					   <div id="tab3"><a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho"></a>
                         	<div class="hidden">
-                            	<h2>Take a Tour!</h2> 
-                            	<p>See how our furniture gets made right here in the USA!</p>
+                            	<h2>What's new?</h2> 
+                            	<p>Our Transforming Bed!</p>
                         	</div>
                         </div>
                      </div>             
