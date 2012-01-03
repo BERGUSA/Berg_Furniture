@@ -13,7 +13,7 @@
                 
                <div class="prodContainer">
                		<div class="prodTitle"><style> .prodTitle p a:hover {color:#01adf7 ;}</style>
-                    	<p><a href="22_68.php">Platform Beds</a></p>
+                    	<p><a href="platform_beds.php">Platform Beds</a></p>
                     </div>
                  <div class="prodMain">
                         <div class="prodCont">

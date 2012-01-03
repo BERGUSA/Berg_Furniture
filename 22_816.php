@@ -15,7 +15,7 @@
                 
                <div class="prodContainer">
                		<div class="prodTitle">
-                    	<p><a href="/space_savers.psp">The Space Saver Collection</a></p>
+                    	<p><a href="space_savers.php">The Space Saver Collection</a></p>
                     </div>
                  <div class="prodMain">
                         <div class="prodCont">

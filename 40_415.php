@@ -15,7 +15,7 @@
                 
                <div class="prodContainer"> 
                		<div class="prodTitle"><style> .prodTitle p a:hover {color:#936 ;}</style>
-                    	<p><a href="Enterprise_Collection.php">The Enterprise Collection</a></p>
+                    	<p><a href="enterprise_collection.php">The Enterprise Collection</a></p>
                     </div>
                  <div class="prodMain">
                         <div class="prodCont">
