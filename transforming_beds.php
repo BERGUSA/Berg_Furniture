@@ -18,12 +18,15 @@
                  	
                	   				<img src="img/tb-concept.jpg" />
                                  <p style="padding:25px 0px 40px 20px; width:900px; margin:0 0 10px 20px; line-height:20px; font-family:'Times New Roman', Times, serif; text-align:left; border-bottom:thin #CCC solid; ">  
-                                    Berg's <b style="font-family:'Times New Roman', Times, serif;">Space Savers Collection</b> was the first in our line of storage efficient children's bedroom
+                                    
+                               <!-- 
+                                   	Berg's <b style="font-family:'Times New Roman', Times, serif;">Space Savers Collection</b> was the first in our line of storage efficient children's bedroom
                                     furniture. The collection was developed and designed as an answer to the space and storage issues that many
                                     of us share. Some of the products have been designed and re-designed during the years, thanks to feedback
                                     from consumers like you. The result is a great collection with many unique products. Space Savers are
                                     constructed the old fashioned way: good materials, high quality hardware and excellent workmanship. Berg is
                                     proud to offer you furniture made in the USA.
+                               -->
                                  </p>
                     	
                         <style> .CollTabs2 a:hover p{ background: #00B4E9; /* old browsers */

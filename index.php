@@ -15,8 +15,8 @@
 					    		<div class="slides">
                                     
                                      <!-- SLIDE 1 -->
-                                     <div><a href="78_14.php"><img src="img/slide_tb.jpg" 
-                                    	alt="Tranforming Bed View the 78-14 Twin Transforming Bed"/></a>
+                                     <div><a href="transforming_beds.php"><img src="img/slide_tb.jpg" 
+                                    	alt="View Twin Transforming Bed Collections"/></a>
 									</div>
 									
 									 <!-- SLIDE 2 -->
