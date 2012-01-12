@@ -15,21 +15,26 @@
 					    		<div class="slides">
                                     
                                      <!-- SLIDE 1 -->
+                                     <div><a href="78_14.php"><img src="img/slide_tb.jpg" 
+                                    	alt="Tranforming Bed View the 78-14 Twin Transforming Bed"/></a>
+									</div>
+									
+									 <!-- SLIDE 2 -->
                                      <div><a href="23_777.php"><img src="img/23-777_slide.jpg" 
                                     	alt="Utica Trifecta, Children's Furniture, View the 23-777 Kid's System Triple Twin"/></a>
 									</div>
                                      
-									<!-- SLIDE 2 -->
+									<!-- SLIDE 3 -->
 									<div><a href="91_74.php"><img src="img/slide4-june2.jpg" 
                                     	alt="Loft, USA, Bunkbed for children, 91-74 Play and Study"/></a>
 									</div>
                                        
-                                   <!-- SLIDE 3 -->
+                                   <!-- SLIDE 4 -->
                                     <div><a href="22_915.php"><img src="img/slide2-june2.jpg" 
                                     	alt="Captain's Bed, Kids, View the 22-915 Bedroom System"/></a>
 									</div>
                                     
-									<!-- SLIDE 4 -->
+									<!-- SLIDE 5 -->
 									<div><a href="22_825.php"><img src="img/slide3-june2.jpg" 
                                     	alt="Space Saver, Bunk Bed, this childrens bed is Made in America"/></a>
 									
@@ -44,6 +49,7 @@
 										<li><a href="#">2</a></li>
 										<li><a href="#">3</a></li>
 										<li><a href="#">4</a></li>
+										<li><a href="#">5</a></li>
 									</ul>
 									</div>
                               	<div class="hidden"><h2>Smart Bedroom Systems</h2><h3>Innovative Environments for the Growing Child</h3></div>

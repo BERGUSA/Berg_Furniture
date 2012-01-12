@@ -166,6 +166,18 @@
 							</p> 
 
                          <br />
+                         
+                         <a href="/transforming_bed.php"><img src="/img/images/furn_icon_12.png" alt="Transforming Beds" style="margin-top:-5px; width:60px; padding-bottom: 7px;" /></a>
+
+                         <h3><a href="/transforming_bed.php">Transforming Beds</a></h3>
+
+							 <p>
+
+								 <a href="/78-14.php">78-14</a>
+
+							</p> 
+
+                         <br />
 
 
                         <!---  Case Goods-->
@@ -208,9 +220,9 @@
 
 							<p>
 
-								<a style="color:grey" href="/discontinued.php#cribsanchor">Nursery</a><br />
+								<a style="color:grey" href="/discontinued.php#cribsanchor">Nursery</a>,
 
-								<a style="color:grey" href="/discontinued.php#osloanchor">Oslo Collection</a><br />
+								<a style="color:grey" href="/discontinued.php#osloanchor">Oslo Collection</a>,
 
 								<a style="color:grey" href="/discontinued.php#otherModels">Other</a>
 

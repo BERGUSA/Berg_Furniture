@@ -101,7 +101,6 @@
                                   <li><a href="22_808.php"><b>22-808</b> Space Saver Twin Loft</a></li>
                                   <li><a href="23_835.php"><b>23-835</b> Utica Dorm Loft</a></li>
                                   <li><a href="91_76.php"><b>91-76</b> Play &amp Study</a></li>
-                                  <li><a href="40_830.php"><b>40-830</b> Enterprise Twin</a></li>
                                   
                               </ul>
                       </div>

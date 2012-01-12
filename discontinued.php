@@ -16,8 +16,8 @@
                  
                	<div id="discMenu">
 					<h2><a href="#cribsanchor">Cribs</a></h2>
-					<h2><a href="#otherModels">Oslo Collection</a></h2>
-					<h2><a href="#osloanchor">Other Models</a></h2>   
+					<h2><a href="#osloanchor">Oslo Collection</a></h2>
+					<h2><a href="#otherModels">Other Models</a></h2>   
                 </div>
 				
 				<div style="padding:10px 30px 10px 25px; margin:10px 37px 0 40px; text-align:left;  font-size:16px; color:#000; background-color:#eee; border: 2px #ddd solid; clear:both;">
@@ -250,7 +250,7 @@
 					
 					<div class="CollTabs2">
 			
-						<h2 id="otherModels">Oslo Collection</h2>
+						<h2 id="osloanchor">Oslo Collection</h2>
 					
 							<div  class="discTab">
 								<img src="img/discontinued/oslo1.jpg"  />
@@ -345,7 +345,7 @@
                     
                     <div class="CollTabs2">
 					
-					<h2 id="osloanchor">Other Models</h2>
+					<h2 id="otherModels">Other Models</h2>
 					
 						<div  class="discTab">
 								<img src="img/discontinued/90-05-discontinued.jpg"  />
