@@ -16,11 +16,11 @@
                                     
                                      <!-- SLIDE 1 -->
                                      <div><a href="transforming_beds.php"><img src="img/slide_tb.jpg" 
-                                    	alt="View Twin Transforming Bed Collections"/></a>
+                                    	alt="View Transforming Bed Collection"/></a>
 									</div>
 									
 									 <!-- SLIDE 2 -->
-                                     <div><a href="23_777.php"><img src="img/23-777_slide_2012.jpg" 
+                                     <div><a href="23_777.php"><img src="img/23-777_slide_2012.jpg"
                                     	alt="Utica Trifecta, Children's Furniture, View the 23-777 Kid's System Triple Twin"/></a>
 									</div>
                                      
@@ -33,6 +33,8 @@
                                     <div><a href="22_915.php"><img src="img/slide2-june2.jpg" 
                                     	alt="Captain's Bed, Kids, View the 22-915 Bedroom System"/></a>
 									</div>
+									
+								
                                     
 									<!-- SLIDE 5 -->
 									<div><a href="22_825.php"><img src="img/slide3-june2.jpg" 
@@ -88,7 +90,7 @@
                       -->
                        
 						<!-- SHELF PROMO TAB -->
-						 <div id="tab2"><a title="Free Shelf Promo!" href="promotions.php" >Now till February 5th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
+						 <div id="tab2"><a title="Free Shelf Promo!" href="Promotions.php" >Now till February 5th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
                         	<div class="hidden">
                             	<h2>Free Shelf Promotion Winter 2012 Berg Furniture</h2>
                             	<p>Click here to view the coupon promotion and for more details</p>
