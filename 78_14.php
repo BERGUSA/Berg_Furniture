@@ -81,7 +81,7 @@
                                 	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for one person." />
                               
                               <a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho">
-                             <img src="img/images/icons/youtube.png" img title="Click to view a youtube video on this model!">
+                             <img src="img/images/icons/youtube.png" img title="Click to view a YouTube video on this model!">
                                 </a>
                              
                              <img src="img/images/icons/twin.png" 
