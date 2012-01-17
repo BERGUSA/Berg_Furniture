@@ -21,7 +21,7 @@
                                     
                                
                                    	Berg's <b style="font-family:'Times New Roman', Times, serif;">Transforming Bed Collection</b>
-                                    is our brand new collection that maximises the amount of space in a room. This versatile 
+                                    is our brand new collection that maximizes the amount of space in a room. This versatile 
                                     piece of furniture is geared towards the mature child, 
                                     college students, those with small apartments, and the combination office and guest room.
                                     It does not require any anchoring to the floors and walls. All models are equipped with levelers, LED
