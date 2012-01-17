@@ -1,12 +1,12 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | Transforming Bed | 78&ndash;14</title>
+<title>Berg Furniture | Transforming Bed | 78&ndash;12</title>
 
 </head>
 	<body>
     	<div id="outside_container">
 
                 <div class="simple_overlay" id="dimensions">
-                     <img src="img/MainProdPics/78-14_dim.png" />
+                     <img src="img/78-14_dim.png" />
                 </div>
 
 
@@ -25,11 +25,13 @@
                         <div class="prodCont"><style> .prodTitle p a:hover {color:#0b90a3 ;}</style>
                         		<h2>Twin</h2><h3>#78-14</h3>
                                 <br />
-                                <p> The Twin Transforming Bed has, along with our standard features of our Transforming Bed
-                                	Collection, a large hutch with two cubbies and two cabinets. Most appropriate for the combination home
-                                	office and guest room or the small college apartment.
+                                <p> 
+                                	The Twin over Twin Transforming Bed adds another bed plus more to the <a href="78_14.php">Twin Transforming Bed</a>.
+                                	This particular model is equipped with the Berg Signature Staircase: a staircase with extra deep
+                                	drawers, non-slip treads, storage cubbies, and comfortable handrail. Other storage compartments are also
+                                	located behind the bottom desk and accessible in the bed position.
+                                	This model is also able to use one of our popular <a href="case_goods.php#row5">Hanging Bookshelves (23-13)</a> on the top bunk.
                                   	Fits a standard size twin mattress, which should not exceed 8” in thickness. <br/>
-									Currently available in our Chestnut and Nutmeg finishes.
 									
                                 </p>
                                 <br />
@@ -37,7 +39,8 @@
                                 <ul>
                                     <li>Automatic Locking Mechanism</li>
                                     <li>LED lighting</li>
-                                    <li>Free Standing</li>
+                                    <li>Two Twin Beds</li>
+                                    <li>The Berg Signature Staircase</li>
                                     
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
@@ -48,8 +51,8 @@
                                 <br />
                                 <a href="#" rel="#knobs_tb">Click for Knob Options&nbsp;&gt;&gt;</a><br />
                                 <a href="#" rel="#finishes_tb">Click for Finish Options&nbsp;&gt;&gt;</a></br >
-                                <a href="#" rel="#dimensions">Click for Extra Dimensions&nbsp;&gt;&gt;</a></br >
-				<!--			<a href="#" rel="#accents">Click for Accent Options&nbsp;&gt;&gt;</a>
+                  <!--          <a href="#" rel="#dimensions">Click for Extra Dimensions&nbsp;&gt;&gt;</a></br >
+				    			<a href="#" rel="#accents">Click for Accent Options&nbsp;&gt;&gt;</a>
 					
 				-->	
                         </div>
@@ -61,11 +64,11 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
-                                    	<img src="img/MainProdPics/78-14A_t.jpg" 
-                                        title="Shown in Nutmeg; <b><i>Desk Position</b> Bronze Knobs</i>"/>
+                                    	<img src="img/MainProdPics/78-12_desk_t.jpg" 
+                                        title="Preliminary Illustration; <b><i>Desk Position</b></i>"/>
                                         
-                                        <img src="img/MainProdPics/78-14B_t.jpg" 
-                                        title="Shown in Chestnut; <b><i>Bed Position</b> with Copper Knobs</i>"/>
+                                        <img src="img/MainProdPics/78-12_t.jpg" 
+                                        title="Preliminary Illustration; <b><i>Bed Position</b></i>"/>
                                       
                                        
                                        
@@ -77,12 +80,10 @@
                       <div id="iconBar">
                             
                          <div id="icons">
-                           	 <img src="img/images/icons/1.png" 
-                                	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for one person." />
+                           	 <img src="img/images/icons/2.png" 
+                                	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two people." />
                               
-                              <a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho">
-                             <img src="img/images/icons/youtube.png" img title="Click to view a youtube video on this model!">
-                                </a>
+                             
                              
                              <img src="img/images/icons/twin.png" 
                                 title="<h4>Twin Bed</h4><br />The frame on this furniture set is built to support a twin 	
@@ -92,7 +93,7 @@
                               <img src="img/images/icons/desk1.png" 
                                 title="<h4>Desk</h4><br />A 75x24 inch desk is included with a surge protector." />  			 			 
                                 			 
-                               			 
+                                			 
                                 			 
                                 			 
                                 			 
@@ -108,8 +109,9 @@
                         <div id="thisColl"><b><a href="/jr_captains_bed.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><b>22-950</b> Twin Transforming Bed</li>
-                              <li><!--<a href="78_12.php">--><b>COMING SOON!</b> Transforming Bunk Bed Twin/Twin</a></li>
+                          		  <li><a href="78_14.php"><b>78-14</b> Twin Transforming Bed</a></li>
+                                  <li style="display:block; background-color: #0b90a3;color:#000;"><b>78-12</b> Twin over Twin Transforming Bed</li>
+                              
                               <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming Bed</a></li>
                                   <br/>        
                                   <br />

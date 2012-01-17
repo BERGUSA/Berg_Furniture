@@ -20,7 +20,7 @@
 									</div>
 									
 									 <!-- SLIDE 2 -->
-                                     <div><a href="23_777.php"><img src="img/23-777_slide.jpg" 
+                                     <div><a href="23_777.php"><img src="img/23-777_slide_2012.jpg" 
                                     	alt="Utica Trifecta, Children's Furniture, View the 23-777 Kid's System Triple Twin"/></a>
 									</div>
                                      
@@ -61,7 +61,7 @@
                     
 					<div id="tabs"> <!--The three bottom tabs under the slide show -->
                         
-						<!-- TAB1-->
+						<!-- TAB Room Ideas-->
 						<div id="tab1">
                         	<a href="room_ideas.php">
 							
@@ -74,7 +74,9 @@
 							<div class="hidden"><h2>Get Inspired by our new room ideas!</h2></div>
                         </div>
 						
-					<!-- TAB2 -->
+					<!-- TAB Facebook -->
+					   
+					   <!--
 					   
 					   <div id="tab2"><a title="Join Us on Facebook!" href="http://www.facebook.com/home.php?#/pages/Barrington-NJ/Berg-Furniture/251098782140?ref=nf" target="_blank" onClick="javascript: pageTracker._trackPageview("/G1/facebook.com");" >Berg Furniture on Facebook</a>
                         	<div class="hidden">
@@ -82,15 +84,18 @@
                             	<p>For the latest news, pictures, and information.</p>
                         	</div>
                        </div> 
-						<!-- REMOVE SHELF PROMO TAB
-						 <div id="tab2"><a title="Free Shelf Promo!" href="/promotions.php" >June 9th to 30th Free Shelf Coupon Promotion Berg Furniture</a>
+                       
+                      -->
+                       
+						<!-- SHELF PROMO TAB -->
+						 <div id="tab2"><a title="Free Shelf Promo!" href="promotions.php" >Now till February 5th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
                         	<div class="hidden">
-                            	<h2>Free Shelf Promotion June 2011 Berg Furniture</h2>
+                            	<h2>Free Shelf Promotion Winter 2012 Berg Furniture</h2>
                             	<p>Click here to view the coupon promotion and for more details</p>
                         	</div> 
                         </div> 
-						-->
-						<!-- TAB3 -->
+                        
+						<!-- TAB Transforming Bed -->
 					   <div id="tab3"><a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho"></a>
                         	<div class="hidden">
                             	<h2>What's new?</h2> 

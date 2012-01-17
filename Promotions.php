@@ -1,17 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<?php include 'head.php'; ?>
 <title>Berg Furniture | Promotions</title>
-<meta name="description" content="Berg Furniture offers a wide variety of innovative American made children's furniture. Our Collections are fresh, unique, colorful, exciting and made in the USA." />
-<meta name="keywords" content="Berg, Furniture, Children, Beds, Innovative, Systems, Bedroom, Smart, Loft, USA, America" />
-<link href="Berg_Furniture_Online/css/style.css" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="/Berg_Furniture_Online/img/favicon.ico" type="image/x-icon" />
-<link rel="icon" href="/Berg_Furniture_Online/img/favicon.ico" type="image/x-icon" />
-
-<!--[if lt IE 7]>
-        <script type="text/javascript" src="js/unitpngfix.js"></script>
-<![endif]--> 
+</head>
 
 <script type="text/javascript" src="Berg_Furniture_Online/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="Berg_Furniture_Online/js/jquery.tools.js"></script>
@@ -98,11 +87,9 @@ pageTracker._trackPageview();
            
             <div class="container">
                 
-                <!--#include file="header_new.asp" -->
                 
                <div class="prodContainer">
                		<div class="prodTitle">
-                    	<p>Free Hanging Shelf Promotion</p>
                     </div>
                  	<div class="prodMain">
                     	<div style="margin:20px;">                      
@@ -111,8 +98,10 @@ pageTracker._trackPageview();
 										value="Click Here to Print out this Coupon!"
 							/>
 						</div>
-						<img src="Berg_Furniture_Online/img/Shelf-Coupon_6-2011-web.jpg" alt="Berg Furniture Free Shelf Coupon June 6 to July 4 Promotion" title="Berg Furniture Free Shelf Coupon!!!" />
-                        <div style="margin:20px;">                      
+						<img src="img/Shelf-Coupon-1big.jpg" alt="Berg Furniture Free Shelf Coupon Now to February 5th Promotion" title="Berg Furniture Free Shelf Coupon!!!" />
+                        <div style="margin:20px;">  
+                        	
+                        	                    
 							<input type="button" 
 										onClick="pageTracker._trackEvent('Coupons', 'Print', 'Free Shelf'); window.print();"  
 										value="Click Here to Print out this Coupon!" 

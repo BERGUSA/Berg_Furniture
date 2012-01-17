@@ -16,7 +16,7 @@
           <li><a href="case_goods.php#row4">Bookcases</a></li>
           <li><a href="case_goods.php#row5">Trundle</a></li>
           <li><a href="case_goods.php#row5">Under-bed Drawers</a></li>
-          <li><a href="case_goods.php#row6">Shelves</a></li>
+          <li><a href="case_goods.php#row5">Shelves</a></li>
           
       </ul>
  </div>
