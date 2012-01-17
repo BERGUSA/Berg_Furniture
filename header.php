@@ -167,13 +167,13 @@
 
                          <br />
                          
-                         <a href="/transforming_bed.php"><img src="/img/images/furn_icon_12.png" alt="Transforming Beds" style="margin-top:-5px; width:60px; padding-bottom: 7px;" /></a>
+                         <a href="/transforming_beds.php"><img src="/img/images/furn_icon_12.png" alt="Transforming Beds" style="margin-top:-5px; width:60px; padding-bottom: 7px;" /></a>
 
-                         <h3><a href="/transforming_bed.php">Transforming Beds</a></h3>
+                         <h3><a href="/transforming_beds.php">Transforming Beds</a></h3>
 
 							 <p>
 
-								 <a href="/78-14.php">78-14</a>
+								 <a href="/78_14.php">78-14</a>
 
 							</p> 
 
