@@ -38,6 +38,7 @@
                                     <li>Automatic Locking Mechanism</li>
                                     <li>LED lighting</li>
                                     <li>Free Standing</li>
+                                    <li>All the features of the <a href="transforming_beds.php">Transforming Bed Collection</a></li>
                                     
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
@@ -115,11 +116,11 @@
                    </div>
                     <div class="prodFtr">
                     	<style> #thisColl a:hover {color:#0b90a3;}</style>
-                        <div id="thisColl"><b><a href="/jr_captains_bed.php">All Transforming Beds</a></b>
+                        <div id="thisColl"><b><a href="/transforming_beds.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
                                   <li style="display:block; background-color: #0b90a3;color:#000;"><b>78-14</b> Twin Transforming Bed</li>
-                              <li><!--<a href="78_12.php">--><b>COMING SOON!</b> Transforming Bunk Bed Twin/Twin</a></li>
+                              <li><a href="78_12.php"><b>COMING SOON!</b> Transforming Bunk Bed Twin/Twin</a></li>
                               <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming Bed</a></li>
                                   <br/>        
                                   <br />

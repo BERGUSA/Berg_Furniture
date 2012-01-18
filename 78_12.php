@@ -23,7 +23,7 @@
                     </div>
                  <div class="prodMain">
                         <div class="prodCont"><style> .prodTitle p a:hover {color:#0b90a3 ;}</style>
-                        		<h2>Twin</h2><h3>#78-14</h3>
+                        		<h2>COMING SOON! Twin over Twin</h2><h3>#78-12</h3>
                                 <br />
                                 <p> 
                                 	The Twin over Twin Transforming Bed adds another bed plus more to the <a href="78_14.php">Twin Transforming Bed</a>.
@@ -31,30 +31,35 @@
                                 	drawers, non-slip treads, storage cubbies, and comfortable handrail. Other storage compartments are also
                                 	located behind the bottom desk and accessible in the bed position.
                                 	This model is also able to use one of our popular <a href="case_goods.php#row5">Hanging Bookshelves (23-13)</a> on the top bunk.
-                                  	Fits a standard size twin mattress, which should not exceed 8” in thickness. <br/>
+                                  	<br/>
 									
                                 </p>
                                 <br />
                                 <h3>Features</h3>
                                 <ul>
+                                	<li>All the features of the <a href="transforming_beds.php">Transforming Bed Collection</a></li>
                                     <li>Automatic Locking Mechanism</li>
-                                    <li>LED lighting</li>
                                     <li>Two Twin Beds</li>
                                     <li>The Berg Signature Staircase</li>
                                     
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
                                     <div style="top:21px; left: 5px;">72"H</div>
-                                    <div style="top:40px; left: 40px;">44"D</div>
-                                    <div style="top:77px; left: 70px;">83"L</div>
+                                    <div style="top:40px; left: 40px;">59"D</div>
+                                    <div style="top:77px; left: 70px;">102"L</div>
                                 </div>
                                 <br />
-                                <a href="#" rel="#knobs_tb">Click for Knob Options&nbsp;&gt;&gt;</a><br />
+                                Knob options,
+                                Finish options,
+                                Extra<br> dimensions,
+				    			and Accent <br>options to come soon!
+				    			
+				    <!--		<a href="#" rel="#knobs_tb">Click for Knob Options&nbsp;&gt;&gt;</a><br />
                                 <a href="#" rel="#finishes_tb">Click for Finish Options&nbsp;&gt;&gt;</a></br >
-                  <!--          <a href="#" rel="#dimensions">Click for Extra Dimensions&nbsp;&gt;&gt;</a></br >
+                                <a href="#" rel="#dimensions">Click for Extra Dimensions&nbsp;&gt;&gt;</a></br >
 				    			<a href="#" rel="#accents">Click for Accent Options&nbsp;&gt;&gt;</a>
+					-->
 					
-				-->	
                         </div>
                    <div class="prodShow">
                    	 <div class="imgWrap">
@@ -81,13 +86,15 @@
                             
                          <div id="icons">
                            	 <img src="img/images/icons/2.png" 
-                                	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two people." />
+                                	title="<h4>Two Beds</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two people." />
                               
-                             
+                             <a href="http://youtu.be/G56f6qhotBU">
+                             <img src="img/images/icons/youtube.png" img title="Click to view a YouTube video on this model!">
+                                </a>
                              
                              <img src="img/images/icons/twin.png" 
-                                title="<h4>Twin Bed</h4><br />The frame on this furniture set is built to support a twin 	
-                                			 sized bed. Mattress not included." />
+                                title="<h4>Twin Beds</h4><br />The top bed fits an 80 inch standard twin long mattress. The bottom bed fits a standard twin mattress which should
+                                	not exceed 8 inches in thickness." />
                                 			 
                              
                               <img src="img/images/icons/desk1.png" 
@@ -106,18 +113,19 @@
                    </div>
                     <div class="prodFtr">
                     	<style> #thisColl a:hover {color:#0b90a3;}</style>
-                        <div id="thisColl"><b><a href="/jr_captains_bed.php">All Transforming Beds</a></b>
+                        <div id="thisColl"><b><a href="/transforming_beds.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
                           		  <li><a href="78_14.php"><b>78-14</b> Twin Transforming Bed</a></li>
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><b>78-12</b> Twin over Twin Transforming Bed</li>
+                          		                            		 
+                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> <b>COMING SOON!</b> Twin over Twin Transforming Bed</a></li>
                               
                               <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming Bed</a></li>
                                   <br/>        
                                   <br />
                               </ul>
                         </div>
-                        <div id="similarItems"><b>You Might Also Like:</b>
+                     <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
                               	
