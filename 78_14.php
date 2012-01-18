@@ -70,8 +70,11 @@
                                         <img src="img/MainProdPics/78-14C_t.jpg" 
                                         title="Shown in Chestnut; <b><i>Features</b> deep cabinets, automatic locking mechanism, LED lighting with light switch, handle.</i>"/>
                                       
+                                        <img src="img/MainProdPics/78-14D_t.jpg" 
+                                        title="Shown in Chestnut; <b>Feature</b> <i>one of four levelers.</i>"/>
+                                      
                                         <img src="img/MainProdPics/78-14E_t.jpg" 
-                                        title="Shown in Nutmeg; <b><i>Bed Position</b> with Bronze Knobs</i>"/>
+                                        title="Shown in Nutmeg; <b>Bed Position</b> <i>with Bronze Knobs</i>"/>
                                        
                                     </div>
                                 </div>
