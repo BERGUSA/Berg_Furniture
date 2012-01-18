@@ -89,7 +89,7 @@
                                 	title="<h4>Two Beds</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two people." />
                               
                              <a href="http://youtu.be/G56f6qhotBU">
-                             <img src="img/images/icons/youtube.png" img title="Click to view a YouTube video on this model!">
+                             <img src="img/images/icons/youtube.png" img title="Click to view a YouTube video on our prototype from our latest tradeshow!">
                                 </a>
                              
                              <img src="img/images/icons/twin.png" 
@@ -98,7 +98,7 @@
                                 			 
                              
                               <img src="img/images/icons/desk1.png" 
-                                title="<h4>Desk</h4><br />A 75x24 inch desk is included with a surge protector." />  			 			 
+                                title="<h4>Desk</h4><br />A 75x24 inch desk, enough space for two people, is included with a surge protector." />  			 			 
                                 			 
                                 			 
                                 			 
