@@ -75,6 +75,9 @@
                                       
                                         <img src="img/MainProdPics/78-14E_t.jpg" 
                                         title="Shown in Nutmeg; <b>Bed Position</b> <i>with Bronze Knobs</i>"/>
+                                        
+                                        <img src="img/MainProdPics/78-14E_t.jpg" 
+                                        title="Shown in Nutmeg; <b>Bed Position</b> <i>with Bronze Knobs</i>"/>
                                        
                                     </div>
                                 </div>
