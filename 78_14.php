@@ -66,8 +66,12 @@
                                         
                                         <img src="img/MainProdPics/78-14B_t.jpg" 
                                         title="Shown in Chestnut; <b><i>Bed Position</b> with Copper Knobs</i>"/>
+                                        
+                                        <img src="img/MainProdPics/78-14C_t.jpg" 
+                                        title="Shown in Chestnut; <b><i>Features</b> deep cabinets, automatic locking mechanism, LED lighting with light switch, handle.</i>"/>
                                       
-                                       
+                                        <img src="img/MainProdPics/78-14E_t.jpg" 
+                                        title="Shown in Nutmeg; <b><i>Bed Position</b> with Bronze Knobs</i>"/>
                                        
                                     </div>
                                 </div>
