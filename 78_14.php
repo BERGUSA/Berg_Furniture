@@ -1,5 +1,5 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | Transforming Bed | 78&ndash;14</title>
+<title>Berg Furniture | Transforming System | 78&ndash;14</title>
 
 </head>
 	<body>
@@ -19,26 +19,27 @@
                 
                <div class="prodContainer"> 
                		<div class="prodTitle">
-                    	<p><a href="transforming_beds.php">The Transforming Bed Collection </a></p>
+                    	<p><a href="transforming_beds.php">The Metropolitan Line </a></p>
                     </div>
                  <div class="prodMain">
                         <div class="prodCont"><style> .prodTitle p a:hover {color:#0b90a3 ;}</style>
-                        		<h2>Twin</h2><h3>#78-14</h3>
+                        		<h2>Desk with Twin Bed</h2><h3>#78-14</h3>
                                 <br />
-                                <p> The Twin Transforming Bed has, along with our standard features of our Transforming Bed
-                                	Collection, a large hutch with two cubbies and two cabinets. Most appropriate for the combination home
-                                	office and guest room or the small college apartment.
-                                  	Fits a standard size twin mattress, which should not exceed 8” in thickness. <br/>
+                                <p> One of the first additions to our Metropolitan Line, the Twin Transforming
+                                	Unit was designed to be league of it's own. Along with the
+                                	features of the Transforming System line, this particular
+                                	model has a large hutch with four deep storage compartments
+                                	and built in LED lighting. <br/>
 									Currently available in our Chestnut and Nutmeg finishes.
 									
                                 </p>
                                 <br />
                                 <h3>Features</h3>
                                 <ul>
-                                    <li>Automatic Locking Mechanism</li>
+                                    <li>All the features of the <a href="transforming_beds.php">Transforming System Collection</a></li>
+                                    <li>Large Hutch</li>
                                     <li>LED lighting</li>
-                                    <li>Free Standing</li>
-                                    <li>All the features of the <a href="transforming_beds.php">Transforming Bed Collection</a></li>
+                                    
                                     
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
@@ -62,6 +63,10 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
+                                		
+                                		<img src="img/MainProdPics/78-14F_t.jpg" 
+                                        title="Shown in Nutmeg; <b><i>Desk Position</b> Bronze Knobs</i>"/>
+                                		
                                     	<img src="img/MainProdPics/78-14A_t.jpg" 
                                         title="Shown in Nutmeg; <b><i>Desk Position</b> Bronze Knobs</i>"/>
                                         
@@ -92,12 +97,12 @@
                                 	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for one person." />
                               
                               <a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho">
-                             <img src="img/images/icons/youtube.png" img title="Click to view a YouTube video on this model!">
+                             <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4>Click to view a YouTube video on this model!">
                                 </a>
                              
                              <img src="img/images/icons/twin.png" 
                                 title="<h4>Twin Bed</h4><br />The frame on this furniture set is built to support a twin 	
-                                			 sized bed. Mattress not included." />
+                                			 mattress. Mattress not included." />
                                 			 
                              
                               <img src="img/images/icons/desk1.png" 
@@ -119,9 +124,9 @@
                         <div id="thisColl"><b><a href="/transforming_beds.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><b>78-14</b> Twin Transforming Bed</li>
-                              <li><a href="78_12.php"><b>COMING SOON!</b> Transforming Bunk Bed Twin/Twin</a></li>
-                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming Bed</a></li>
+                                  <li style="display:block; background-color: #0b90a3;color:#000;"><b>78-14</b> Twin Transforming System</li>
+                              <li><a href="78_12.php"><b>COMING SOON!</b> Transforming Bunk System Twin/Twin</a></li>
+                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming System</a></li>
                                   <br/>        
                                   <br />
                               </ul>

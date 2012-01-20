@@ -1,5 +1,5 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | Transforming Bed | 78&ndash;12</title>
+<title>Berg Furniture | Transforming Systems | 78&ndash;12</title>
 
 </head>
 	<body>
@@ -19,27 +19,26 @@
                 
                <div class="prodContainer"> 
                		<div class="prodTitle">
-                    	<p><a href="transforming_beds.php">The Transforming Bed Collection </a></p>
+                    	<p><a href="transforming_beds.php">The Metropolitan Line </a></p>
                     </div>
                  <div class="prodMain">
                         <div class="prodCont"><style> .prodTitle p a:hover {color:#0b90a3 ;}</style>
-                        		<h2>COMING SOON! Twin over Twin</h2><h3>#78-12</h3>
+                        		<h2>COMING SOON! Twin XL over Twin with Desk</h2><h3>#78-12</h3>
                                 <br />
                                 <p> 
-                                	The Twin over Twin Transforming Bed adds another bed plus more to the <a href="78_14.php">Twin Transforming Bed</a>.
-                                	This particular model is equipped with the Berg Signature Staircase: a staircase with extra deep
-                                	drawers, non-slip treads, storage cubbies, and comfortable handrail. Other storage compartments are also
-                                	located behind the bottom desk and accessible in the bed position.
-                                	This model is also able to use one of our popular <a href="case_goods.php#row5">Hanging Bookshelves (23-13)</a> on the top bunk.
+                                	Of the Transforming System line, this one sleeps two and offers a significant amount of
+                                	storage! The Berg Signature Staircase
+                                	contributes five deep drawers and three cubbies. Behind the desk and accessable in the bed
+                                	position, is an 80" long hanging bookshelf to store your books and knick-knacks!
                                   	<br/>
 									
                                 </p>
                                 <br />
                                 <h3>Features</h3>
                                 <ul>
-                                	<li>All the features of the <a href="transforming_beds.php">Transforming Bed Collection</a></li>
-                                    <li>Automatic Locking Mechanism</li>
-                                    <li>Two Twin Beds</li>
+                                	<li>All the features of the <a href="transforming_beds.php">Transforming Bed Line</a></li>
+                                    <li>Two Bed Frames</li>
+                                    <li>Space for Hanging Bookshelves</li>
                                     <li>The Berg Signature Staircase</li>
                                     
                                 </ul>
@@ -89,16 +88,16 @@
                                 	title="<h4>Two Beds</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two people." />
                               
                              <a href="http://youtu.be/G56f6qhotBU">
-                             <img src="img/images/icons/youtube.png" img title="Click to view a YouTube video on our prototype from our latest tradeshow!">
+                             <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4>Click to view a YouTube video on our prototype from our latest tradeshow!">
                                 </a>
                              
                              <img src="img/images/icons/twin.png" 
-                                title="<h4>Twin Beds</h4><br />The top bed fits an 80 inch standard twin long mattress. The bottom bed fits a standard twin mattress which should
-                                	not exceed 8 inches in thickness." />
+                                title="<h4>Twin Beds</h4><br />The top bed fits a twin extra long mattress and the bottom bed fits a standard twin mattress which should
+                                	not exceed 8 inches in thickness. Mattress not included." />
                                 			 
                              
                               <img src="img/images/icons/desk1.png" 
-                                title="<h4>Desk</h4><br />A 75x24 inch desk, enough space for two people, is included with a surge protector." />  			 			 
+                                title="<h4>Desk</h4><br />A 75x24 inch desk is included with a surge protector. If needed, it can comfortable fit two people working." />  			 			 
                                 			 
                                 			 
                                 			 
@@ -116,11 +115,11 @@
                         <div id="thisColl"><b><a href="/transforming_beds.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
-                          		  <li><a href="78_14.php"><b>78-14</b> Twin Transforming Bed</a></li>
+                          		  <li><a href="78_14.php"><b>78-14</b> Twin Transforming System</a></li>
                           		                            		 
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> <b>COMING SOON!</b> Twin over Twin Transforming Bed</a></li>
+                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> <b>COMING SOON!</b> Twin/Twin Transforming System</a></li>
                               
-                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming Bed</a></li>
+                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming System</a></li>
                                   <br/>        
                                   <br />
                               </ul>

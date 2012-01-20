@@ -1,5 +1,5 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | The Transforming Bed Collection</title>
+<title>Berg Furniture | The Metropolitan Line</title>
 
 </head>
 	<body>
@@ -11,7 +11,7 @@
                 
                <div class="prodContainer">
                		<div class="prodTitle">
-                    	<p>The Transforming Bed Collection</p>
+                    	<p>The Metropolitan Line</p>
                     </div>
                  <div class="prodMain">
                  	<br/>
@@ -20,12 +20,13 @@
                                  <p style="padding:25px 0px 40px 20px; width:900px; margin:0 0 10px 20px; line-height:20px; font-family:'Times New Roman', Times, serif; text-align:left; border-bottom:thin #CCC solid; ">  
                                     
                                
-                                   	Berg Furniture's <b style="font-family:'Times New Roman', Times, serif;">Transforming Bed Collection</b>
-                                    is our brand new line of efficient and intelligent furniture to utilize your space. This versatile 
-                                    piece of furniture is geared towards the mature child, 
-                                    college students, those with small apartments, and the combination office and guest room.
-                                    It is a free standing unit and does not require any anchoring to the floors and walls. All models are equipped with levelers,
-                                    automatic locking mechanism, and sizable desk outfitted with surge protector. Some models are also equipped with LED lighting.
+                                   	Berg Furniture's <b style="font-family:'Times New Roman', Times, serif;">Metropolitan Line</b>
+                                    is currently featuring the Transforming Systems. These units are an innovative way to utilize your space. 
+                                    The systems are versatile and feature a bed concealed behind a spacious desk. It easily converts without 
+                                    taking up any extra space. They are perfect for the mature child, college students, those with small 
+                                    apartments, and especially for your home office and guest room. They are free standing units that do 
+                                    not require any anchoring to the floors or walls and convert in seconds. <i style="font-family:'Times New Roman', Times, serif;">
+                                    All models are equipped with levelers, an automatic locking mechanism, and a sizable desk outfitted with a surge protector.</i>
                                
                                  </p>
                     	
@@ -40,12 +41,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00B4E9', end
                         <div class="CollTabs2">
                             <div class="prodTab">
                             <a href="78_14.php"><img src="img/Coll_pics/78-14.jpg" />
-                            <p><b>78-14</b><br/>Twin</p></a>
+                            <p><b>78-14</b><br/>Desk with Twin</p></a>
                             </div>
                             
                     	<div class="prodTab">
                             <a href="78_12.php"> <img src="img/Coll_pics/78-12.jpg" />
-                            <p><b>COMING SOON! 78-12</b><br/> Twin over Twin with Desk</p></a>
+                            <p><b>COMING SOON! 78-12</b><br/> Desk witt Twin and Twin XL Loft</p></a>
                             </div>
                             
                       <!-- <div class="prodTab">

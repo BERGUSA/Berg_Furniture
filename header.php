@@ -36,7 +36,7 @@
 
                 <div id="menu1"> <!-- First column -->
 
-                	<div style="border-right: #CCC 2px solid; float: left; width: 200px; padding-right: 40px; margin-top:10px; margin-bottom:10px;">
+                	<div style="float: left; width: 200px; padding-right: 40px; margin-top:10px; margin-bottom:10px;">
 
                           <a href="/space_savers.php"><img src="/img/images/furn_icon_01.png" alt="Space Savers"/></a>
 
@@ -114,7 +114,13 @@
 
                         </p>
 
-						<a href="/enterprise_collection.php"><img src="/img/images/furn_icon_03.png" style="margin-top:10px;" alt="Enterprise"/></a>
+                   </div>
+
+                   
+
+                   <div style="border: #CCC, 0 2px 0 2px, solid; float: left; padding-left: 40px; width: 200px; margin-top:10px;"><!-- Second Column -->
+                   	
+                   		<a href="/enterprise_collection.php"><img src="/img/images/furn_icon_03.png" style="margin-top:10px;" alt="Enterprise"/></a>
 
                          <h3><a style="padding-top:10px;" href="/enterprise_collection.php">Enterprise</a></h3>
 
@@ -128,12 +134,6 @@
 
 
                          </p>
-
-                   </div>
-
-                   
-
-                   <div style="float:left; padding-left: 40px; width: 200px; margin-top:10px;"><!-- Second Column -->
 
                          <a href="/utica.php"><img src="/img/images/furn_icon_04.png" alt="Utica" style="width:60px;"/></a>
 
@@ -169,16 +169,23 @@
                          
                          <a href="/transforming_beds.php"><img src="/img/images/furn_icon_12.png" alt="Transforming Beds" style="margin-top:-5px; width:60px; padding-bottom: 7px;" /></a>
 
-                         <h3><a href="/transforming_beds.php">Transforming Beds</a></h3>
+                         <h3><a href="/transforming_beds.php">Metropolitan</a></h3>
 
 							 <p>
+							 	<a style="color:grey" href="/transforming_beds.php">Transforming Systems</a>:
 
-								 <a href="/78_14.php">78-14</a>
+								<a href="/78_14.php">78-14</a>
+							 	
+							 	<a href="/78_12.php">78-12</a>
+
+
 
 							</p> 
 
-                         <br />
+                         <br />                        		     
 
+					</div>
+                   <div style="float:left; padding-left: 40px; width: 200px; margin-top:10px;"><!-- Third Column -->
 
                         <!---  Case Goods-->
 
@@ -233,7 +240,8 @@
 				     
 
 					</div>
-
+					
+<!--end collections tab-->
 					
 
 				</div>	
