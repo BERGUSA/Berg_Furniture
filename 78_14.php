@@ -124,9 +124,9 @@
                         <div id="thisColl"><b><a href="/transforming_beds.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><b>78-14</b> Twin Transforming System</li>
-                              <li><a href="78_12.php"><b>COMING SOON!</b> Transforming Bunk System Twin/Twin</a></li>
-                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming System</a></li>
+                                  <li style="display:block; background-color: #0b90a3;color:#000;"><b>78-14</b> Desk with Twin Transforming Unit</li>
+                              <li><a href="78_12.php"><b>COMING SOON!</b> Twin XL over Twin with Desk Transforming Unit</a></li>
+                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming Unit</a></li>
                                   <br/>        
                                   <br />
                               </ul>

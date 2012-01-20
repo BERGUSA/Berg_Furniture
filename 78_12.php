@@ -93,7 +93,7 @@
                              
                              <img src="img/images/icons/twin.png" 
                                 title="<h4>Twin Beds</h4><br />The top bed fits a twin extra long mattress and the bottom bed fits a standard twin mattress which should
-                                	not exceed 8 inches in thickness. Mattress not included." />
+                                	not exceed 8 inches in thickness. Mattresses not included." />
                                 			 
                              
                               <img src="img/images/icons/desk1.png" 
@@ -115,9 +115,9 @@
                         <div id="thisColl"><b><a href="/transforming_beds.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
-                          		  <li><a href="78_14.php"><b>78-14</b> Twin Transforming System</a></li>
+                          		  <li><a href="78_14.php"><b>78-14</b> Desk with Twin Bed Transforming Unit</a></li>
                           		                            		 
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> <b>COMING SOON!</b> Twin/Twin Transforming System</a></li>
+                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> <b>COMING SOON!</b> Twin XL over Twin with Desk Transforming Unit</a></li>
                               
                               <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming System</a></li>
                                   <br/>        
