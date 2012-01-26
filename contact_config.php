@@ -24,7 +24,7 @@ $prodDate = stripslashes($_POST['prodDate']); //production date
 $modelNo = stripslashes($_POST['modelNo']); //model number 
 
 //The subject
-$subject .= stripslashes($_POST['subject']); // the subject
+$subject = stripslashes($_POST['subject']); // the subject
 
 
 //The message you will receive in your mailbox
