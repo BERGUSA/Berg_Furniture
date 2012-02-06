@@ -78,7 +78,7 @@
 						
 					<!-- TAB Facebook -->
 					   
-					   <!--
+					   
 					   
 					   <div id="tab2"><a title="Join Us on Facebook!" href="http://www.facebook.com/home.php?#/pages/Barrington-NJ/Berg-Furniture/251098782140?ref=nf" target="_blank" onClick="javascript: pageTracker._trackPageview("/G1/facebook.com");" >Berg Furniture on Facebook</a>
                         	<div class="hidden">
@@ -87,15 +87,16 @@
                         	</div>
                        </div> 
                        
-                      -->
-                       
+                      
 						<!-- SHELF PROMO TAB -->
+						<!--
 						 <div id="tab2"><a title="Free Shelf Promo!" href="Promotions.php" >Now till February 5th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
                         	<div class="hidden">
                             	<h2>Free Shelf Promotion Winter 2012 Berg Furniture</h2>
                             	<p>Click here to view the coupon promotion and for more details</p>
                         	</div> 
                         </div> 
+                       -->
                         
 						<!-- TAB Transforming Bed -->
 					   <div id="tab3"><a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho"></a>
