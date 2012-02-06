@@ -26,7 +26,7 @@
                         		<h2>Desk with Twin Bed</h2><h3>#78-14</h3>
                                 <br />
                                 <p> One of the first additions to our Metropolitan Line, the Twin Transforming
-                                	Unit was designed to be league of it's own. Along with the
+                                	Unit was designed to be in league of it's own. Along with the
                                 	features of the Transforming System line, this particular
                                 	model has a large hutch with four deep storage compartments
                                 	and built in LED lighting. <br/>

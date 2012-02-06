@@ -46,7 +46,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00B4E9', end
                             
                     	<div class="prodTab">
                             <a href="78_12.php"> <img src="img/Coll_pics/78-12.jpg" />
-                            <p><b>COMING SOON! 78-12</b><br/> Desk witt Twin and Twin XL Loft</p></a>
+                            <p><b>COMING SOON! 78-12</b><br/> Desk with Twin and Twin XL Loft</p></a>
                             </div>
                             
                       <!-- <div class="prodTab">
