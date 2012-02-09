@@ -417,7 +417,9 @@
 						 <div  class="discTab">
 								<img src="img/discontinued/white-chair.jpg"  />
                               <p><b style="font-size:16px;">Chair</b>
-								 <br /><strong>White finish only </strong>24-03-94
+								 <br /><strong>Chestnut finish </strong>24-03-10
+								 <br /><strong>Brandy finish </strong>24-03-28
+								 <br /><strong>White finish </strong>24-03-94
 								</p>
 						</div>
 						

@@ -46,7 +46,7 @@ $(document).ready(function(){
 			expose: { 
 		        color: '#000', 
 		        loadSpeed: 300, 
-		        opacity: 0.3 
+		        opacity: 0.3,		        		        closeOnEscape: true,		        		        closeOnClick: true
 		    }, 
  		}); 
  		

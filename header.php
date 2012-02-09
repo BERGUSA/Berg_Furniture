@@ -3,14 +3,7 @@
 <div id="Header">
 	<!-- logo -->
 	<div id="hidden-logos">
-		<p>Gotcha! Were you trying to swipe our logo? <span id="smiley" class="rotate-90">:)</span> Why not grab a hi-res version instead?
-		<span>
-			<a href="/img/Berg-Logo-Black-transparent.png">Black</a>
-
-			 -or-
-			
-			<a href="/img/Berg-Logo-White-transparent.png">White</a>.
-		</span>
+		<p>If you need a logo for professional use, please contact marketing@bergfurniture.com for assistance.
 		<a href='#' class="close">close</a>
 		</p>
 	</div> 

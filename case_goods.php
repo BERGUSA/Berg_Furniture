@@ -109,7 +109,8 @@
                             <p><b style="font-size:16px;">Deluxe Chair</b>
                             <br/>24-03
                             <br /><br />
-                            <i>18.5"W x 17"D x 34.5"H</i>
+                            <i>18.5"W x 17"D x 34.5"H
+                            <br />Available in Natural (#61) and Nutmeg (#18) finishes</i>
                             </p>
                           </div>
                             
