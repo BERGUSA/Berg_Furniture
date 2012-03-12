@@ -393,21 +393,21 @@
             
             
 <!-- GENERAL ACCENT OVERLAY -->
+
+
                 
                 <div class="simple_overlay" id="accents">
+                	
+                	
                 		<div class="simple_overlay_accent_title">
-                				Available Accents
-                				
+                				Available Accents	
                 		</div>
+                		
+                	<div class="simple_overlay_accent_current">
                 		
                 		<div class="simple_overlay_container">
                 			<img src="img/accents/94-white.jpg">
                 			White <i>(#94)</i>
-                		</div>
-                		
-                		<div class="simple_overlay_container">
-                			<img src="img/accents/07-bubblegum.jpg">
-                			Bubblegum <i>(#07)</i>
                 		</div>
                 		
                 		<div class="simple_overlay_container">
@@ -456,11 +456,6 @@
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/accents/50-blue-legacy.jpg">
-                			Navy Legacy <i>(#50)</i>
-                		</div>
-                		
-                		<div class="simple_overlay_container">
                 			<img src="img/accents/66-violet.jpg">
                 			Violet <i>(#66)</i>
                 		</div>
@@ -489,5 +484,27 @@
                 			<img src="img/accents/61-natural.jpg">
                 			Natural <i>(#61)</i>
                 		</div>
+                		
+				</div>
+				
+						<div class="simple_overlay_accent_title">
+                				Discontinued Accents <i>available for a limited time</i>
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/accents/31-purple-brush.jpg">
+                			Purple Brush <i>(#31)</i>
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/accents/32-red-brush.jpg">
+                			Red Brush <i>(#32)</i>
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/accents/36-antique-brush.jpg">
+                			Antique Brush <i>(#36)</i>
+                		</div>
+                		
                 </div>
 <!--End Knob, Finish, and Accent options-->
