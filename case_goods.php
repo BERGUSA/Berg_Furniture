@@ -247,9 +247,9 @@
                           <div class="goodsTab">
                             <img src="img/casegoods/jcb-headbookcase.jpg" />
                             <p><b style="font-size:16px;">Twin Bookcase for Jr. Captain's Beds </b>
-                            <br/>22-06
+                            <br/>22-94
                             <br /><br />
-                            <i>34"W x 12"D x 64"H</i>
+                            <i>43.5"W x 13.5"D x 64"H</i>
                             </p>
                           </div> 
                           
