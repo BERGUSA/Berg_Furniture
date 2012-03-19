@@ -122,27 +122,27 @@
                    </div>
                     <div class="prodFtr">
                     	
-                        <div id="thisColl"><b><a href="/space_savers.psp">All Space Savers</a></b>
+                        <div id="thisColl"><b><a href="/space_savers.php">All Space Savers</a></b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="22_805.psp"><b>22-805</b> Twin/Twin w/Desk &amp; Chest</a></li>
-                                  <li><a href="22_807.psp"><b>22-807</b> Twin/Twin w/2 Chests</a></li>
-                                  <li><a href="22_808.psp"><b>22-808</b> Twin Loft w/Desk &amp; 2 Chests</a></li>
-                                  <li><a href="22_815.psp"><b>22-815</b> Twin/Full w/Desk</a></li>
+                                  <li><a href="22_805.php"><b>22-805</b> Twin/Twin w/Desk &amp; Chest</a></li>
+                                  <li><a href="22_807.php"><b>22-807</b> Twin/Twin w/2 Chests</a></li>
+                                  <li><a href="22_808.php"><b>22-808</b> Twin Loft w/Desk &amp; 2 Chests</a></li>
+                                  <li><a href="22_815.php"><b>22-815</b> Twin/Full w/Desk</a></li>
                                   <li style="background-color:#01adf7;"><b>22-816</b> Twin/Full w/Chest</li>
-                                  <li><a href="22_825.psp"><b>22-825</b> Twin/Twin Platform Bed w/Desk</a></li>
-                                  <li><a href="22_827.psp"><b>22-827</b> Twin/Twin w/ Platform Bed</a></li>
+                                  <li><a href="22_825.php"><b>22-825</b> Twin/Twin Platform Bed w/Desk</a></li>
+                                  <li><a href="22_827.php"><b>22-827</b> Twin/Twin w/ Platform Bed</a></li>
                                   
                               </ul>
                         </div>
                         <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="23_815.psp"><b>23-815</b> Utica Twin/Full</a></li>
-                                  <li><a href="22_905.psp"><b>22-905</b> Captain's Bed Twin/Twin</a></li>
-                                  <li><a href="91_76.psp"><b>91-76</b> Play &amp; Study </a></li>
+                                  <li><a href="23_815.php"><b>23-815</b> Utica Twin/Full</a></li>
+                                  <li><a href="22_905.php"><b>22-905</b> Captain's Bed Twin/Twin</a></li>
+                                  <li><a href="91_76.php"><b>91-76</b> Play &amp; Study </a></li>
                                   
-                                  <li><a href="40_525.psp"><b>40-525</b> Enterprise Twin/Full w/Desk</a></li>
+                                  <li><a href="40_525.php"><b>40-525</b> Enterprise Twin/Full w/Desk</a></li>
                               </ul>
                       </div>
                       
