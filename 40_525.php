@@ -58,6 +58,9 @@
                                         <img src="img/MainProdPics/40-525A_cut_t.jpg" 
                                         title="Shown in White with Antique Pewter Knobs; <b><i>Optional</b> Trundle and Hanging Shelf</i>"/>
                                         
+                                        <img src="img/MainProdPics/40-525-show_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in White with Satin Nickel Knobs and<b><i>Optional</b> Chifferobe and Hot Pink Accents</i>"/>
+                                        
 										<img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
                                         title="Berg's Signature Staircase is comfortable for parents too!"/>
 										

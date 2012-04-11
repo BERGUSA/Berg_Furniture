@@ -63,6 +63,9 @@
                                         
                                         <img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
                                         title="Berg's Signature Staircase is comfortable for parents too!"/>
+                                        
+                                        <img src="img/MainProdPics/22-807-show_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in White with Satin Nickel Knobs and <b><i>Optional</b> Hanging Shelf and Apple Green Accents</i>"/>
 										
 										<img src="img/MainProdPics/22-807C_t.jpg" 
                                         title="Shown in Brandy with Antique Bronze Knobs; <b><i>Optional</b> Hanging Shelf</i>"/>

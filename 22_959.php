@@ -56,6 +56,9 @@
                                         
                                         <img src="img/MainProdPics/22-959C_t.jpg" 
                                         title="Shown in White with <b><i>Optional</b> Lime Green and Orange Oslo Knobs</i>"/>
+                                        
+                                        <img src="img/MainProdPics/22-959-show_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in Brandy with Antique Copper Knobs with <b><i>Optional</b> Wide bookcase</i>"/>
                                       
                                        
                                        

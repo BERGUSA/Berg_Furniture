@@ -60,6 +60,9 @@
                                         <img src="img/MainProdPics/22-895B_t.jpg" 
                                         title="Shown in White with Purple Knobs; <b><i>Optional</b> 3 Drawer Chest and Mirror</i>"/>
                                         
+                                        <img src="img/MainProdPics/22-895-show_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in Nutmeg with Satin Nickel knobs and <b><i>Optional</b> Black Accents</i>"/>
+                                        
                                         <img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
                                         title="Berg's Signature Staircase is comfortable for parents too!"/>
                                        

@@ -54,6 +54,12 @@
                                         <img src="img/MainProdPics/22-950B_t.jpg" 
                                         title="Shown in White; <b><i>Optional</b> Lime Green Oslo Knobs and Bookcase</i>"/>
                                         
+                                        <img src="img/MainProdPics/22-950-show_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in White with Satin Nickel knobs and <b><i>Optional</b> Black Accents and Wide Bookcase</i>"/>
+                                        
+                                        <img src="img/MainProdPics/22-950-show-2_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in White with Satin Nickel knobs and <b><i>Optional</b> Green Apple Accents, Chifferobe, Headboard Bookcase, and Wide Bookcase</i>"/>
+                                        
                                         <img src="img/MainProdPics/22-950C_t.jpg" 
                                         title="Shown in Natural; <b><i>Optional</b> Red Oslo Knobs</i>"/>
                                       

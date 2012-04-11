@@ -63,6 +63,9 @@
                                         <img src="img/MainProdPics/MnM2_t.jpg" 
                                         title="Shown in Natural; <b><i>Optional</b> Chocolate Oslo Knobs and Hanging Shelf</i>"/>
                                         
+                                        <img src="img/MainProdPics/mix-n-match-show_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in Natural with <b><i>Optional</b> Chocolate Oslo Knobs, Blue Jay accents and Hanging Shelves</i>"/>
+                                        
                                         <img src="img/MainProdPics/MnM3_t.jpg" 
                                         title=" Shown in White; <b><i>Optional</b> Orange Oslo Knobs and Hanging Shelf</i>"/>
                                          
