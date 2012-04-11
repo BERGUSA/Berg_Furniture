@@ -4,15 +4,9 @@
 </head>
 	<body>
     	<div id="outside_container">
-            <div class="simple_overlay" id="knobs">
-            <img src="img/knob_overlay.png" />
-                </div>
-            	<div class="simple_overlay" id="finishes">
-                	<img src="img/finish_overlay.png" />
-                </div>
-                <div class="simple_overlay" id="accents">
-                	<img src="img/accents3B.png" />
-                </div>
+            
+            <?php include 'options.php'; ?>
+            
             <div id="tip"></div>
             <div class="container">
                 
