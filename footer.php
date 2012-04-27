@@ -73,7 +73,6 @@
 			?> 
 			Berg Furniture</p>
 			
-			<!-- this site created by Orry Baram -->
 		
 			<a id="madeUSA" href="/made_usa.php">
 				<img src="/img/made_in_usa.png" alt="Made in USA" title="Made in USA" />
