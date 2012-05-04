@@ -75,18 +75,26 @@
 							</a>
 							<div class="hidden"><h2>Get Inspired by our new room ideas!</h2></div>
                         </div>
+                        
+                        <!--Pet Website Coming soon tab-->
+                        
+                        <div id="tab2"><a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
+                        	<div class="hidden">
+                            	<h2>Pet Website Coming Soon</h2>
+                        	</div> 
+                        </div> 
 						
 					<!-- TAB Facebook -->
 					   
 					   
-					   
-					   <div id="tab2"><a title="Join Us on Facebook!" href="http://www.facebook.com/home.php?#/pages/Barrington-NJ/Berg-Furniture/251098782140?ref=nf" target="_blank" onClick="javascript: pageTracker._trackPageview("/G1/facebook.com");" >Berg Furniture on Facebook</a>
+					 <!--  
+					   <div id="tab2"><a title="Pet Website Coming Soon!" href="http://www.facebook.com/home.php?#/pages/Barrington-NJ/Berg-Furniture/251098782140?ref=nf" target="_blank" onClick="javascript: pageTracker._trackPageview("/G1/facebook.com");" >Berg Furniture on Facebook</a>
                         	<div class="hidden">
                             	<h2>Join us on Facebook!</h2>
                             	<p>For the latest news, pictures, and information.</p>
                         	</div>
                        </div> 
-                       
+                      --> 
                       
 						<!-- SHELF PROMO TAB -->
 						<!--
