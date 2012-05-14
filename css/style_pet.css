@@ -1,0 +1,89 @@
+@import url('reset.css');  
+
+/*Style for the Pet website*/
+
+*{
+   margin:0;
+   padding:0;
+}
+
+body{
+   text-align:center; /*For IE6 Shenanigans*/
+}
+
+.container {
+	width:1000px;
+	height:600px;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+
+/*----------------------------------------header-------------------------------*/
+
+.container #header{
+	height:100px;
+}
+
+.logo{
+	margin-left:27px;
+	margin-top:7px;
+	margin-bottom:11px;
+	width:304px;
+	float:left;
+}
+
+.tagline{
+	float:right;
+}
+
+/*----------------------------------------navigation-------------------------------*/
+.pagination {
+	background-color:#fff;
+	width:171px;
+	height: 41px;
+	position:absolute;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	top:290px;
+	left:790px;
+}
+
+.pagination ul{
+	padding-top: 14px;
+}
+
+.pagination li {
+	z-index: 400;
+	display:inline;
+}
+
+.pagination li a{
+	font size:20pt;
+	font-family:Arial, Helvetica, sans-serif;
+	color: #94c947;
+	padding-left:5px;
+	padding-right:5px;
+	margin-right:5px;
+}
+
+.pagination li a:hover {
+	font-size:20pt;
+	font-family:"Lobster 1.4", Arial, Helvetica, sans-serif;
+	color: #031046;
+}
+
+.pagination li a:active{
+	font-size:20pt;
+	font-family:"Lobster 1.4", Arial, Helvetica, sans-serif;
+	color: #031046;
+}
+
+/*----------------------------------------body-------------------------------*/
+
+.container #body{
+	width:1000px;
+	height:500px;
+}
