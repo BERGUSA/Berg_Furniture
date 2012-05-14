@@ -37,8 +37,8 @@
 	
 	<!--------JS------>
 	
-	<script type="text/javascript" src="js/jquery-1.6.4.js"></script>
-    <script type="text/javascript" src="js/plugins.js"></script>
-	<script type="text/javascript" src="js/scripts.js"></script>
+	<script type="text/javascript" src="js/jquery_pet-1.6.4.js"></script>
+    <script type="text/javascript" src="js/plugins_pet.js"></script>
+	<script type="text/javascript" src="js/scripts_pet.js"></script>
 	
 </div>
