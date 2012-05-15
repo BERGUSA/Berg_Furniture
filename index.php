@@ -65,6 +65,13 @@
                         
 						<!-- TAB Room Ideas-->
 						<div id="tab1">
+						<a title="Free Shelf Promo!" href="Promotions.php" >Now till May 31st, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
+                        	<div class="hidden">
+                            	<h2>Free Shelf Promotion Spring 2012 Berg Furniture</h2>
+                            	<p>Click here to view the coupon promotion and for more details</p>
+                         
+                        </div> 
+			<!--
                         	<a href="room_ideas.php">
 							
 								<div class="slideshow">
@@ -74,6 +81,8 @@
 							
 							</a>
 							<div class="hidden"><h2>Get Inspired by our new room ideas!</h2></div>
+							
+			-->
                         </div>
                         
                         <!--Pet Website Coming soon tab-->
