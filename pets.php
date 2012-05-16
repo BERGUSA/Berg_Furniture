@@ -7,18 +7,30 @@
 
 <div class="container">
 	<!---HEADER--->
-	<div id="container" class="header">
+	<div id="header">
 		
-		<div class="logo">
+		<div id="pet_logo">
+		
+			<img src="img\pet\pet_logo.jpg">
+		
+		</div>
+		
+		<div id="pet_tagline">
 			
-			<img src="img/pet/logo.png">
+			<img src="img\pet\tagline.jpg">
 			
 		</div>
 		
-		<div class="tagline">
+		<div class="caption" id="navigation">
 			
-			<img src="img/pet/pets_are_special.png">
-			
+			<ul>
+				
+				<li><a href="#">Furniture</a></li>
+				<li><a href="#">About</a></li>	
+				<li><a href="#">Contact</a></li>
+				
+			</ul>
+		
 		</div>
 		
 	</div>
@@ -27,13 +39,27 @@
 	
 	
 	<!---BODY--->
-	<div id="container" id="class">
+	<div class="container" id="welcome">
 		
 		
 		
 	</div>
 	
-	</body>
+	<div class="container" id="thumbs">
+		
+		
+		
+	</div>
+	
+	<div class="container" id="product">
+		
+		
+		
+	</div>
+	
+	
+	
+</body>
 	
 	<!--------JS------>
 	

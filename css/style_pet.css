@@ -2,88 +2,95 @@
 
 /*Style for the Pet website*/
 
-*{
-   margin:0;
-   padding:0;
-}
-
-body{
-   text-align:center; /*For IE6 Shenanigans*/
+body {
+	background-image: url("../img/pet/paw_background.jpg");
+	background-attachment: fixed; 
+	text-align:center; /*For IE6 Shenanigans*/
 }
 
 .container {
 	width:1000px;
-	height:600px;
-	margin:0;
-	padding:0;
-	text-align:center;
+	height:1875px;
+	padding:25px;
+	background-color:white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:25px;
+	margin-bottom:150px;
+}
+
+.caption {
+	width: 500px;
+	height: 26px;
 }
 
 /*----------------------------------------header-------------------------------*/
 
-.container #header{
-	height:100px;
+#header{
+	height:122px;
+	background-color: #990033;
 }
 
-.logo{
-	margin-left:27px;
-	margin-top:7px;
-	margin-bottom:11px;
-	width:304px;
-	float:left;
+#pet_logo{
+	width: 312px;
+	height: 100px;
+	padding-top:11px;
+	float:left;	
 }
 
-.tagline{
+#pet_tagline{
+	width:500px;
+	height:97px;
 	float:right;
+	padding:0px;
+	margin:0px;
 }
-
 /*----------------------------------------navigation-------------------------------*/
-.pagination {
-	background-color:#fff;
-	width:171px;
-	height: 41px;
-	position:absolute;
-	float:left;
-	font-family:Arial, Helvetica, sans-serif;
-	font-weight:bold;
-	font-size:12px;
-	top:290px;
-	left:790px;
+
+#navigation{
+	float:right;
+	background-color:white;
+	padding:0px;
+	margin:0px;
+	text-align:left;
 }
 
-.pagination ul{
-	padding-top: 14px;
+#navigation ul li{
+	display: inline;
+	font-family:"Franklin Gothic Demi Cond"; "Arial Cond"; "Helvetica"; sans-serif;
+	padding-left: 75px;
+	font-size: 20px;
 }
 
-.pagination li {
-	z-index: 400;
-	display:inline;
+#navigation ul li a{
+	color:#007083;
 }
 
-.pagination li a{
-	font size:20pt;
-	font-family:Arial, Helvetica, sans-serif;
-	color: #94c947;
-	padding-left:5px;
-	padding-right:5px;
-	margin-right:5px;
-}
-
-.pagination li a:hover {
-	font-size:20pt;
-	font-family:"Lobster 1.4", Arial, Helvetica, sans-serif;
-	color: #031046;
-}
-
-.pagination li a:active{
-	font-size:20pt;
-	font-family:"Lobster 1.4", Arial, Helvetica, sans-serif;
-	color: #031046;
+#navigation ul li a:hover{
+	font-family:"Franklin Gothic Book"; "Arial"; "Helvetica"; sans-serif;
+	color:#ee3680;
 }
 
 /*----------------------------------------body-------------------------------*/
 
-.container #body{
-	width:1000px;
-	height:500px;
+.container #welcome{
+	height:353px;
+	background-color:purple;
+	padding:0px;
+	margin-bottom:0px;
+}
+
+.container #thumbs{
+	height:97px;
+	background-color:purple;
+	padding:0px;
+	background-color:yellow;
+	margin-bottom:0px;
+}
+
+.container #product{
+	height:475px;
+	background-color:green;
+	padding:0px;
+	margin-bottom:0px;
 }
