@@ -5,14 +5,12 @@
 body {
 	background-image: url("../img/pet/paw_background.jpg");
 	background-attachment: fixed; 
-	text-align:center; /*For IE6 Shenanigans*/
 }
 
 .container {
 	width:1000px;
 	height:1875px;
-	padding:25px;
-	background-color:white;
+	/*background-color:white;*/
 	margin-left: auto;
 	margin-right: auto;
 	margin-top:25px;
@@ -28,13 +26,12 @@ body {
 
 #header{
 	height:122px;
-	background-color: #990033;
+	/*background-color: #990033;*/
 }
 
 #pet_logo{
 	width: 312px;
-	height: 100px;
-	padding-top:11px;
+	height: 121px;
 	float:left;	
 }
 
@@ -49,7 +46,7 @@ body {
 
 #navigation{
 	float:right;
-	background-color:white;
+	/*background-color:white;*/
 	padding:0px;
 	margin:0px;
 	text-align:left;
@@ -75,22 +72,187 @@ body {
 
 .container #welcome{
 	height:353px;
-	background-color:purple;
-	padding:0px;
+	/*background-color:purple;*/
 	margin-bottom:0px;
-}
-
-.container #thumbs{
-	height:97px;
-	background-color:purple;
-	padding:0px;
-	background-color:yellow;
-	margin-bottom:0px;
+	padding:25px 25px 0 25px;
+	width:950px;
 }
 
 .container #product{
 	height:475px;
-	background-color:green;
-	padding:0px;
+	background-color:#001648;
+	padding:25px;
+	margin-top:25px;
 	margin-bottom:0px;
+	-webkit-box-shadow:0px 0px 15px #000;
+	-moz-box-shadow:0px 0px 15px #000;
+	box-shadow:0px 0px 15px #000;
 }
+
+/*-------------main product images-----------------*/
+
+.small_image{
+	height:100px;
+	width:400px;
+	padding:0 25px 0 25px;
+}
+
+.small_image #berg_website{
+	height:100px;
+}
+
+.large_image{
+	height:324px;
+	width:498px;
+	float:right;
+}
+
+#text_box{
+	height:175px;
+	width:390px;
+	padding:5px 5px 5px 5px;
+	margin-bottom:25px;
+	margin-left:25px;
+	margin-right:30px;
+	font-family:"Franklin Gothic Book", "Arial", "Helvetica", Sans-serif;
+	overflow-y:scroll;
+	overflow-x:hidden;
+	border-bottom:1px solid black;
+	-webkit-box-shadow: inset 0 -20px 50px rgba(0,0,0,0.3);
+}
+
+#text_box::-webkit-scrollbar{
+	width:10px;
+	height:15px;
+}
+
+#text_box::-webkit-scrollbar-track-piece{
+	width:2px;
+}
+
+#text_box::-webkit-scrollbar-track{
+	background-color:#001648;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius:10px;
+}
+
+#text_box::-webkit-scrollbar-thumb{
+	background-color:#94c947;
+	border-radius:10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+
+#text_box h1{
+	font-family:"Franklin Gothic Demi Cond";
+	color:#ffff00;
+	font-size:35px;
+}
+
+#text_box h2{
+	font-family:"Times New Roman", "Times", serif;
+	color:white;
+	font-size:15px;
+}
+
+/*------------------------bed thumbs---------------------*/
+
+.scrollable{
+	height:97px;
+	margin-bottom:0px;
+	width:1000px;
+	overflow: hidden;
+}
+
+a.browse {
+	background: url("../img/pets/hori_large.png") no-repeat;
+	display:block;
+	width:30px;
+	height:30px;
+	float:left;
+	margin:-55px 10px 0 20px;
+	cursor:pointer;
+	font-size:1px;
+	position:absolute;
+	z-index: 9999;
+}
+
+/* right */
+a.right 	{ background-position: 0 -30px; clear:right; margin-right: 0px; left:520px;}
+a.right:hover 	{ background-position:-30px -30px; }
+a.right:active  	{ background-position:-60px -30px; } 
+
+
+/* left */
+a.left				{ margin-left: 0px; left:15px;} 
+a.left:hover  		{ background-position:-30px 0; }
+a.left:active  	{ background-position:-60px 0; }
+
+
+/* disabled navigational button */
+
+a.disabled {
+visibility:hidden !important;		
+}
+
+.bed_thumbs{
+	width:97px;
+	height:97px;
+	padding-left:25px;
+	float:left;
+}
+
+#image_caption {	
+	height:175px;
+	width:390px;
+	padding:5px 5px 5px 5px;
+	margin-bottom:25px;
+	margin-left:25px;
+	margin-right:30px;
+	font-family:"Times New Roman", "Times", serif;
+	overflow-y:scroll;
+	overflow-x:hidden;
+	border-bottom:1px solid black;
+	-webkit-box-shadow: inset 0 -10px 5px rgba(0,0,0,0.3);
+	float:right;
+}
+
+#image_caption::-webkit-scrollbar{
+	width:10px;
+	height:15px;
+}
+
+#image_caption::-webkit-scrollbar-track-piece{
+	width:2px;
+}
+
+#image_caption::-webkit-scrollbar-track{
+	background-color:#001648;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius:10px;
+}
+
+#image_caption::-webkit-scrollbar-thumb{
+	background-color:#94c947;
+	border-radius:10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+
+#image_caption h1{
+	font-family:"Franklin Gothic Demi Cond";
+	color:#ffff00;
+	font-size:35px;
+}
+
+#image_caption h2{
+	font-family:"Times New Roman", "Times", serif;
+	color:white;
+	font-size:15px;
+}
+
+
+.imgWrap{
+	height:324px;
+	width:498px;
+	float:left;
+}
+

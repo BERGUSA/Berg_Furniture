@@ -80,7 +80,7 @@ $(document).ready(function(){
 		changeAttributes(".items img", "title", "data-caption");
 		
 		
-		$(".items img").click(function() {
+		$(".bed_thumbs img").click(function() {
 		// calclulate large image's URL based on the thumbnail
 		// thumbnails have a '_t' appended to them, large images don't
 		// this line of removes the '_t' to find the large image
@@ -105,7 +105,7 @@ $(document).ready(function(){
 		};
 
 		//get image caption from thumbnail title
-		var titleStr = $(this).attr("data-caption");
+		var titleStr = $(this).attr("title");
 		
 		$("div#image_caption").html(titleStr);
 		
