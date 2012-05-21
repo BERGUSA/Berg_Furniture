@@ -85,7 +85,7 @@ $(document).ready(function(){
 		// thumbnails have a '_t' appended to them, large images don't
 		// this line of removes the '_t' to find the large image
 
-		var url = $(this).attr("src").replace("_t","");
+		var url = $(this).attr("src").replace("_t.png",".jpg");
 
 		// get handle to element that wraps the image and make it semitransparent
 
@@ -115,9 +115,16 @@ $(document).ready(function(){
 		// when page loads simulate a "click" on the first image
 		}).filter(":first").click();
 
-		
-		
-		
+
+//testing the hover
+
+
+// Pre load images for rollover
+
+//	$object.onmouseover="var url = $(this).attr("src").replace("","_line")"
+
+//end testing the hover
+
 
 		//OVERLAYS
 
@@ -392,6 +399,7 @@ $(document).ready(function(){
 				});
 
 				
+				
 
 				// CONTACT FORM VALIDATION
 
@@ -409,23 +417,9 @@ $(document).ready(function(){
 
 						name: 'First and last name please!',
 
-						address: 'Please give us a valid home address!',
-
-						city: 'Please give us a valid city!',
-
-						state: 'Please give us a valid state!',
-
-						zip: 'Please give us a valid zipcode!',
+						location: 'Please, tell us where you are from!',
 
 						email: 'We need a valid email address so we can contact you back!',
-
-						store: 'If you are unsure, type "unsure"',
-
-						modelNo: 'If you are unsure, type "unsure"',
-
-						purchaseDate: 'If you are unsure, type "unsure"',
-
-						subject: 'What is your message about?',
 
 						message: "We wanna hear from you, don't leave this blank!"
 
@@ -437,7 +431,7 @@ $(document).ready(function(){
 
 						name: { minlength: 4 },
 
-						address: { minlength: 5 },
+						location: { minlength: 3 },
 
 						zip: {number: true, minlength: 5 },
 
@@ -459,6 +453,6 @@ $(document).ready(function(){
 
 				});
 
-		
+
 
 }); //end scripts.js
