@@ -19,7 +19,7 @@
 		
 		<div id="pet_tagline">
 			
-			<img src="img\pet\tagline.jpg">
+			<img src="img\pet\pet_tagline.png">
 			
 		</div>
 		
@@ -27,9 +27,9 @@
 			
 			<ul>
 				
-				<li><a href="pets.php#row1">Furniture</a></li>
-				<li><a href="pets.php#row2">About</a></li>	
-				<li><a href="pets.php#row3">Contact</a></li>
+				<li><a href="pets.php#row2">Furniture</a></li>
+				<li><a href="pets.php#row3">About</a></li>	
+				<li><a href="pets.php#row4">Contact</a></li>
 				
 			</ul>
 		
@@ -45,10 +45,10 @@
 		
 		<div class="slideshow">
 			
-			<img src="img\pet\foxy.png">
-			<img src="img\pet\white_dog.png">
-			<img src="img\pet\mish_mish.png">
-			<img src="img\pet\2_dogs.png">
+			<img src="img/pet/foxy.png">
+			<img src="img/pet/white_dog.png">
+			<img src="img/pet/mish_mish.png">
+			<img src="img/pet/2_dogs.png">
 			
 		</div>
 		
@@ -86,80 +86,96 @@
 			
 	</div>	
 	
-<div id="row1">&nbsp;</div>
+<div id="row2">&nbsp;</div>
 	
 <!--	<a class="prevPage browse left"></a> -->
 		
 		<div class="scrollable">
-		  <a href="pets.php#row1">
+		  <a href="pets.php#row2">
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-85_t.png"
                 title="<h1>P22-85</h1> <h3>Hover Image for Dimensions</h3> <br>
-                <h2>Pellentesque fringilla, neque sed pellentesque hendrerit, elit nunc imperdiet nibh, eget egestas nulla dui hendrerit justo. Nullam porta eros sed elit scelerisque quis posuere elit aliquam. Vivamus venenatis adipiscing ullamcorper. Pellentesque sit amet tristique enim. </h2>"/>
+                <h2>Pamper your pooch with this model! the P22-85 is perfect to give your small animal their very own twin bed,
+                	to scale of course. Not high off the ground, this model is accessable for kittens, puppies and toy dogs.</h2>"/>
 			
 			</div>
 		  </a>
-		  <a href="pets.php#row1">
+		  <a href="pets.php#row2">
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-86_t.png" 
-                title="<h1>P22-85</h1> <h3>Hover Image for Dimensions</h3> <br>
-                <h2>Phasellus ultrices justo eget lectus interdum sagittis. Integer vestibulum cursus elit, placerat varius leo placerat vel. Integer at diam arcu, pharetra eleifend elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</h2>"/>
+                title="<h1>P22-86</h1> <h3>Hover Image for Dimensions</h3> <br>
+                <h2>A traditional full bed, scaled down! This model is great for those looking for a little more bed space than
+                	the P22-85. Great for kittens, puppies and toy dogs!
+                </h2>"/>
 			
 			</div>
 		  </a>
-		  <a href="pets.php#row1">
+		  <a href="pets.php#row2">
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-88_t.png" 
-                title="<h1>P22-85</h1> <h3>Hover Image for Dimensions</h3> <br>
-                <h2>Aliquam erat volutpat. Sed mollis congue euismod. Etiam laoreet velit id ligula scelerisque malesuada. Donec iaculis dignissim purus, commodo ornare purus tempus at. Mauris ullamcorper sagittis porta. Cras interdum magna non dui varius iaculis. Maecenas lobortis libero et enim hendrerit nec vestibulum nunc sodales.</h2>"/>
+                title="<h1>P22-88</h1> <h3>Hover Image for Dimensions</h3> <br>
+                <h2>Give your pet an incredible spot to relax! Spacious yet space efficient, the trundle is perfect for
+                	storing toys, accessories and grooming supplies!
+                	 Perfect for elderly dogs as it is not too high to get up and off of.</h2>"/>
 			
 			</div>
 		  </a>
-		  <a href="pets.php#row1">
+		  <a href="pets.php#row2">
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-89_t.png" 
-                title="<h1>P22-85</h1> <h3>Hover Image for Dimensions</h3> <br>
-                <h2>Aliquam a ipsum turpis. Praesent sed augue lorem. Proin malesuada laoreet felis, vel lobortis sapien posuere nec. Integer blandit iaculis ipsum, quis facilisis turpis feugiat nec. Donec euismod nisl sagittis diam facilisis mollis.</h2>"/>
+                title="<h1>P22-89</h1> <h3>Hover Image for Dimensions</h3> <br>
+                <h2>A larger model than the P22-88 for those that are looking for more storage space 
+                	or a larger bed. Like the P22-88, this model is great for older pets as it is not too high therefore
+                	easier on the shoulders and the hips.</h2>"/>
 			
 			</div>
 		  </a>
-		  <a href="pets.php#row1">
+		  <a href="pets.php#row2">
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-935_t.png" 
-                title="<h1>P22-85</h1> <h3>Hover Image for Dimensions</h3> <br>
-                <h2>Integer faucibus elit non leo scelerisque ut imperdiet neque mattis. Aliquam ligula lectus, facilisis vitae mollis ut, bibendum et sapien. Aliquam a ipsum turpis.</h2>"/>
+                title="<h1>P22-935</h1> <h3>Hover Image for Dimensions</h3> <br>
+                <h2>From leashes to food dishes, from grooming supplies to toys, this unit offers lots of storage for any pet accessory.
+                	A great addition to any household!
+                	
+                </h2>"/>
 			
 			</div>
 		  </a>
-		  <a href="pets.php#row1">
+		  <a href="pets.php#row2">
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-945_t.png" 
-                title="<h1>P22-85</h1> <h3>Hover Image for Dimensions</h3> <br>
-                <h2>Aliquam quis nulla nec sem hendrerit suscipit. Fusce et magna quam. Nullam varius arcu non urna molestie eleifend. Phasellus elit leo, placerat ut congue ac, euismod et felis. Donec commodo porta eleifend. Suspendisse tempus venenatis ipsum, id ultrices leo ultricies a.</h2>"/>
+                title="<h1>P22-945</h1> <h3>Hover Image for Dimensions</h3> <br>
+                <h2>The cubbies can be used for any pet accessories however, 
+                	cats are drawn to this model because it is great for nesting!
+                	A great addition to any room in the house and looks fantastic
+                	at the foot of a bed.</h2>"/>
 			
 			</div>
 		  </a>
-		  <a href="pets.php#row1">
+		  <a href="pets.php#row2">
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p40-535_t.png" 
-                title="<h1>P22-85</h1> <h3>Hover Image for Dimensions</h3> <br>
-                <h2>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum et erat et enim pretium pretium. Etiam ultricies libero non massa molestie accumsan. Cras euismod est ac metus convallis vulputate mollis nulla commodo. Vivamus tristique mollis nulla sit amet adipiscing.</h2>"/>
+                title="<h1>P40-535</h1> <h3>Hover Image for Dimensions</h3> <br>
+                <h2>A double decker for pets! This model has stairs to make the top more acccessable for the little ones.
+                	It's sleek design looks great in any room of the house.</h2>"/>
 			
 			</div>	
 		  </a>
-		  <a href="pets.php#row1">
+		  <a href="pets.php#row2">
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p23-777_t.png" 
-                title="<h1>P22-85</h1> <h3>Hover Image for Dimensions</h3> <br>
-                <h2>Aliquam quis nulla nec sem hendrerit suscipit. Fusce et magna quam. Nullam varius arcu non urna molestie eleifend. Phasellus elit leo, placerat ut congue ac, euismod et felis. Donec commodo porta eleifend. Suspendisse tempus venenatis ipsum, id ultrices leo ultricies a.</h2>"/>
+                title="<h1>P23-777</h1> <h3>Hover Image for Dimensions</h3> <br>
+                <h2>Want multiple beds for your pets but don't have a lot of space?
+                	The triple decker fits snuggly into a room taking up minimal space
+                	while giving your pet plenty of nooks and crannies to hide and sleep.</h2>"/>
 			
 			</div>
 		  </a>
@@ -202,16 +218,16 @@
 			
 			<div class="specificatons" id="container">
 				
-				<a href="#" rel="#bedding">Click for Mattress & Cover Included</a>
+				<a href="#" rel="#dims">Click for Mattress and Cover information</a>
 				
 			</div>
 			
 			<div class="specificatons" id="container">
 				
-				<a href="#" rel="dims_22-85">Click for Dimensions</a>
+				<a href="#" rel="#dims">Click for Dimensions</a>
 				
 			</div>
-			
+						
 		</div>
 <!------------------------------about------------------------------------------->
 
@@ -253,6 +269,8 @@
 <div class="container" id="contact">
 
 	<div id="contact-form">
+		
+			<img src="img/pet/contact_us.png" float="right">
 	
 						<?php require("contact_config_pets.php"); ?>
 	

@@ -3,8 +3,8 @@
 /*Style for the Pet website*/
 
 body {
-	background-image: url("../img/pet/paw_background.jpg");
-	background-attachment: fixed; 
+	background-image: url("../img/pet/paw_background_gradient.jpg");
+	/*background-attachment: fixed;*/
 }
 
 .container {
@@ -36,7 +36,7 @@ body {
 }
 
 #pet_tagline{
-	width:500px;
+	width:400px;
 	height:97px;
 	float:right;
 	padding:0px;
@@ -376,6 +376,8 @@ visibility:hidden !important;
 	vertical-align:middle;
 }
 
+/*---------------------overlay---------------------------*/
+
 .simple_overlay {
 	display:none;
 	z-index:9999;	
@@ -386,7 +388,72 @@ visibility:hidden !important;
 	color:#999;
 }
 
-.simple_overlay #finishes {
+.simple_overlay#mc .close {
+	background-image: url("../img/overlay_close.png");
+	position:absolute;
+	right: 1px;
+	top:5px;
+	cursor:pointer;
+	height:25px;
+	width:35px;
+}
+
+.simple_overlay#dims .close {
+	background-image: url("../img/overlay_close.png");
+	position:absolute;
+	top:5px;
+	right:5px;
+	cursor:pointer;
+	height:25px;
+	width:35px;
+}
+
+.simple_overlay#finishes .close {
+	background-image: url("../img/overlay_close.png");
+	position:absolute;
+	right: -2px;
+	top:3px;
+	cursor:pointer;
+	height:25px;
+	width:35px;
+}
+
+.simple_overlay#finishes {
+	position:absolute;
+	z-index:9999;
+	right:-476px;
+	width:475px;
+	height:188px;
+	background-color:#FFF;
+	-webkit-box-shadow:5px 5px 5px #666;
+	-moz-box-shadow:5px 5px 5px #666;
+	box-shadow:5px 5px 5px #666;
+}
+
+.simple_overlay#dims {
+	position:absolute;
+	z-index:9999;
+	right:-476px;
+	width:936px;
+	height:735px;
+	background-color:#FFF;
+	border:8px solid #FFFF00;
+	-webkit-box-shadow:5px 5px 5px #666;
+	-moz-box-shadow:5px 5px 5px #666;
+	box-shadow:5px 5px 5px #666;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px;
+	border-radius:5px;
+}
+
+.simpleOverlayWrap {
+	width:500px;
+	height:300px;
+	float:left;
+	background-color:blue;
+}
+
+.simple_overlay#mc {
 	position:absolute;
 	z-index:9999;
 	right:-476px;
@@ -402,20 +469,30 @@ visibility:hidden !important;
 	border-radius:5px;
 }
 
-.simple_overlay #cover {
-	position:absolute;
-	z-index:9999;
-	right:-476px;
+.simple_overlay_knob_title{
+	width:400px;
+	height:40px;
+	font-family:"Franklin Gothic Demi Cond", "Arial", "Helvetica", san-serif;
+	font-size: 35px;
+	text-align:left;
+	padding-left:10px;
+	margin-bottom:5px
+}
+
+.simple_overlay_knob_subtitle{
 	width:775px;
-	height:1100px;
-	background-color:#FFF;
-	border:8px solid #FF3399;
-	-webkit-box-shadow:5px 5px 5px #666;
-	-moz-box-shadow:5px 5px 5px #666;
-	box-shadow:5px 5px 5px #666;
-	-moz-border-radius: 5px 5px 5px 5px;
-	-webkit-border-radius: 5px;
-	border-radius:5px;
+	height:30px;
+	font-family:"Lobster 1.4", "Times New Roman", Times, Serif;
+	font-size: 25px;
+	color: #FF3399;
+	text-align: left;
+	padding-left:10px;
+	margin-bottom:5px;
+}
+
+.simple_overlay_knob_scontainer{
+	height: 675px;
+	width: 775px;
 }
 
 .simple_overlay_container{
@@ -428,16 +505,61 @@ visibility:hidden !important;
 	text-align:center;
 }
 
-/*-------------------------dims------------------------------*/
+.simple_overlay_container#knob_class{
+	float:left;
+	height:150px;
+	margin:0 0 10px 10px;
+	width:145px;
+	font-family:"Lobster 1.4", sans-serif;
+	font-size: 25px;
+	text-align:right;
+}
 
-.simple_overlay #dims_22-85 {
+.simple_overlay_accent_title{
+	width:700px;
+	height:35px;
+	font-family:"Lobster 1.4", "Times New Roman", Times, Serif;
+	font-size: 30px;
+	text-align:left;
+	padding-left:10px;
+	margin-bottom:5px
+}
+
+.simple_overlay_accent_img{
+	margin-bottom:5px;
+}
+
+.simple_overlay_accent_current{
+	width:952px;
+	height:480px;	
+}
+
+.simple_overlay_text#finishes {
 	position:absolute;
-	z-index:9999;
-	height:400px;
-	width:600px;
-	-webkit-box-shadow:5px 5px 5px #666;
-	-moz-box-shadow:5px 5px 5px #666;
-	box-shadow:5px 5px 5px #666;
+	z-index:10000;
+	top:566px;
+	right:68px;
+	font-family:"Lobster 1.4", "Times New Roman", Times, serif;
+}
+
+.entry_overlay {
+	display:none;
+	z-index:10000;
+	width:500px;	
+	min-height:200px;
+	background-color: #CF0;
+	border:#CCC solid 3px;
+	text-align: left;
+}
+
+.entry_overlay .close {
+	background-image: url("../img/overlay_close.png");
+	position:absolute;
+	right: 15px;
+	top:5px;
+	cursor:pointer;
+	height:25px;
+	width:35px;
 }
 
 /*---------------------contact css-------------------------*/
@@ -462,7 +584,7 @@ visibility:hidden !important;
 	font-size: 15px;
 	font-weight: bold;
 	color: #ffff00;
-	margin: 10px 0 3px 0;
+	margin: 0px 0 3px 0;
 	border-color:#007083;	
 }
 
