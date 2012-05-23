@@ -5,12 +5,13 @@
 //==============
 
 //Put in your email address below:
-$to = 'marketing@bergfurniture.com';
+$to = 'Berg-USA@bergfurniture.com';
 
 
 //User info 
 $name = stripslashes($_POST['name']); //sender's name
-$location = stripslashes($_POST['location']); //sender's location
+$city = stripslashes($_POST['city']); //sender's city
+$state = stripslashes($_POST['state']); //sender's state
 $email = stripslashes($_POST['email']); //sender's email
 $phone = stripslashes($_POST['phone']); //sender's phone number
 //The subject
@@ -21,10 +22,11 @@ $subject = stripslashes($_POST['subject']); // the subject
 //Each parts are commented to help you understand what it does exaclty.
 //YOU DON'T NEED TO EDIT IT BELOW BUT IF YOU DO, DO IT WITH CAUTION!
 $msg  = "From : $name \r\n\n";  //add sender's name to the message
-$msg .= "Location : $location \r\n\n"; //add sender's address to the message
+$msg .= "City : $city \r\n\n"; //add senders city to the message
+$msg .= "State : $state \r\n\n"; //add senders state to the message
 $msg .= "e-Mail : $email \r\n\n";  //add sender's email to the message
 $msg .= "Phone Number : $phone \r\n\n"; //add senders phone number
-$msg .= "Store Info : $store \r\n\n"; //add senders store info
+//$msg .= "Store Info : $store \r\n\n"; //add senders store info
 //$msg .= "Subject : $subject \r\n\n"; //add subject to the message (optional! It will be displayed in the header anyway)
 $msg .= "---Message--- \r\n".stripslashes($_POST['message'])."\r\n\n";  //the message itself
 

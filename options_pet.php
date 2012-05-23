@@ -1,6 +1,6 @@
 <!--Begin Knob, Finish, and Accent options-->		
 			
-<!----------finishes-------------------->
+<!--finishes-->
 
 <div class="simple_overlay" id="finishes">
               	
@@ -9,17 +9,17 @@
                 	</div> 
               	
               		<div class="simple_overlay_container">
-                			<img src="img/finishes/28-brandy.jpg">
+                			<img src="img/finishes/28-brandy.jpg" alt="Our Brandy Finish #28">
                 			Brandy <i>(#28)</i>
                 	</div>
                 		
                		<div class="simple_overlay_container">
-                			<img src="img/finishes/10-chestnut.jpg">
+                			<img src="img/finishes/10-chestnut.jpg" alt="Our Chestnut Finish #10">
                 			Chestnut <i>(#10)</i>
                		</div>
                 		
                		<div class="simple_overlay_container">
-                			<img src="img/finishes/18-nutmeg.jpg">
+                			<img src="img/finishes/18-nutmeg.jpg" alt="Our Nutmeg Finish #18">
                 			Nutmeg <i>(#18)</i>
                		</div>
 
@@ -28,15 +28,28 @@
                 
                 <!--End Finishes-->
                 
+                <!--dims-->
+                
             <div class="simple_overlay" id="dims">   
             	
 				<div class="simpleOverlayWrap">
 					
-					<img src="img/pet/1px.gif">
+					<img src="img/pet/1px.gif" alt="The dimensions of the unit">
 					
 				</div>
 				
 			</div>	
-                			
+			
+			<div class="simple_overlay" id="mattressCover">
+				
+				<div class="fabric_wrap">
+					
+					<img src="img/pet/fabrics.jpg" alt="Double sided circle and olive green fabric provided with bed">
+					<br><br><br>
+					All beds come outfitted with a foam mattress and double sided cover.
+							
+				</div>				
+					
+				</div>               			
                 			
 <!--End Knob, Finish, and Accent options-->

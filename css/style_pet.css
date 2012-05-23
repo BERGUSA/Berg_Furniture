@@ -1,4 +1,102 @@
-@import url('reset.css');  
+/*Reset*/
+
+/* CSS Document */
+
+
+
+html, body, div, span, applet, object, iframe,
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+
+a, abbr, acronym, address, big, cite, code,
+
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+
+small, strike, strong, sub, sup, tt, var,
+
+b, u, i, center,
+
+dl, dt, dd, ol, ul, li,
+
+fieldset, form, label, legend,
+
+table, caption, tbody, tfoot, thead, tr, th, td {
+
+	margin: 0;
+
+	padding: 0;
+
+	border: 0;
+
+	outline: 0;
+
+	font-size: 100%;
+
+	vertical-align: baseline;
+
+	background: transparent;
+
+}
+
+body {
+
+	line-height: 1;
+
+}
+
+ol, ul {
+
+	list-style: none;
+
+}
+
+blockquote, q {
+
+	quotes: none;
+
+}
+
+blockquote:before, blockquote:after,
+
+q:before, q:after {
+
+	content: '';
+
+}
+
+
+
+/* remember to define focus styles! */
+
+:focus {
+
+	outline: 0;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+
+table {
+
+	border-collapse: collapse;
+
+	border-spacing: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
 
 /*Style for the Pet website*/
 
@@ -22,7 +120,7 @@ body {
 	height: 26px;
 }
 
-/*----------------------------------------header-------------------------------*/
+/* header */
 
 #header{
 	height:122px;
@@ -30,19 +128,19 @@ body {
 }
 
 #pet_logo{
-	width: 312px;
-	height: 121px;
+	width: 383px;
+	height: 118px;
 	float:left;	
 }
 
 #pet_tagline{
 	width:400px;
-	height:97px;
+	height:99px;
 	float:right;
 	padding:0px;
 	margin:0px;
 }
-/*----------------------------------------navigation-------------------------------*/
+/* navigation */
 
 #navigation{
 	float:right;
@@ -55,32 +153,34 @@ body {
 #navigation ul li{
 	display: inline;
 	font-family:"Franklin Gothic Demi Cond"; "Arial Cond"; "Helvetica"; sans-serif;
-	padding-left: 75px;
+	padding-left: 85px;
 	font-size: 20px;
+	float:right;
 }
 
 #navigation ul li a{
-	color:#007083;
+	color:#001648;
 }
 
 #navigation ul li a:hover{
-	font-family:"Franklin Gothic Book"; "Arial"; "Helvetica"; sans-serif;
-	color:#ee3680;
+	font-family:"Franklin Gothic Demi Cond"; "Arial Cond"; "Helvetica"; sans-serif;
+	color:#ffff00;
 }
 
-/*----------------------------------------body-------------------------------*/
+/* body */
 
 .container #welcome{
 	height:353px;
 	/*background-color:purple;*/
 	margin-bottom:0px;
 	margin-top:35px;
-	padding:25px 25px 0 25px;
+	padding:25px 25px 25px 50px;
 	width:950px;
 }
 
 .container #product{
 	height:425px;
+	width:1000px;
 	background-color:white;
 	margin-top:25px;
 	margin-bottom:0px;
@@ -90,7 +190,7 @@ body {
 }
 
 .container #about{
-	height:400px;
+	height:375px;
 	/*background-color:white;*/
 	margin-top:50px;
 	margin-bottom:0px;
@@ -98,17 +198,16 @@ body {
 
 #about_text{
 	height:300px;
-	width:500px;
-	float:right;
+	width:450px;
+	float:left;
 	padding:5px 5px 5px 5px;
 	margin-bottom:25px;
 	margin-left:25px;
-	margin-right:30px;
+	margin-right:0px;
+	background-color:#6fd5f7;
 	font-family:"Franklin Gothic Book", "Arial", "Helvetica", Sans-serif;
 	overflow-y:scroll;
 	overflow-x:hidden;
-	border-bottom:1px solid black;
-	-webkit-box-shadow: inset 0 -20px 50px rgba(0,0,0,0.3);
 }
 
 #about_text::-webkit-scrollbar{
@@ -140,13 +239,13 @@ body {
 
 #about_text h2{
 	font-family:"Times", "Times New Roman", serif;
-	color:white;
+	color:#001648;
 	font-size:15px;
 }
 
 #about_text a{
 	font-family:"Franklin Gothic Demi Cond", "Arial", "Helvetica", sans-serif;
-	color:#007083;
+	color:#ffff00;
 	font-size:20px;
 }
 
@@ -172,17 +271,18 @@ body {
 	box-shadow:0px 0px 15px #000;*/
 }
 
-/*-------------main product images-----------------*/
+/* main product images */
 
 .small_image{
 	height:100px;
 	width:400px;
-	padding:0 25px 0 25px;
 }
 
 .small_image #berg_website{
 	height:100px;
-	margin-left:25px;
+	-webkit-box-shadow:5px 5px 5px #666;
+	-moz-box-shadow:5px 5px 5px #666;
+	box-shadow:5px 5px 5px #666;
 }
 
 .large_image{
@@ -202,8 +302,7 @@ body {
 	width:390px;
 	padding:5px 5px 5px 5px;
 	margin-bottom:25px;
-	margin-left:25px;
-	margin-right:30px;
+	float:left;
 	font-family:"Franklin Gothic Book", "Arial", "Helvetica", Sans-serif;
 	overflow-y:scroll;
 	overflow-x:hidden;
@@ -244,10 +343,10 @@ body {
 	font-size:15px;
 }
 
-/*------------------------bed thumbs---------------------*/
+/* bed thumbs */
 
 .scrollable{
-	height:97px;
+	height:117px;
 	margin-bottom:0px;
 	width:1000px;
 	overflow: hidden;
@@ -291,18 +390,26 @@ visibility:hidden !important;
 	float:left;
 }
 
+.bed_thumbs #text{
+	font-family: "Franklin Gothic Cond", "Arial Narrow", sans-serif;
+	color:#001648;
+	size:10px;
+	height:11px;
+}
+
 #image_caption {	
 	height:175px;
 	width:390px;
-	padding:5px 5px 5px 5px;
 	margin:25px 30px 25px 25px;
 	font-family:"Times New Roman", "Times", serif;
 	float:right;
 /*	overflow-y:scroll;
 	overflow-x:hidden;
-	-webkit-box-shadow: inset 0 -10px 5px rgba(0,0,0,0.3);  --------------------------	Scrollbar of image caption*/
+	-webkit-box-shadow: inset 0 -10px 5px rgba(0,0,0,0.3);  
+	
+		Scrollbar of image caption*/
 }
-/*----------------------------------------Scrollbar of image caption
+/* Scrollbar of image caption
 #image_caption::-webkit-scrollbar{
 	width:10px;
 	height:15px;
@@ -353,15 +460,15 @@ visibility:hidden !important;
 }
 
 
-/*---------------simple overlay----------------------*/
+/* simple overlay */
 
 .specifications{
 	width:1000px;
 	height:30px;
-	background:white;
+	margin-top:5px;
 }
 
-.specifications #container{
+.specifications #wrap{
 	height:30px;
 	width:300px;
 	margin-left:25px;
@@ -369,14 +476,15 @@ visibility:hidden !important;
 	text-align:center;
 	font-family: "Franklin Gothic Demi Cond", "Arial", "Helvetica", sans-serif;
 	font-size:20px;
+	background-color:#94c947;
 }
 
-.specifications #container a{
+.specifications #wrap a{
 	color:#001648;
 	vertical-align:middle;
 }
 
-/*---------------------overlay---------------------------*/
+/* overlay */
 
 .simple_overlay {
 	display:none;
@@ -388,7 +496,7 @@ visibility:hidden !important;
 	color:#999;
 }
 
-.simple_overlay#mc .close {
+.simple_overlay#mattressCover .close {
 	background-image: url("../img/overlay_close.png");
 	position:absolute;
 	right: 1px;
@@ -434,39 +542,32 @@ visibility:hidden !important;
 	position:absolute;
 	z-index:9999;
 	right:-476px;
-	width:936px;
-	height:735px;
+	width:525px;
+	height:350px;
 	background-color:#FFF;
-	border:8px solid #FFFF00;
 	-webkit-box-shadow:5px 5px 5px #666;
 	-moz-box-shadow:5px 5px 5px #666;
 	box-shadow:5px 5px 5px #666;
-	-moz-border-radius: 5px 5px 5px 5px;
-	-webkit-border-radius: 5px;
-	border-radius:5px;
 }
 
 .simpleOverlayWrap {
-	width:500px;
-	height:300px;
+	width:auto;
+	height:auto;
+	margin:10px;
 	float:left;
-	background-color:blue;
 }
 
-.simple_overlay#mc {
+.simple_overlay#mattressCover {
 	position:absolute;
 	z-index:9999;
 	right:-476px;
-	width:775px;
-	height:1100px;
+	width:448px;
+	height:175px;
+	padding:25px;
 	background-color:#FFF;
-	border:8px solid #FF3399;
 	-webkit-box-shadow:5px 5px 5px #666;
 	-moz-box-shadow:5px 5px 5px #666;
 	box-shadow:5px 5px 5px #666;
-	-moz-border-radius: 5px 5px 5px 5px;
-	-webkit-border-radius: 5px;
-	border-radius:5px;
 }
 
 .simple_overlay_knob_title{
@@ -562,18 +663,55 @@ visibility:hidden !important;
 	width:35px;
 }
 
-/*---------------------contact css-------------------------*/
+.fabric_thumbs{
+	width:97px;
+	height:200px;
+	padding-left:25px;
+	float:left;
+}
 
-#contact-form {
+.fabric_thumbs #text{
+	font-family: "Franklin Gothic Cond", "Arial Narrow", sans-serif;
+	color:#001648;
+	size:10px;
+	height:11px;
+	padding-left:0;
+	position:relative;
+}
+
+.fabric #text{
+	font-family: "Franklin Gothic Cond", "Arial Narrow", sans-serif;
+	color:#001648;
+	size:10px;
+	height:50px;
+	padding:25px;
+	width:150px;
+	height:30px;
+	background-color:blue;
+	position:relative;
+}
+
+.fabric_wrap{
+	width:400px;
+	height:97px;
+	font-family:"Times New Roman", "Times", serif;
+	color:#001648;
+	font-size:15px;
+}
+
+
+/* contact css */
+
+#contactFormWrap {
 	text-align:right;
-	height: auto;
-	width: 300px;
+	height: 700px;
+	width: 400px;
 	text-align: left;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	line-height:20px;
-	color:#007083;
-	padding: 20px 20px 50px 0px;
+	color:#001648;
+	padding: 25px;;
 	float: right;
 }
 
