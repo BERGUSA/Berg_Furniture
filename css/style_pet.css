@@ -101,18 +101,17 @@ table {
 /*Style for the Pet website*/
 
 body {
-	background-image: url("../img/pet/paw_background_gradient.jpg");
-	/*background-attachment: fixed;*/
+	background-image: url("../img/pet/bluepaw.jpg");
+	background-attachment: fixed;
 }
 
 .container {
-	width:1000px;
-	height:1875px;
-	/*background-color:#001648;*/
+	width:1100px;
+	height:2430px;
+	background-color:#ffffbf;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top:25px;
-	margin-bottom:150px;
 }
 
 .caption {
@@ -124,6 +123,8 @@ body {
 
 #header{
 	height:122px;
+	width:1000px;
+	margin:0 auto 0 auto;
 	/*background-color: #990033;*/
 }
 
@@ -153,7 +154,7 @@ body {
 #navigation ul li{
 	display: inline;
 	font-family:"Franklin Gothic Demi Cond"; "Arial Cond"; "Helvetica"; sans-serif;
-	padding-left: 85px;
+	padding-left: 65px;
 	font-size: 20px;
 	float:right;
 }
@@ -164,22 +165,26 @@ body {
 
 #navigation ul li a:hover{
 	font-family:"Franklin Gothic Demi Cond"; "Arial Cond"; "Helvetica"; sans-serif;
-	color:#ffff00;
+	color:#94c947;
 }
 
 /* body */
 
 .container #welcome{
 	height:353px;
-	/*background-color:purple;*/
+	width:1000px;
+	background-color:#94c947;
 	margin-bottom:0px;
 	margin-top:35px;
-	padding:25px 25px 25px 50px;
+	padding:25px 0 0 25px;
 	width:950px;
+	-webkit-box-shadow:0px 0px 15px #000;
+	-moz-box-shadow:0px 0px 15px #000;
+	box-shadow:0px 0px 15px #000;
 }
 
 .container #product{
-	height:425px;
+	height:450px;
 	width:1000px;
 	background-color:white;
 	margin-top:25px;
@@ -190,21 +195,44 @@ body {
 }
 
 .container #about{
-	height:375px;
-	/*background-color:white;*/
-	margin-top:50px;
-	margin-bottom:0px;
+	height:380px;
+	width:948px;
+	margin:50px auto 0 auto;
+	padding:25px 25px 0 25px;
+	/*background-color:#ffff64;
+	border: 1px solid #001648;
+	-moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;*/
+}
+
+.made_in_usa{
+	margin:0 auto 30px auto;
+	height:19px;
+	width:989px;
+	background: url("../img/pet/usa_made.png");
+	padding:5px;
+	size:12pt;
+}
+
+.made_in_usa a{
+	font-style:italic;
+	color:#94c947;
+	font-family:"Franklin Gothic Demi", "Arial Bold", "Helvetica Bold", sans serif;
+}
+
+.made_in_usa a:hover{
+	font-style:italic;
+	color:#ffff00;
+	font-family:"Franklin Gothic Demi", "Arial Bold", "Helvetica Bold", sans serif;
 }
 
 #about_text{
-	height:300px;
-	width:450px;
+	height:175px;
+	width:375px;
 	float:left;
-	padding:5px 5px 5px 5px;
-	margin-bottom:25px;
-	margin-left:25px;
-	margin-right:0px;
-	background-color:#6fd5f7;
+	padding:5px 5px 0 10px;
+	margin-top:20px;
 	font-family:"Franklin Gothic Book", "Arial", "Helvetica", Sans-serif;
 	overflow-y:scroll;
 	overflow-x:hidden;
@@ -222,18 +250,16 @@ body {
 #about_text::-webkit-scrollbar-track{
 	background-color:#001648;
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-	border-radius:10px;
 }
 
 #about_text::-webkit-scrollbar-thumb{
 	background-color:#94c947;
-	border-radius:10px;
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
 }
 
 #about_text h1{
 	font-family:"Franklin Gothic Demi Cond";
-	color:#ffff00;
+	color:#94c947;
 	font-size:35px;
 }
 
@@ -245,7 +271,7 @@ body {
 
 #about_text a{
 	font-family:"Franklin Gothic Demi Cond", "Arial", "Helvetica", sans-serif;
-	color:#ffff00;
+	color:#001648;
 	font-size:20px;
 }
 
@@ -261,28 +287,20 @@ body {
 	font-size:20px;
 }
 
-.container #contact{
-	height:400px;
-	/*background-color:white;*/
-	margin-bottom:0px;
-	margin-top:0px;
-	/*-webkit-box-shadow:0px 0px 15px #000;
-	-moz-box-shadow:0px 0px 15px #000;
-	box-shadow:0px 0px 15px #000;*/
-}
-
 /* main product images */
 
 .small_image{
 	height:100px;
-	width:400px;
+	width:410px;
 }
 
 .small_image #berg_website{
-	height:100px;
-	-webkit-box-shadow:5px 5px 5px #666;
-	-moz-box-shadow:5px 5px 5px #666;
-	box-shadow:5px 5px 5px #666;
+	-webkit-box-shadow:0px 0px 15px #666;
+	-moz-box-shadow:0px 0px 15px #666;
+	box-shadow:0px 0px 15px #666;
+	float:left;
+	position:relative;
+	margin-left:10px;
 }
 
 .large_image{
@@ -300,54 +318,15 @@ body {
 #text_box{
 	height:175px;
 	width:390px;
-	padding:5px 5px 5px 5px;
-	margin-bottom:25px;
 	float:left;
-	font-family:"Franklin Gothic Book", "Arial", "Helvetica", Sans-serif;
-	overflow-y:scroll;
-	overflow-x:hidden;
-	border-bottom:1px solid black;
-	-webkit-box-shadow: inset 0 -20px 50px rgba(0,0,0,0.3);
+	position:relative;
+	margin:10px 0 25px 10px;
 }
-
-#text_box::-webkit-scrollbar{
-	width:10px;
-	height:15px;
-}
-
-#text_box::-webkit-scrollbar-track-piece{
-	width:2px;
-}
-
-#text_box::-webkit-scrollbar-track{
-	background-color:#001648;
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-	border-radius:10px;
-}
-
-#text_box::-webkit-scrollbar-thumb{
-	background-color:#94c947;
-	border-radius:10px;
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
-}
-
-#text_box h1{
-	font-family:"Franklin Gothic Demi Cond";
-	color:#ffff00;
-	font-size:35px;
-}
-
-#text_box h2{
-	font-family:"Times New Roman", "Times", serif;
-	color:white;
-	font-size:15px;
-}
-
 /* bed thumbs */
 
 .scrollable{
 	height:117px;
-	margin-bottom:0px;
+	margin:0 auto 0 auto;
 	width:1000px;
 	overflow: hidden;
 }
@@ -456,7 +435,7 @@ visibility:hidden !important;
 	height:324px;
 	width:498px;
 	float:left;
-	margin:25px 25px 25px 25px;
+	margin:25px 25px 25px; 25px;
 }
 
 
@@ -464,24 +443,30 @@ visibility:hidden !important;
 
 .specifications{
 	width:1000px;
-	height:30px;
+	height:40px;
 	margin-top:5px;
+	float:left;
+	background:#94c947;
 }
 
 .specifications #wrap{
 	height:30px;
 	width:300px;
 	margin-left:25px;
+	padding-top:10px;
 	float:left;
 	text-align:center;
 	font-family: "Franklin Gothic Demi Cond", "Arial", "Helvetica", sans-serif;
 	font-size:20px;
-	background-color:#94c947;
 }
 
 .specifications #wrap a{
 	color:#001648;
 	vertical-align:middle;
+}
+
+.specifications #wrap a:hover{
+	color:#94c947;
 }
 
 /* overlay */
@@ -704,15 +689,21 @@ visibility:hidden !important;
 
 #contactFormWrap {
 	text-align:right;
-	height: 700px;
-	width: 400px;
+	background-image: url("../img/notebookpaper.png");
+	background-position: top center;
+	background-repeat:no-repeat;
+	margin-right:50px;
+	height: 600px;
+	width: 380px;
 	text-align: left;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
-	line-height:20px;
-	color:#001648;
-	padding: 25px;;
+	line-height:17px;
 	float: right;
+	padding:50px 100px;
+	-webkit-box-shadow:0px 0px 15px #000;
+	-moz-box-shadow:0px 0px 15px #000;
+	box-shadow:0px 0px 15px #000;
 }
 
 #contact-form .buttonSubmit {
@@ -750,4 +741,19 @@ visibility:hidden !important;
 
 .MsgSent p {
 	font-size:15px;
+}
+
+.footer{
+	margin-top: 15px;
+	height:30px;
+	width:1000px;
+	padding:5px;
+	font-size:12px;
+	text-align:center;
+	font-family:"Times", serif;
+	color:white;
+	background-color:#001648;
+	margin-bottom:100px;
+	margin-left: auto;
+	margin-right: auto;
 }

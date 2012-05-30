@@ -6,20 +6,24 @@
 <body>
 
 			<?php include 'options_pet.php'; ?>
+			<?php require("contact_config_pets.php"); ?>
 
 <div class="container">
 	<!--HEADER-->
+	
+	<div id="row1">&nbsp;</div>
+	
 	<div id="header">
 		
 		<div id="pet_logo">
 		
-			<img src="img\pet\pet_logo.png" alt="Berg Furniture Pets! Logo">
+			<img src="img\pet\pet_logo_black.png" alt="Berg Furniture Pets! Logo">
 		
 		</div>
 		
 		<div id="pet_tagline">
 			
-			<img src="img\pet\pet_tagline.png" alt="Pets are special... make their beds special too!">
+			<img src="img\pet\pet_tagline_black.png" alt="Pets are special... make their beds special too!">
 			
 		</div>
 		
@@ -27,9 +31,9 @@
 			
 			<ul>
 				
-				<li><a href="pets.php#row2">Furniture</a></li>
-				<li><a href="pets.php#row3">About</a></li>	
 				<li><a href="pets.php#row4">Contact</a></li>
+				<li><a href="pets.php#row3">About</a></li>	
+				<li><a href="pets.php#row2">Furniture</a></li>
 				
 			</ul>
 		
@@ -52,36 +56,16 @@
 			
 		</div>
 		
-		<!--<div id="text_box">
+			<div id="text_box">
 			
-			<h1>HEADER ABOUT BEDS</h1><br>
-			<h2>This is a letter from Almog, <br><br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a dolor vitae nisl euismod 
-			eleifend. Praesent mattis, ipsum ut pulvinar rutrum, neque magna ultrices purus, ac rhoncus 
-			metus dui eu magna. Sed arcu nunc, accumsan vel dignissim ut, consectetur sit amet velit. 
-			Nulla facilisi. Curabitur at mauris eu mauris semper ullamcorper. Class aptent taciti 
-			sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam quam purus, 
-			cursus ut tincidunt viverra, imperdiet sit amet libero.<br><br>
-
-			In hac habitasse platea dictumst. Donec ornare viverra vulputate. Nullam quis augue sit amet
-			neque molestie feugiat at et libero. Mauris eu est turpis, in laoreet ipsum. Nulla sed turpis
-			turpis. Etiam non eros in lorem accumsan egestas. Aenean gravida massa et sem rutrum 
-			gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac 
-			turpis egestas. Maecenas nisl nisi, cursus vitae semper consequat, fermentum ut nunc. 
-			Donec semper lacus ut sem posuere nec blandit ipsum tincidunt. Vivamus nec mi massa. 
-			Suspendisse et sapien urna, non egestas nunc. Vestibulum ante ipsum primis in faucibus 
-			orci luctus et ultrices posuere cubilia Curae; Mauris at ante eget augue scelerisque 
-			adipiscing.<br><br>
+			<img src="img/pet/furniture.jpg" alt="finally, furniture for your friends!">
 			
-			Sincerely,<br>
-			Almog Lieber<br>
-			<i>President</i>
-			</h2>
-		</div>-->
+			</div>
 			
 			<div class="small_image" id="berg_website">
-				<a href="index.php"> <img src="img\pet\berg_website.jpg" alt="View our children's furniture"> </a>
+				<a href="index.php"><img src="img\pet\berg_website.jpg" alt="View our children's furniture"></a>
 			</div>
+			
 			
 	</div>	
 	
@@ -219,12 +203,8 @@
 					<img src="img/pet/1px.gif" alt="The larger product image">
 		
 			</div>
-		
-		
-		
-	</div>
-	
-		<div class="specifications">
+			
+			<div class="specifications">
 			
 			<div class="specificatons" id="wrap">
 				
@@ -246,10 +226,19 @@
 						
 		</div>
 		
+		
+		
+	</div>
+	
+		
+		
 		<div id="row3">&nbsp;</div>
 <!--about-->
 
 <div class="container" id="about">
+	
+		
+			<a href="pets.php#row1"><img src="img\pet\pet_logo_black.png" alt="Berg Furniture Pets! Logo"></a>
 		
 		<div class="slideshow">
 			
@@ -267,72 +256,77 @@
 			<h2>Since 1984 Berg has been designing and producing innovative children's furniture. 
            	Throughout the years many of the designs, styles, and collections have changed but the 
         	heart behind the products remained the same. We know that the environment around us is 
-            affecting our lives. We know that a growing child will develop into a better person, if he 
-            or she will be surrounded by loving people and a supportive environment. Many of our 
+            affecting our lives and we know that a growing child will develop into a better person, if  
+            they are surrounded by loving people and a supportive environment. Many of our 
             products are designed in light of that concept!<br><br>
 
 			We are now applying that disposition of quality, safety and creativity to actual furniture for your
-			pets at affordable prices. Our units are great for training, storage and comfort. They are a
-			great addition to any room in the house while the sleek finishes add a classic
-			touch. All of our products are proudly made in the USA.
-			 We meet the high quality standards
-			our society demands while keeping our products safe and enjoyable.
+			pets at affordable prices. Our units are great for training, storage and comfort. 
+			A bed develops a better psyche for the pet and the owner by providing a 
+			private space for the pet while controlling the spread of fur and dander throughout
+			the house for the owner. The pet beds are a great addition to any room in 
+			the house while the sleek finishes add a classic
+			touch. As well as our children's products,
+			our pet beds are proudly made in the USA. While meeting the high quality standards
+			our society demands, we keep all of our products safe and enjoyable.
 			
 		</h2> <br>
 			<a href="why_buy_berg.php">For more information, click here!</a>
 			
 		</div>
-		
-
 	
 </div>
 
+<div class="made_in_usa">
+	
+	<a href="why_buy_berg.php">Click to view more information!</a>
+
+</div>
+		
+
 <!--contact-->
 <div id="row4">&nbsp;</div>
-<div class="container" id="contact">
 
 	<div id="contactFormWrap">
 		
 			<img src="img/pet/contact_us.png" float="right">
 	
-						<?php require("contact_config_pets.php"); ?>
-	
 	<!-- Start HTML form -->
 					   	<form name="form" method="post" action="<?php echo $self;?>" id="contact-form" class="contact-form">
 							
 					        <!-- Name -->
-							<label for="name"><strong><span class="red"></span> Name</strong></label>
-							<input placeholder="First and Last" id="name" name="name" type="text" class="required" size="20" />
+							<label for="name"><strong><span class="red"></span> Name:</strong></label><br>
+							<input placeholder="First and Last Name" id="name" name="name" type="text" class="required" size="20" />
 					            <br>
 					            
 					       <!-- City -->
-							<label for="city"><strong><span class="red"></span> City</strong></label>
-							<input id="city" name="city" type="text" class="required" size="20" />
+							<label for="city"><strong><span class="red"></span> City:</strong></label><br />
+							<input placeholder="City" input id="city" name="city" type="text" class="required" size="20" />
 					            <br>
 					            
 				           <!-- State -->
-							<label for="state"><strong><span class="red"></span> State</strong></label>
-							<input id="state" name="state" type="text" class="required" size="2" />
+							<label for="state"><strong><span class="red"></span> State:</strong></label><br />
+							<input placeholder="State" input id="state" name="state" type="text" class="required" size="20" />
 								<br>
 								
 					       <!-- Email -->
-							<label for="email"><strong><span class="red"></span> Email</strong></label>
-							<input id="email" name="email" type="text" class="required" size="20" />
+							<label for="email"><strong><span class="red"></span> Email:</strong></label><br /> 
+							<input placeholder="E-mail Address" input id="email" name="email" type="text" class="required" size="20" />
 					 			<br>
 					 			
 							<!-- Daytime Phone Number -->
-							<label for="phone"><strong> Phone Number</strong> </label>
-							<input id="phone" name="phone" type="text" class="not-required" size="20" />					        
+							<label for="phone"><strong> Phone Number:</strong> </label><br />
+							<input placeholder="Phone Number" input id="phone" name="phone" type="text" class="not-required" size="20" />					        
 					       		<br>
 					       							       		
 					       <!-- Subject -->
-							<label for="subject"><strong><span class="red"></span> Subject</strong></label>
-							<input id="subject" name="subject" type="text" class="required" size="20" />
+							<label for="subject"><strong><span class="red"></span> Subject:</strong></label><br />
+							<input placeholder="Subject" input id="subject" name="subject" type="text" class="required" size="20" />
 								<br>
 								
 							<!-- Message -->
-							<label for="msg"><strong><span class="red"></span> Your message</strong></label><br />
-							<textarea id="message" name="message" class="required" rows="10" cols="30"></textarea>
+							<label for="msg"><strong><span class="red"></span> Your message:</strong></label><br />
+							<textarea id="message" input placeholder="Your Message Here!" name="message" class="required" rows="10" cols="30"></textarea>
 					
 							<br />
 							<input type="submit" class="buttonSubmit" value="Send it!" />
@@ -342,8 +336,18 @@
 						</form> 
 
 	</div>
-</div>
-</div>
+	
+	</div>
+	
+	<div class="footer">
+		
+		Copyright 2012 Berg Furniture | All photos, text and logos are property of Berg Furniture U.S.A., Inc. and may 
+		not be used without the written consent of Berg Furniture U.S.A., Inc.
+	
+	</div>
+	
+	
+	
 	
 </body>
 	

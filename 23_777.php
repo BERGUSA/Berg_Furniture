@@ -70,6 +70,9 @@
 										<img src="img/MainProdPics/23-777A_t.jpg" 
                                         title="Shown in White with Red Knobs; <b><i>Optional</b> Under-bed 4 Drawer Chest</i>"/>
                                         
+                                        <img src="img/MainProdPics/23-777-mini_t.jpg" 
+                                        title="This unit is also available in Mini!"/>
+                                        
                                         <img src="img/MainProdPics/23-777B_t.jpg" 
                                         title="Shown in White with Red Knobs"/>
                                         
@@ -116,6 +119,7 @@
                                   <li><a href="23_815.php"><b>23-815</b> Twin/Full Loft</a></li>
                                   <li><a href="23_835.php"><b>23-835</b> Twin Dorm Loft</a></li>
                                   <li><a href="23_905.php"><b>23-905</b> Full Loft</a></li>
+                                  <li><a href="23_935.php"><b>23-935</b> Full/Full Loft</a></li>
                                   <li style="display:block; background-color:#F60;"><b>23-777</b> Trifecta Triple Twin Loft</li>
                                   <li><a href="mix_and_match.php"><b>Mix &amp; Match</b></a></li>
                                   <br />

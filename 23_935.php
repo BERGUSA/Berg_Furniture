@@ -1,5 +1,5 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | Utica | 23&ndash;905</title>
+<title>Berg Furniture | Utica | 23&ndash;935</title>
 
 </head>
 	<body>
@@ -23,20 +23,24 @@
                         		<h2>Full Loft </h2><h3>#23-905</h3>
                                 <br />
                                 <p>
-                               With the Utica Full Loft, a room can be as much or as little as children would like.  Guaranteed to please, this line starts with a basic full-size loft that is customized through handpicked items designed to give parents and children exactly what they want.  From simplicity to extravagance, one child or two, there's no Utica Loft that won't make you and your children happy.  Included is Berg's Signature Staircase with 5 extra-deep drawers, giving you space to sleep, store and explore!
+                               The traditional bedroom system, up-sized! 
+                               The Utica full over full unit is crafted to fit two standard full-sized mattresses.
+                               An optional trundle for an extra twin-sized mattress, overhead bookcase, 
+                               or two storage drawers are available to accesorize and add storage to the unit.
+                               The Berg Signature Staircase also adds safety and storage over the traditional ladder!
                                 </p>
                                
                                 <br />
                                 <br />
                                 <h3>Features</h3>
                                 <ul>
-                                	<li>Full Size Loft Bed</li>
+                                	<li>2 Full Size Beds</li>
                                     <li>Berg's Signature Staircase</li>
-                                    <li>Build-a-Bed Add-on Options</li>
+                                    <li>Lower Bunk Window</li>
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
-                                    <div style="top:21px; left: 5px;">74.5"H</div>
-                                    <div style="top:40px; left: 40px;">61"D</div>
+                                    <div style="top:21px; left: 5px;">78"H</div>
+                                    <div style="top:40px; left: 40px;">59"D</div>
                                     <div style="top:77px; left: 70px;">96"L</div>
                                 </div>
                                 <br />
@@ -52,19 +56,14 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
-                                    	<img title="Shown in Chestnut with Black knobs and with <b>optional</b> full bed, hanging shelves and nightstand.</b></i>" 
-                                        src="img/MainProdPics/23-905F_t.jpg" />
-                                        <img title="Shown in Chestnut with Black Knobs; <b><i>Optional</b> Desk Station, Cork Board &amp; Shelves, and Deluxe Chair</i>"
-                                        src="img/MainProdPics/23-905C_t.jpg" />
-                                        <img title="Shown in Chestnut with Black Knobs; <b><i>Optional</b> Desk Station, Cork Board &amp; Shelves, and Deluxe Chair</i>"
-                                        src="img/MainProdPics/23-905D_t.jpg" />
-                                        <img title="Shown in Chestnut with Black Knobs; <b><i>Optional</b> Desk Station, Cork Board &amp; Shelves, and Deluxe Chair</i>"
-                                        src="img/MainProdPics/23-905E_t.jpg" />
-                                        <img title="Displayed in White with Matching Knobs; <b><i>Optional</b> Yellow Brush Accents, Study Station, and Deluxe Chair</i>" 	
-                                        src="img/MainProdPics/23-905A_t.jpg" />
-                                        
-                                        <img title="Displayed in White with Matching Knobs; <b><i>Optional</b> Hot Pink Accents, Study Station, and Deluxe Chair</i>" 
-                                        src="img/MainProdPics/23-905B_t.jpg" />
+                                    	<img title="Shown in Natural with Black knobs and with <b>optional</b> Blue Jay (#27) accents, tundle, and hanging shelf.</b></i>" 
+                                        src="img/MainProdPics/23-935_t.jpg" />
+                                        <img title="From our tradeshow in High Point, NJ. Shown in Chestnut with Antique Copper knobs also with an <b><i>Optional</b> desk and hanging shelf.</i>"
+                                        src="img/MainProdPics/23-935A_t.jpg" />
+                                        <img title="From our tradeshow in High Point, NJ. Shown in Chestnut with Antique Copper knobs and <b><i>optional</b> hanging shelf</i>"
+                                        src="img/MainProdPics/23-935B_t.jpg" />
+                                        <img title="From our tradeshow in High Point, NJ. Shown in Chestnut with Antique Copper knobs and <b><i>optional</b> hanging shelf</i>"
+                                        src="img/MainProdPics/23-935C_t.jpg" />
                                        
                                        
                                     	
@@ -76,13 +75,13 @@
                       <div id="iconBar">
                             
                          <div id="icons">
-                           	 <img src="img/images/icons/1.png" 
+                           	 <img src="img/images/icons/2.png" 
                                 	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two kids" />
                              <img src="img/images/icons/stairs.png" 
                                 	title="<h4>Berg's Signature Staircase</h4><br />This system is equipped with Berg's Signature Staircase. This innovative 				 											original feature provides safe access to the top loft and lots of storage in each step" />
                              
                              <img src="img/images/icons/full.png" 
-                                title="<h4>Full Loft Bed</h4><br />The frame on this furniture set is built to support a full sized bed. The lofted bed is manufactured with a solid board as the mattress support (no slats here!) and can hold up to 250 lbs. 	
+                                title="<h4>Full Loft Bed</h4><br />The frames on this furniture set is built to support two full sized beds. The lofted bed is manufactured with a solid board as the mattress support (no slats here!) and can hold up to 250 lbs. 	
                                 			 " />
                                               <div id="rollover">Roll-over icons for more info</div>
                             
@@ -97,8 +96,8 @@
                                   <li><a href="23_805.php"><b>23-805</b> Twin/Twin Loft</a></li>
                                   <li><a href="23_815.php"><b>23-815</b> Twin/Full Loft</a></li>
                                   <li><a href="23_835.php"><b>23-835</b> Twin Dorm Loft</a></li>
-                                 <li style="display:block; background-color: #F60;"><b>23-905</b> Full Loft</li>
-                                 <li><a href="23_935.php"><b>23-935</b> Full/Full Loft</a></li>
+                                  <li><a href="23_905.php"><b>23-905</b> Full Loft</a></li>
+                                 <li style="display:block; background-color: #F60;"><b>23-935</b> Full/Full Loft</li>
                                   <li><a href="23_777.php"><b>23-777</b> Trifecta Triple Twin Loft</a></li>
                                   <li><a href="mix_and_match.php"><b>Mix &amp; Match</b></a></li>
                                   <br />

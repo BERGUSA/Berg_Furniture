@@ -50,6 +50,10 @@
                                 	<div class="items">
                                     	<img src="img/MainProdPics/40-515A_t.jpg" 
                                         title="Shown in White with Antique Pewter Knobs; Optional Trundle and Hanging Shelf"/>
+                                        
+                                        <img src="img/MainProdPics/40-515-mini_t.jpg" 
+                                        title="This unit is also available in Mini!"/>
+                                        
                                         <img src="img/MainProdPics/40-515B_t.jpg" 
                                         title="The Optional Trundle adds an additional sleeping area or extra storage!"/>
                                     
