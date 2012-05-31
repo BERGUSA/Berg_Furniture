@@ -80,6 +80,17 @@ $(document).ready(function(){
 		//This is a roundabout way to remove the tooltips from displaying when the thumbnail is hovered over.  
 		changeAttributes(".items img", "title", "data-caption");
 		
+				$(".bed_thumbs img").click(function(){
+			var url = $(this).attr("src").replace("_t.png","_line.jpg");
+			var wrap = $(".simpleOverlayWrap").fadeTo("medium", 1);
+			var img = new Image();
+			img.onload = function () {
+				wrap.fadeTo("fast", 1);
+				wrap.find("img").attr("src",url);
+			};
+			img.src = url;
+		}).filter(":first").click();
+		
 		$(".bed_thumbs img").click(function() {
 		// calclulate large image's URL based on the thumbnail
 		// thumbnails have a '_t' appended to them, large images don't
@@ -114,21 +125,12 @@ $(document).ready(function(){
 
 		// when page loads simulate a "click" on the first image
 		}).filter(":first").click();
-		
-		$(".bed_thumbs img").click(function(){
-			var url = $(this).attr("src").replace("_t.png","_line.jpg");
-			var wrap = $(".simpleOverlayWrap").fadeTo("medium", 1);
-			var img = new Image();
-			img.onload = function () {
-				wrap.fadeTo("fast", 1);
-				wrap.find("img").attr("src",url);
-			};
-			img.src = url;
-		}).filter(":first").click();
+	
+
 
 
 //testing for dims
-		
+	
 
 //img2		
 /*

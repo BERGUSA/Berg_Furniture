@@ -31,7 +31,7 @@
                         <li><a href="/consTech.php">Construction &amp; Tech</a></li>
                         <li><a href="/testimonies.php">Testimonials</a></li>
                         <li><a href="/history.php">History</a></li>
-						<li><a href="/room_ideas_new.php">Room Ideas</a></li>
+						<li><a href="/room_ideas.php">Room Ideas</a></li>
                     </ul>
                 </div>
                 <div style="padding-left: 30px; border-left: #333 solid thin;" id="gNcomm">

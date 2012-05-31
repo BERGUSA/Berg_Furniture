@@ -51,6 +51,16 @@
                             </div>
                             
                             <div class="prodTab">
+                            <a href="23_935.php"><img src="img/Coll_pics/23-935.jpg" />
+                            <p><b>23-935</b><br/>Full/Full Dorm Loft</p></a>
+                            </div>
+                            
+                            <div class="prodTab">
+                            <a href="23_766.php"><img src="img/Coll_pics/23-766.jpg" />
+                            <p><b>23-766</b><br/>Twin/Twin Loft</p></a>
+                            </div>
+                            
+                            <div class="prodTab">
                             <a href="23_777.php"><img src="img/Coll_pics/23-777.jpg" />
                             <p><b>23-777</b><br/>Trifecta Triple Twin Loft</p></a>
                             </div>

@@ -73,8 +73,7 @@
 	
 <!--	<a class="prevPage browse left"></a> -->
 		
-		<div class="scrollable">
-		  <a href="pets.php#row2">
+		<div class="scrollable"><a href="pets.php#row2">
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-85_t.png"
@@ -85,8 +84,7 @@
 					P22-85
 				</div>
 			</div>
-		  </a>
-		  <a href="pets.php#row2">
+
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-86_t.png" 
@@ -98,8 +96,7 @@
 					P22-86
 				</div>
 			</div>
-		  </a>
-		  <a href="pets.php#row2">
+
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-88_t.png" 
@@ -111,8 +108,7 @@
 					P22-88
 				</div>
 			</div>
-		  </a>
-		  <a href="pets.php#row2">
+
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-89_t.png" 
@@ -124,8 +120,7 @@
 					P22-89
 				</div>
 			</div>
-		  </a>
-		  <a href="pets.php#row2">
+
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-935_t.png" 
@@ -139,8 +134,7 @@
 					P22-935
 				</div>
 			</div>
-		  </a>
-		  <a href="pets.php#row2">
+
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-945_t.png" 
@@ -153,8 +147,7 @@
 					P22-945
 				</div>
 			</div>
-		  </a>
-		  <a href="pets.php#row2">
+
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p40-535_t.png" 
@@ -165,8 +158,7 @@
 					P40-535
 				</div>	
 			</div>	
-		  </a>
-		  <a href="pets.php#row2">
+
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p23-777_t.png" 

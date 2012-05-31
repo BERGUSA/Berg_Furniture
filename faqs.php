@@ -82,13 +82,13 @@
 					<b><u>I bought a standard metal frame, but the frame isn't wide enough!</u></b>
 					<br /><br />
 					<p>With some cribs, the footboard and headboard might be about an inch or two wider than a standard full-size frame.
-					If this is the case, we have extention brackets available for purchase. Please <a href="crib_contact">contact us</a> to get a hold of these parts. 
+					If this is the case, we have extention brackets available for purchase. Please <a href="crib_contact.php">contact us</a> to get a hold of these parts. 
 					</p>
 					<br /><br />
 					
 					<b><u>What if I have other questions?</u></b>
 					<br /><br />
-					<p>You can reach us by visiting our <a href="contact_us.php">Contact Us</a> section on this website and submit your question.
+					<p>You can reach us by visiting our <a href="contact.php">Contact Us</a> section on this website and submit your question.
 					</p>
                      
         	</div>

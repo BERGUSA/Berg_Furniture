@@ -143,10 +143,14 @@
 							 <a href="/23_835.php">23-835</a>,
 
 							 <a href="/23_905.php">23-905</a>,
+							 
+							 <a href="/23_935.php">23-935</a>,
 
+							 <a href="/23_766.php">23-766</a>,
+							 
 							 <a href="/23_777.php">23-777</a>,
 
-							 <br /><a href="/mix_and_match.php">Mix &amp; Match</a>
+							 <a href="/mix_and_match.php">Mix &amp; Match</a>
 
                          </p>
 
