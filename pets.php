@@ -17,13 +17,13 @@
 		
 		<div id="pet_logo">
 		
-			<img src="img\pet\pet_logo_black.png" alt="Berg Furniture Pets! Logo">
+			<img src="img\pet\pet_logo_black_sm.png" alt="Berg Furniture Pets! Logo">
 		
 		</div>
 		
 		<div id="pet_tagline">
 			
-			<img src="img\pet\pet_tagline_black.png" alt="Pets are special... make their beds special too!">
+			<img src="img\pet\pet_tagline_black_sm.png" alt="Pets are special... make their beds special too!">
 			
 		</div>
 		
@@ -186,9 +186,9 @@
 		
 	<div class="container" id="product">
 			
-		<img src="img/pet/usa_made.png" alt="We proudly say our products are USA made!">
+				<img src="img/pet/usa_made.png" alt="We proudly say our products are USA made!">
 		
-		<div id="image_caption"></div>
+			<div id="image_caption"></div>
 		 		
 			<div class="imgWrap">
 				
@@ -196,23 +196,9 @@
 		
 			</div>
 			
-			<div class="specifications">
-			
-			<div class="specificatons" id="wrap">
-				
-				<a href="#" rel="#finishes">Click for Available Finishes</a>
-				
-			</div>
-			
 			<div class="specificatons" id="wrap">
 				
 				<a href="#" rel="#dims">Click for Dimensions</a>
-				
-			</div>
-			
-			<div class="specificatons" id="wrap">
-				
-				<a href="#" rel="#mattressCover">Click for Mattress and Cover</a>
 				
 			</div>
 						
@@ -228,44 +214,35 @@
 <!--about-->
 
 <div class="container" id="about">
-	
-		
-			<a href="pets.php#row1"><img src="img\pet\pet_logo_black.png" alt="Berg Furniture Pets! Logo"></a>
-		
-		<div class="slideshow">
-			
-			<img src="img/pet/factory-1.jpg" alt="An image from our factory!">
-			<img src="img/pet/factory-2.jpg" alt="An image from our factory!">
-			<img src="img/pet/factory-3.jpg" alt="An image from our factory!">
-			
-		</div>
-			
-		
-		<div id="about_text">
-			
-			<h1>A little bit about us...</h1>
-			<br>
-			<h2>Since 1984 Berg has been designing and producing innovative children's furniture. 
-           	Throughout the years many of the designs, styles, and collections have changed but the 
-        	heart behind the products remained the same. We know that the environment around us is 
-            affecting our lives and we know that a growing child will develop into a better person, if  
-            they are surrounded by loving people and a supportive environment. Many of our 
-            products are designed in light of that concept!<br><br>
-
-			We are now applying that disposition of quality, safety and creativity to actual furniture for your
-			pets at affordable prices. Our units are great for training, storage and comfort. 
-			A bed develops a better psyche for the pet and the owner by providing a 
-			private space for the pet while controlling the spread of fur and dander throughout
-			the house for the owner. The pet beds are a great addition to any room in 
-			the house while the sleek finishes add a classic
-			touch. As well as our children's products,
-			our pet beds are proudly made in the USA. While meeting the high quality standards
-			our society demands, we keep all of our products safe and enjoyable.
-			
-		</h2> <br>
-			<a href="why_buy_berg.php">For more information, click here!</a>
-			
-		</div>
+	<div class="slides">
+                                    
+                                     <!-- SLIDE 1 -->
+                                     <div><img src="img/pet/slide_mission.jpg" alt="Our Mission Statement"/>
+									 </div>
+									
+									 <!-- SLIDE 2 -->
+                                     <div><img src="img/pet/slide_USA.jpg" alt="Proud for our products to be made in the USA!"/>
+									 </div>
+                                     
+									<!-- SLIDE 3 -->
+									<div><img src="img/pet/slide_construction.jpg" alt="What our products are made of..."/>
+									 </div>
+                                       
+                                   <!-- SLIDE 4 -->
+                                    <div><a href="index.php"><img src="img/pet/slide_want-to-know-more.jpg" alt="Want to know more? Click here!"/></a>
+									</div>
+                                   
+								</div>
+                              		<div class="pagination">
+                                	<div id="prevBtn"><a href="#" class="previous">previous</a></div>
+                            		<div id="nextBtn"><a href="#" class="next">next</a></div>
+									<ul>
+									  <li><a href="#">1</a></li>
+										<li><a href="#">2</a></li>
+										<li><a href="#">3</a></li>
+										<li><a href="#">4</a></li>
+									</ul>
+									</div>
 	
 </div>
 

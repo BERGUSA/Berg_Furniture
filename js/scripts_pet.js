@@ -129,30 +129,7 @@ $(document).ready(function(){
 
 
 
-//testing for dims
-	
 
-//img2		
-/*
-		var url = $(this).attr("src").replace("_t.png","_line.jpg");
-
-		// get handle to element that wraps the image and make it semitransparent
-		var wrap = $(".simpleOverlayWrap").fadeTo("medium", 1);
-		
-		// the large image
-		var img = new Image();
-
-		// call this function after it's loaded
-		img.onload = function() {
-
-			// make wrapper fully visible
-			wrap.fadeTo("fast", 1);
-	
-			// change the image
-			wrap.find("img").attr("src", url);
-		};
-
-*/
 
 
 		//OVERLAYS
@@ -169,7 +146,7 @@ $(document).ready(function(){
 
 		        loadSpeed: 300, 
 
-		        opacity: 0.3,
+		        opacity: 0,
 		        
 		        closeOnEscape: true,
 		        
