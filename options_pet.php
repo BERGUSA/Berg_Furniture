@@ -1,7 +1,7 @@
 <!--Begin Knob, Finish, and Accent options-->		
 			
 <!--finishes-->
-
+<!--
 <div class="simple_overlay" id="finishes">
               	
                 	<div class="simple_overlay_knob_title">      
@@ -25,7 +25,7 @@
 
 
                 </div>
-                
+          -->      
                 <!--End Finishes-->
                 
                 <!--dims-->
@@ -40,16 +40,6 @@
 				
 			</div>	
 			
-			<div class="simple_overlay" id="mattressCover">
-				
-				<div class="fabric_wrap">
-					
-					<img src="img/pet/fabrics.jpg" alt="Double sided circle and olive green fabric provided with bed">
-					<br><br><br>
-					All beds come outfitted with a foam mattress and double sided cover.
-							
-				</div>				
-					
-				</div>               			
+			
                 			
 <!--End Knob, Finish, and Accent options-->

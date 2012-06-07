@@ -1,12 +1,17 @@
 <?php include 'head_pet.php'; ?>
 <title>Berg Furniture | Pet Beds</title>
 
+<script src="mouseover_popup.js" language="JavaScript"
+type="text/javascript"></script>
+
 </head>
 
 <body>
 
 			<?php include 'options_pet.php'; ?>
 			<?php require("contact_config_pets.php"); ?>
+
+
 
 <div class="container">
 	<!--HEADER-->
@@ -73,13 +78,19 @@
 	
 <!--	<a class="prevPage browse left"></a> -->
 		
-		<div class="scrollable"><a href="pets.php#row2">
+		<div class="scrollable">
+								<a href="pets.php#row2">
+			<div class="scrollableTitle">
+				
+			</div>
+			
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-85_t.png"
-                title="<h1>P22-85</h1> <h3></h3> <br>
+                title="<h1>P22-85</h1> <h3>shown in Brandy #28</h3> <br>
                 <h2>Pamper your pooch with this model! The P22-85 is perfect to give your small animal their very own twin bed,
-                	to scale of course. Not too high off the ground, this model is accessable for kittens, puppies and toy dogs.</h2>"/>
+                	to scale of course. Not too high off the ground, this model is accessable for kittens, puppies and toy dogs.
+                	<br><i>Maximum Weight of Pet Limit: 50lbs</i></h2>"/>
 			<div class="bed_thumbs" id="text">
 					P22-85
 				</div>
@@ -88,9 +99,9 @@
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-86_t.png" 
-                title="<h1>P22-86</h1> <h3></h3> <br>
+                title="<h1>P22-86</h1> <h3>shown in Chestnut #10</h3> <br>
                 <h2>A traditional full bed, scaled down! This model is great for those looking for a little more bed space than
-                	the P22-85. Great for kittens, puppies and toy dogs!
+                	the P22-85. Great for kittens, puppies and toy dogs!<br><i>Maximum Weight of Pet Limit: 50lbs</i>
                 </h2>"/>
 			<div class="bed_thumbs" id="text">
 					P22-86
@@ -100,10 +111,11 @@
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-88_t.png" 
-                title="<h1>P22-88</h1> <h3></h3> <br>
+                title="<h1>P22-88</h1> <h3>shown in Chestnut #10</h3> <br>
                 <h2>Give your pet an incredible spot to relax! Spacious yet space efficient, the trundle is perfect for
                 	storing toys, accessories and grooming supplies!
-                	The low height it great as it is not too hard to get up and off of.</h2>"/>
+                	The low height it great as it is not too hard to get up and off of.
+                	<br><i>Maximum Weight of Pet Limit: 150lbs</i></h2>"/>
 			<div class="bed_thumbs" id="text">
 					P22-88
 				</div>
@@ -112,10 +124,11 @@
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-89_t.png" 
-                title="<h1>P22-89</h1> <h3></h3> <br>
+                title="<h1>P22-89</h1> <h3>shown in Brandy #28</h3> <br>
                 <h2>A larger model than the P22-88 for those that are looking for more storage space 
                 	or a larger bed. The low height it great as there is less strain
-                	on the shoulders and hips to get up and off of.</h2>"/>
+                	on the shoulders and hips to get up and off of.
+                	<br><i>Maximum Weight of Pet Limit: 150lbs</i></h2>"/>
 			<div class="bed_thumbs" id="text">
 					P22-89
 				</div>
@@ -124,10 +137,10 @@
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-935_t.png" 
-                title="<h1>P22-935</h1> <h3></h3> <br>
+                title="<h1>P22-935</h1> <h3>shown in Chestnut #10</h3> <br>
                 <h2>From leashes to food dishes, from grooming supplies to toys, this unit offers lots of storage 
                 	in the cabinets for any pet accessory.
-                	A great addition to any household!
+                	A great addition to any household!<br><i>Maximum Weight of Pet Limit: 150lbs</i>
                 	
                 </h2>"/>
 			<div class="bed_thumbs" id="text">
@@ -138,11 +151,12 @@
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-945_t.png" 
-                title="<h1>P22-945</h1> <h3></h3> <br>
+                title="<h1>P22-945</h1> <h3>shown in Natural #61</h3> <br>
                 <h2>The cubbies can be used for any pet accessories however, 
                 	cats are drawn to this model because it is great for nesting!
                 	A great addition to any room in the house and looks fantastic
-                	at the foot of a bed.</h2>"/>
+                	at the foot of a bed.
+                	<br><i>Maximum Weight of Pet Limit: 150lbs</i></h2>"/>
 			<div class="bed_thumbs" id="text">
 					P22-945
 				</div>
@@ -151,9 +165,10 @@
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p40-535_t.png" 
-                title="<h1>P40-535</h1> <h3></h3> <br>
+                title="<h1>P40-535</h1> <h3>shown in Natural #61</h3> <br>
                 <h2>A double decker for pets! This model has stairs to make the top more acccessable for the little ones.
-                	It's sleek design looks great in any room of the house.</h2>"/>
+                	It's sleek design looks great in any room of the house.
+                	<br><i>Maximum Weight of Pet Limit: 50lbs</i></h2>"/>
 			<div class="bed_thumbs" id="text">
 					P40-535
 				</div>	
@@ -162,10 +177,11 @@
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p23-777_t.png" 
-                title="<h1>P23-777</h1> <h3></h3> <br>
+                title="<h1>P23-777</h1> <h3>shown in Natural #61</h3> <br>
                 <h2>Want multiple beds for your pets but don't have a lot of space?
                 	The triple decker fits snuggly into a room taking up minimal space
-                	while giving your pet plenty of nooks and crannies to hide and sleep.</h2>"/>
+                	while giving your pet plenty of nooks and crannies to hide and sleep.
+                	<br><i>Maximum Weight of Pet Limit: 50lbs</i></h2>"/>
 			<div class="bed_thumbs" id="text">
 					P23-777
 				</div>
@@ -183,26 +199,83 @@
 		</div>
 		
 <!--		<a class="nextPage browse right"></a> -->
-		
 	<div class="container" id="product">
 			
 				<img src="img/pet/usa_made.png" alt="We proudly say our products are USA made!">
-		
-			<div id="image_caption"></div>
+				
+			<div id="prodLeft">
 		 		
-			<div class="imgWrap">
+				<div class="imgWrap">
 				
 					<img src="img/pet/1px.gif" alt="The larger product image">
 		
+				</div>
+			
+			  All beds come in your choice of available finish and equipped with foam mattress and mattress cover.
+			  <b>Washing instructions:</b><i>for mattress cover</i> machine wash warm, machine dry light.
+			
 			</div>
 			
-			<div class="specificatons" id="wrap">
+			<div id="prodRight">
 				
-				<a href="#" rel="#dims">Click for Dimensions</a>
+				<div id="image_caption"></div>
+				
+				<h3><a href="#" rel="#dims">Click to View Dimensions</a></h3><br>
+				
+				<div class="iconWrap">
+					
+				<h1> Finishes: </h1>
+				
+				<div class="constants">
+  					<div class="icon" style="background-image: url(../img/pet/icon_chestnut.jpg)">
+  						<h2>Chestnut #10</h2>
+    					<a href="#" target="_blank">
+   						 <img src="../img/pet/hover-image_chestnut.jpg" alt="Chestnut #10" /></a>
+ 					 </div>
+				</div>
+				
+				<div class="constants">
+  					<div class="icon" style="background-image: url(../img/pet/icon_brandy.jpg)">
+  						<h2>Brandy #28</h2>
+    					<a href="#" target="_blank">
+   						 <img src="../img/pet/hover-image_brandy.jpg" alt="Brandy #28" /></a>
+ 					 </div>
+				</div>
+				
+				<div class="constants">
+  					<div class="icon" style="background-image: url(../img/pet/icon_natural.jpg)">
+  						<h2>Natural #61</h2>
+    					<a href="#" target="_blank">
+   						 <img src="../img/pet/hover-image_natural.jpg" alt="Natural #61" /></a>
+ 					 </div>
+				</div>
+				
+				</div>
+				
+				
+				<div class="iconWrap">
+					
+				<h1> The double sided cover provided: </h1>
+				
+				<div class="constants">
+  					<div class="icon" style="background-image: url(../img/pet/icon_circle_fabric.jpg)">
+  						<h2>Side One</h2>
+    					<a href="#" target="_blank">
+   						 <img src="../img/pet/hover-image_circle_fabric.jpg" alt="Circle Fabric #10" /></a>
+ 					 </div>
+				</div>
+				
+				<div class="constants">
+  					<div class="icon" style="background-image: url(../img/pet/icon_green_fabric.jpg)">
+  					<h2>Side Two</h2>
+    					<a href="#" target="_blank">
+   						 <img src="../img/pet/hover-image_green_fabric.jpg" alt="Green Fabric" /></a>
+ 					 </div>
+				</div>
+				
+				</div>
 				
 			</div>
-						
-		</div>
 		
 		
 		
@@ -211,48 +284,76 @@
 		
 		
 		<div id="row3">&nbsp;</div>
+		
+		<div class="pawdecoration"><img src="../img/pet/paw.png"></div>
+		
 <!--about-->
 
 <div class="container" id="about">
-	<div class="slides">
+	<div id="loopedSlider"> 
+             <div class="wrapper">
+				<div class="slides">
                                     
                                      <!-- SLIDE 1 -->
-                                     <div><img src="img/pet/slide_mission.jpg" alt="Our Mission Statement"/>
+                                     <div>
+                                     	
+                                     	<div id="mission">
+                                     		
+                                     		For 30 years, Berg Furniture has been designing and manufacturing children's furniture. We are not applying our ideas of quality, functionality, and creativity along with our very strict code of standards to providing an environment for our pets. We want to supply you with a unit to be used as a training tool, storage area and bed that possess and attractive finish to blend in with your home d&#233;cor.
+                                     		
+                                     	</div>
+                                     	
+                                     	<img src="img/pet/slide_mission.jpg" alt="Our Mission Statement"/>
+									 
 									 </div>
 									
 									 <!-- SLIDE 2 -->
-                                     <div><img src="img/pet/slide_USA.jpg" alt="Proud for our products to be made in the USA!"/>
+                                     <div>
+                                     	
+                                     	<div id="usaMade">
+									
+										Berg Furniture is proud to describe all of its products as American Made. All of our products are manufactured right here in the United States of America. By living within the American society, we fully understand the needs and requirements of the American consumer. We create the quality products asked of us with a shorter turnaround time than a foreign manufacturer. We buy products that are created in the USA to strengthen the nation as a whole by keeping ambitious Americans employed. With more Americans at work, we can defend our independence and rebuild our economy to support our youth, military, retirees and ourselves. Our commitments to our country and the satisfaction of our customer will never waiver. 
+										
+										</div>
+                                     	
+                                     	<img src="img/pet/slide_USA.jpg" alt="Proud for our products to be made in the USA!"/>
+									 
 									 </div>
                                      
 									<!-- SLIDE 3 -->
-									<div><img src="img/pet/slide_construction.jpg" alt="What our products are made of..."/>
+									<div>
+										
+										<div id="construction">
+									
+										In order to provide you with a safe and high quality product, we select our materials very carefully. All of our products are comprised of engineered wood which is designed with attributes not found in solid wood. Because we use such technology, our products are resistant to warping, cracking and splitting. Our products are finishes with a beautiful and resilient melamine lamination that is comprised of scratch resistant non-allergenic material and is easy to clean.
+										
+										</div>
+										
+										<img src="img/pet/slide_construction.jpg" alt="What our products are made of..."/>
+									
 									 </div>
                                        
                                    <!-- SLIDE 4 -->
-                                    <div><a href="index.php"><img src="img/pet/slide_want-to-know-more.jpg" alt="Want to know more? Click here!"/></a>
+                                    <div><a href="why_buy_berg.php"><img src="img/pet/slide_want-to-know-more.jpg" alt="Want to know more? Click here!"/></a>
 									</div>
                                    
 								</div>
                               		<div class="pagination">
-                                	<div id="prevBtn"><a href="#" class="previous">previous</a></div>
-                            		<div id="nextBtn"><a href="#" class="next">next</a></div>
+                                <!--	<div id="prevBtn"><a href="#" class="previous">previous</a></div>
+                            		<div id="nextBtn"><a href="#" class="next">next</a></div> -->
 									<ul>
-									  <li><a href="#">1</a></li>
-										<li><a href="#">2</a></li>
-										<li><a href="#">3</a></li>
-										<li><a href="#">4</a></li>
+									 	 <li><a href="#"><div class="paginationImage"><img src="../img/pet/about.jpg"></div></a></li>
+										<li><a href="#"><div class="paginationImage"><img src="../img/pet/usa.jpg"></div></a></li>
+										<li><a href="#"><div class="paginationImage"><img src="../img/pet/product.jpg"></div></a></li>
+										<li><a href="#"><div class="paginationImageSmall"><img src="../img/pet/more.png"></div></a></li>
 									</ul>
 									</div>
 	
 </div>
-
-<div class="made_in_usa">
-	
-	<a href="why_buy_berg.php">Click to view more information!</a>
-
+</div>
 </div>
 		
-
+		<div class="pawdecoration"><img src="../img/pet/paw.png"></div>
 <!--contact-->
 <div id="row4">&nbsp;</div>
 

@@ -96,9 +96,9 @@
                                   <li><a href="23_805.php"><b>23-805</b> Twin/Twin Loft</a></li>
                                   <li><a href="23_815.php"><b>23-815</b> Twin/Full Loft</a></li>
                                   <li><a href="23_835.php"><b>23-835</b> Twin Dorm Loft</a></li>
-                                  <li><a href="23_905.php"><b>23-935</b> Full Dorm Loft</a></li>
+                                  <li><a href="23_905.php"><b>23-905</b> Full Dorm Loft</a></li>
                                   <li style="display:block; background-color: #F60;"><b>23-935</b> Full/Full Dorm Loft</li>
-                                  <li><a href="23_766.php"><b>23-935</b> Twin/Twin Dorm Loft</a></li>
+                                  <li><a href="23_766.php"><b>23-766</b> Twin/Twin Dorm Loft</a></li>
                                   <li><a href="23_777.php"><b>23-777</b> Trifecta Triple Twin Loft</a></li>
                                   <li><a href="mix_and_match.php"><b>Mix &amp; Match</b></a></li>
                                   <br />
