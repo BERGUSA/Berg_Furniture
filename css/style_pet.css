@@ -101,17 +101,18 @@ table {
 /*Style for the Pet website*/
 
 body {
-	background-image: url("../img/pet/bluepaw.jpg");
+	/*background-image: url("../img/pet/bluepaw.jpg");*/
 	background-attachment: fixed;
+	background-color:#e5e5e5;
 }
 
 .container {
-	width:1100px;
+	width:1020px;
 	height:2600px;
-	background-color:#ffffbf;
+	/*background-color:#ffffbf;*/
 	margin-left: auto;
 	margin-right: auto;
-	margin-top:25px;
+	background-color:white;
 }
 
 .caption {
@@ -122,15 +123,16 @@ body {
 /* header */
 
 #header{
-	height:100px;
-	width:1000px;
+	height:147px;
+	width:1020px;
 	margin:0 auto 0 auto;
+	background-color:#e5e5e5;
 	/*background-color: #990033;*/
 }
 
 #pet_logo{
 	width: 383px;
-	height: 118px;
+	height: 105px;
 	float:left;	
 }
 
@@ -139,53 +141,58 @@ body {
 	height:52px;
 	float:right;
 	padding:0px;
-	margin:0 0 10px 0;
+	margin:38px 0 10px 0;
 }
 /* navigation */
 
 #navigation{
 	float:right;
-	/*background-color:white;*/
-	padding:0px;
-	margin:0px;
-	text-align:left;
+	text-align:center;
+	width:1020px;
+	background-image: url("../img/pet/nav-bkg.jpg");
+	background-repeat:repeat-x;
+	height:25px;
 }
 
 #navigation ul li{
 	display: inline;
-	font-family:"Franklin Gothic Demi Cond"; "Arial Cond"; "Helvetica"; sans-serif;
-	padding-left: 65px;
-	font-size: 20px;
+	font-family:"Franklin Gothic Book"; "Arial"; "Helvetica"; sans-serif;
+	font-size: 15px;
 	float:right;
+	padding:5px 20px;
+	border-left: 1px #e5e5e5 solid;
 }
 
-#navigation ul li a{
+#navigation ul a{
 	color:#001648;
 }
 
-#navigation ul li a:hover{
-	font-family:"Franklin Gothic Demi Cond"; "Arial Cond"; "Helvetica"; sans-serif;
-	color:#94c947;
+#navigation ul li:hover{
+	/*background-image: url("../img/pet/nav-hover-bkg.jpg");
+	background-repeat:repeat-x;*/
+	background-image: url("../img/pet/nav-hover-bkg.jpg");
+	background-repeat:repeat-x;
 }
 
 /* body */
 
 .container #welcome{
-	height:353px;
-	width:1000px;
+	height:435px;
+	width:1020px;
 	/*background-color:#94c947;*/
-	margin-bottom:0px;
-	margin-top:35px;
-	padding:25px 0 0 25px;
-	width:950px;
+	margin:0px;
+	padding:0px;
+	background-color:transparent;
 	/*-webkit-box-shadow:0px 0px 15px #000;
 	-moz-box-shadow:0px 0px 15px #000;
 	box-shadow:0px 0px 15px #000;*/
 }
 
 .container #product{
+	background-color:transparent;
 	height:450px;
 	width:1000px;
+	margin-top:25px;
 	background-color:white;
 	-webkit-box-shadow:0px 0px 15px #000;
 	-moz-box-shadow:0px 0px 15px #000;
@@ -248,8 +255,8 @@ body {
 	height:470px;
 	width:967px;
 	margin:50px auto 0 auto;
-	/*background-color:#ffff64;
-	border: 1px solid #001648;
+	background-color:transparent;
+	/*border: 1px solid #001648;
 	-moz-box-shadow:    inset 0 0 10px #000000;
    -webkit-box-shadow: inset 0 0 10px #000000;
    box-shadow:         inset 0 0 10px #000000;*/
@@ -339,17 +346,31 @@ body {
 /* main product images */
 
 .small_image{
-	height:100px;
-	width:410px;
+	height:110px;
+	width:520px;
+	float:right;
+	position:relative;
+	margin-bottom:5px;
+	background-color:#94c947;
 }
 
-.small_image #berg_website{
-	-webkit-box-shadow:0px 0px 15px #666;
-	-moz-box-shadow:0px 0px 15px #666;
-	box-shadow:0px 0px 15px #666;
-	float:left;
+.small_image-2{
+	height:220px;
+	width:255px;
+	float:right;
 	position:relative;
-	margin-left:10px;
+	margin-bottom:5px;
+	background-color:#001648;
+}
+
+.small_image-3{
+	height:220px;
+	width:260px;
+	float:right;
+	position:relative;
+	margin-bottom:5px;
+	margin-left:5px;
+	background-color:#ffff00;
 }
 
 .large_image{
@@ -361,7 +382,7 @@ body {
 .slideshow { 
 	height:325px;
 	width:500px;
-	float:right;
+	float:left;
 }
 
 #text_box{
@@ -376,20 +397,20 @@ body {
 .scrollable{
 	height:150px;
 	margin:10px auto 0 auto;
-	width:1000px;
+	width:1020px;
 	overflow: hidden;
-	background-image: url("../img/pet/lineup.png");
 }
 
 .scrollableTitle{
-	height:13px;
-	width:985px;
-	float:left;
+	height:20px;
+	width:1020px;
 	margin:0;
-	padding-left:5px;
-	font-family:"Times New Roman", "Times", serif;
-	font-style: italic;
+	font-family:"Franklin Gothic Book"; "Arial"; "Helvetica"; sans-serif;
 	text-align: left;
+	background-image:url("../img/pet/title-bkg.png");
+	background-repeat:repeat-x;
+	padding-left:25px;
+	vertical-align:bottom;
 }
 
 a.browse {
@@ -426,14 +447,14 @@ visibility:hidden !important;
 .bed_thumbs{
 	width:97px;
 	height:97px;
-	padding-left:25px;
+	padding-left:27px;
 	float:left;
 }
 
 .bed_thumbs #text{
 	font-family: "Franklin Gothic Cond", "Arial Narrow", sans-serif;
 	color:#001648;
-	size:10px;
+	size:9px;
 	height:11px;
 }
 
@@ -568,7 +589,7 @@ visibility:hidden !important;
 	background-image: url("../img/notebookpaper.png");
 	background-position: top center;
 	background-repeat:no-repeat;
-	margin-right:50px;
+	margin-right:20px;
 	margin-top:25px;
 	height: 600px;
 	width: 380px;
@@ -646,7 +667,7 @@ visibility:hidden !important;
 
 .wrapper {
 	width: 967px;
-	height:445px;
+	height:470px;
 	overflow:hidden;
 	position:absolute;
 	z-index:15;
@@ -695,15 +716,14 @@ visibility:hidden !important;
 }
 
 .pagination {
-/*	background-image: url("../img/paginationBkg.png");*/
-	width:1000px;
-	height: 105px;
+	width:967px;
+	height: 125px;
 	float:left;
 	position:absolute;
 	/*background-color:#94c947;*/
 	font-family:"Franklin Gothic Demi", "Arial", "Helvetica", sans-serif;
 	font-size:15px;
-	top:329px;
+	top:330px;
 }
 
 .pagination ul{
@@ -854,8 +874,8 @@ visibility:hidden !important;
 .paginationImage{
 	width:255px;
 	height:100px;
-	margin-right:25px;
 	float:left;
+	margin-right:25px;
 }
 
 .paginationImageSmall{

@@ -16,9 +16,9 @@ type="text/javascript"></script>
 <div class="container">
 	<!--HEADER-->
 	
-	<div id="row1">&nbsp;</div>
-	
 	<div id="header">
+		
+		<div id="row1">&nbsp;</div>
 		
 		<div id="pet_logo">
 		
@@ -49,8 +49,11 @@ type="text/javascript"></script>
 	
 	
 	
+	
 	<!--BODY-->
 	<div class="container" id="welcome">
+		
+		<img src="../img/pet/furniture4friends.png">
 		
 		<div class="slideshow">
 			
@@ -61,16 +64,17 @@ type="text/javascript"></script>
 			
 		</div>
 		
-			<div id="text_box">
-			
-			<img src="img/pet/furniture.jpg" alt="finally, furniture for your friends!">
-			
+			<div class="small_image-3">
+				
 			</div>
 			
-			<div class="small_image" id="berg_website">
-				<a href="index.php"><img src="img\pet\berg_website.jpg" alt="View our children's furniture"></a>
+			<div class="small_image-2">
+				
 			</div>
 			
+			<div class="small_image">
+				
+			</div>
 			
 	</div>	
 	
@@ -81,7 +85,7 @@ type="text/javascript"></script>
 		<div class="scrollable">
 								<a href="pets.php#row2">
 			<div class="scrollableTitle">
-				
+				The Line-Up:
 			</div>
 			
 			<div class="bed_thumbs">
