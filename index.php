@@ -87,10 +87,13 @@
                         
                         <!--Pet Website Coming soon tab-->
                         
-                        <div id="tab2"><a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
+                        <div id="tab2">
+                        	<a href="pets.php#row1">
+                        	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
                         	<div class="hidden">
                             	<h2>Pet Website Coming Soon</h2>
                         	</div> 
+                        	</a>
                         </div> 
 						
 					<!-- TAB Facebook -->

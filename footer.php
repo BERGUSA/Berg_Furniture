@@ -124,6 +124,7 @@
 		
 		
 		<!-- External Link Tracker -->
+		<script type="text/javascript">
 		function recordOutboundLink(link, category, action) {
 		  try {
 		    var pageTracker=_gat._getTracker("UA-10894475-1");

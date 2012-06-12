@@ -108,7 +108,7 @@ body {
 
 .container {
 	width:1020px;
-	height:2600px;
+	height:2675px;
 	/*background-color:#ffffbf;*/
 	margin-left: auto;
 	margin-right: auto;
@@ -177,7 +177,7 @@ body {
 /* body */
 
 .container #welcome{
-	height:435px;
+	height:460px;
 	width:1020px;
 	/*background-color:#94c947;*/
 	margin:0px;
@@ -355,8 +355,8 @@ body {
 }
 
 .small_image-2{
-	height:220px;
-	width:255px;
+	height:221px;
+	width:256px;
 	float:right;
 	position:relative;
 	margin-bottom:5px;
@@ -383,6 +383,7 @@ body {
 	height:325px;
 	width:500px;
 	float:left;
+	margin-top:25px;
 }
 
 #text_box{
@@ -666,7 +667,7 @@ visibility:hidden !important;
 }
 
 .wrapper {
-	width: 967px;
+	width: 966px;
 	height:470px;
 	overflow:hidden;
 	position:absolute;
