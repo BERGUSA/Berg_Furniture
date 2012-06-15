@@ -96,7 +96,6 @@
                                   <li><a href="22_905.php"><b>22-905</b> Twin/Twin</a></li>
                                   <li><a href="22_91.php"><b>22-91</b> Twin w/Pull-Out Desk &amp; Steps</a></li>
                                   <li><a href="22_915.php"><b>22-915</b> Twin w/Pull-Out Desk</a></li>
-                                  <li><a href="22_916.php"><b>22-916</b> Twin w/Desk &amp; Back-Side Stairs</a></li>
                                   <li><a href="22_931.php"><b>22-931</b> Full w/Drawers &amp; Cabinet</a></li>
                                   <li><a href="22_935.php"><b>22-935</b> Twin w/Drawers &amp; Cabinet</a></li>
                               </ul>

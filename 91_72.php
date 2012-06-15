@@ -144,7 +144,6 @@
                                   <li><a href="22_808.php"><b>22-808</b> Space Saver Twin Loft</a></li>
                                   <li><a href="40_525.php"><b>40-525</b> Enterprise Twin/Full</a></li>
                                   <li><a href="23_835.php"><b>23-835</b> Utica Dorm Loft</a></li>
-                                  <li><a href="22_916.php"><b>22-916</b> Captain's Bed Twin</a></li>
                               </ul>
                       </div>
                      

@@ -32,7 +32,7 @@
                                 <ul>
                                 	<li>Twin over Twin Size Beds</li>
                                     
-                                    <li>Berg's Signature Staircase</li>
+                                    <li><a href="#" rel="#BSS">Berg's Signature Staircase</a></li>
                                     <li>Build-a-Bed Add-on Options</li>
                                 </ul>
                                  

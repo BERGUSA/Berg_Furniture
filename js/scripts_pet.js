@@ -80,16 +80,6 @@ $(document).ready(function(){
 		//This is a roundabout way to remove the tooltips from displaying when the thumbnail is hovered over.  
 		changeAttributes(".items img", "title", "data-caption");
 		
-				$(".bed_thumbs img").click(function(){
-			var url = $(this).attr("src").replace("_t.png","_line.jpg");
-			var wrap = $(".simpleOverlayWrap").fadeTo("medium", 1);
-			var img = new Image();
-			img.onload = function () {
-				wrap.fadeTo("fast", 1);
-				wrap.find("img").attr("src",url);
-			};
-			img.src = url;
-		}).filter(":first").click();
 		
 		$(".bed_thumbs img").click(function() {
 		// calclulate large image's URL based on the thumbnail
@@ -116,7 +106,7 @@ $(document).ready(function(){
 		};
 
 		//get image caption from thumbnail title
-		var titleStr = $(this).attr("title");
+		var titleStr = $(this).attr("data-caption");
 		
 		$("div#image_caption").html(titleStr);
 		
@@ -126,10 +116,76 @@ $(document).ready(function(){
 		// when page loads simulate a "click" on the first image
 		}).filter(":first").click();
 	
+		$(".bed_thumbs img").click(function(){
+			var url = $(this).attr("src").replace("_t.png","_line.jpg");
+			var wrap = $(".simpleOverlayWrap").fadeTo("medium", 1);
+			var img = new Image();
+			img.onload = function () {
+				wrap.fadeTo("fast", 1);
+				wrap.find("img").attr("src",url);
+			};
+			img.src = url;
+		}).filter(":first").click();
 
 
+	  	//PRODUCT IMAGE SLIDER Edison Show
+		//=================================================================================== 
 
+		$("div#scrollable_pics").scrollable(); 
+		
+		//This function changes an attribute to a new attribute
+		function changeAttributes(selector, oldAttribute, newAttribute) {
+			var elem = $(selector);
+			elem.each(function(){
+				var attrTitle = $(this).attr(oldAttribute);
+				var $this = $(this);
+				$(this).removeAttr(oldAttribute);
+				$(this).attr(newAttribute, attrTitle);
+			});
+		};
+		//It's called here to change the 'title' attribute to 'data caption' in every thumbnail image
+		//This is a roundabout way to remove the tooltips from displaying when the thumbnail is hovered over.  
+		changeAttributes(".items2 img", "title", "data-caption");
+		
+		
+		$(".items2 img").click(function() {
+		// calclulate large image's URL based on the thumbnail
+		// thumbnails have a '_t' appended to them, large images don't
+		// this line of removes the '_t' to find the large image
 
+		var url = $(this).attr("src").replace("_t.png",".jpg");
+
+		// get handle to element that wraps the image and make it semitransparent
+
+		var wrap = $(".imgWrap-edison").fadeTo("medium", 1);
+		
+		// the large image
+		var img = new Image();
+
+		// call this function after it's loaded
+		img.onload = function() {
+
+			// make wrapper fully visible
+			wrap.fadeTo("fast", 1);
+	
+			// change the image
+			wrap.find("img").attr("src", url);
+		};
+
+		//get image caption from thumbnail title
+		var titleStr = $(this).attr("data-caption");
+		
+		$("div#image_caption-edison").html(titleStr);
+		
+		// begin loading the image from flickr
+		img.src = url;
+
+		// when page loads simulate a "click" on the first image
+		}).filter(":first").click();
+
+		
+		
+		
 
 
 		//OVERLAYS

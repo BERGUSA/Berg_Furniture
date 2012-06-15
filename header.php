@@ -67,8 +67,6 @@
 
 							 <a href="/22_915.php">22-915</a>,
 
-							 <a href="/22_916.php">22-916</a>,
-
 							 <a href="/22_931.php">22-931</a>,
 
 							 <a href="/22_935.php">22-935</a>
@@ -185,6 +183,12 @@
 
 					</div>
                    <div style="float:left; padding-left: 40px; width: 200px; margin-top:10px;"><!-- Third Column -->
+                   	
+                   	<a href="/pets.php"><img src="/img/images/furn_icon_13.png" alt="Pet Furniture" style="margin-top:-5px; width:62px; padding-bottom: 7px;" /></a>
+
+                         <h3><a href="/pets.php">Pet Furniture</a></h3>
+                         
+                         <br><br>
 
                         <!---  Case Goods-->
 

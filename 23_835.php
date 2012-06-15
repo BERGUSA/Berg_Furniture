@@ -31,7 +31,7 @@
                                 <ul>
                                 	<li>Twin Size Loft Bed</li>
                                     
-                                    <li>Berg's Signature Staircase</li>
+                                    <li><a href="#" rel="#BSS">Berg's Signature Staircase</a></li>
                                     <li>Build-a-Bed Add-on Options</li>
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>

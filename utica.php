@@ -42,22 +42,22 @@
                             
                             <div class="prodTab">
                             <a href="23_835.php"><img src="img/Coll_pics/23-835b.jpg" />
-                            <p><b>23-835</b><br/>Twin Dorm Loft</p> </a>
+                            <p><b>23-835</b><br/>Twin 5 Stair Loft</p> </a>
                             </div>
                             
                            <div class="prodTab">
                             <a href="23_905.php"><img src="img/Coll_pics/23-905.jpg" />
-                            <p><b>23-905</b><br/>Full Dorm Loft</p></a>
+                            <p><b>23-905</b><br/>Full 5 Stair Loft</p></a>
                             </div>
                             
                             <div class="prodTab">
                             <a href="23_935.php"><img src="img/Coll_pics/23-935.jpg" />
-                            <p><b>23-935</b><br/>Full/Full Dorm Loft</p></a>
+                            <p><b>23-935</b><br/>Full/Full 5 Stair Loft</p></a>
                             </div>
                             
                             <div class="prodTab">
                             <a href="23_766.php"><img src="img/Coll_pics/23-766.jpg" />
-                            <p><b>23-766</b><br/>Twin/Twin Loft</p></a>
+                            <p><b>23-766</b><br/>Twin/Twin 5 Stair Loft</p></a>
                             </div>
                             
                             <div class="prodTab">

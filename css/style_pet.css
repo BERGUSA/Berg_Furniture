@@ -396,11 +396,62 @@ body {
 /* bed thumbs */
 
 .scrollable{
-	height:150px;
+	height:160px;
 	margin:10px auto 0 auto;
 	width:1020px;
 	overflow: hidden;
 }
+/*edison show*/
+#scrollable_pics{
+	position: relative;
+	overflow: hidden;
+	height: 450px;
+	width: 500px;
+	z-index:300;
+	margin-left:27px;
+	float:left;
+	margin-top: -10px;
+}
+
+.imgWrap-edison{
+	height:324px;
+	width:465px;
+	float:left;
+	margin:25px 25px 25px; 25px;
+}
+
+.scrollable .items2 { 
+    clear:both;
+	width:20000em; 
+    position:relative; 
+} 
+
+.items2 .active { 
+    border:2px solid #ccc; 
+    background-color:#fff; 
+}
+
+.scrollable img {
+	float:left;
+	margin:10px 5px 10px 10px;
+	background-color:#fff;
+	padding:2px;
+	cursor:pointer;
+	width:97px;
+	height:97px;
+}
+
+#image_caption-edison {
+	width: 550px;
+	height: 1.3em;
+	font-size: .8em;
+	margin: -3px 0 0 -12px;
+	padding: .25em 5px;
+	background: #FFF;
+	color: #000;
+	font-weight:bold;
+}
+/*end edison show*/
 
 .scrollableTitle{
 	height:20px;
@@ -428,9 +479,9 @@ a.browse {
 }
 
 /* right */
-a.right 	{ background-position: 0 -30px; clear:right; margin-right: 0px; left:520px;}
-a.right:hover 	{ background-position:-30px -30px; }
-a.right:active  	{ background-position:-60px -30px; } 
+a.right 				{ background-position: 0 -30px; clear:right; margin-right: 0px; left:520px;}
+a.right:hover 		{ background-position:-30px -30px; }
+a.right:active 	{ background-position:-60px -30px; } 
 
 
 /* left */
@@ -438,12 +489,10 @@ a.left				{ margin-left: 0px; left:15px;}
 a.left:hover  		{ background-position:-30px 0; }
 a.left:active  	{ background-position:-60px 0; }
 
-
 /* disabled navigational button */
-
 a.disabled {
-visibility:hidden !important;		
-}
+	visibility:hidden !important;		
+} 
 
 .bed_thumbs{
 	width:97px;
@@ -516,7 +565,7 @@ visibility:hidden !important;
 
 
 .imgWrap{
-	height:324px;
+	height:600px;
 	width:498px;
 	float:left;
 	margin:25px 25px 25px; 25px;
@@ -554,6 +603,28 @@ visibility:hidden !important;
 	-webkit-box-shadow:5px 5px 5px #666;
 	-moz-box-shadow:5px 5px 5px #666;
 	box-shadow:5px 5px 5px #666;
+}
+
+.simple_overlay#images .close {
+	background-image: url("../img/overlay_close.png");
+	position:absolute;
+	top:5px;
+	right:5px;
+	cursor:pointer;
+	height:25px;
+	width:35px;
+}
+
+.simple_overlay#images {
+	position:absolute;
+	z-index:9999;
+	width:565px;
+	height:845px;
+	background-color:#FFF;
+	-webkit-box-shadow:5px 5px 5px #666;
+	-moz-box-shadow:5px 5px 5px #666;
+	box-shadow:5px 5px 5px #666;
+	border:#94c947 5px solid;
 }
 
 .simpleOverlayWrap {

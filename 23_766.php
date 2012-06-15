@@ -37,7 +37,7 @@
                                 <h3>Features</h3>
                                 <ul>
                                 	<li>Twin/Twin Sized Loft Bed</li>
-                                    <li>Berg's Signature Staircase</li>
+                                    <li><a href="#" rel="#BSS">Berg's Signature Staircase</a></li>
                                     <li>Build-a-Bed Add-on Options</li>
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
@@ -81,7 +81,7 @@
                                 	title="<h4>Berg's Signature Staircase</h4><br />This system is equipped with Berg's Signature Staircase. This innovative original feature provides safe access to the top loft and lots of storage in each step." />
                              
                              <img src="img/images/icons/twin.png" 
-                                title="<h4>Twin Beds</h4><br />The frame on this furniture set is built to support two twin sized beds. The beds are manufactured with a solid board as the mattress support (no slats here!) and can hold up to 250 lbs. 	
+                                title="<h4>Twin Beds</h4><br />The frame on this furniture set is built to support two twin sized beds. The beds were designed with a solid board for the mattress support and can hold up to 250 lbs each. 	
                                 			 " />
                                               <div id="rollover">Roll-over icons for more info</div>
                             

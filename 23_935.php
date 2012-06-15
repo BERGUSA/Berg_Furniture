@@ -35,7 +35,7 @@
                                 <h3>Features</h3>
                                 <ul>
                                 	<li>2 Full Size Beds</li>
-                                    <li>Berg's Signature Staircase</li>
+                                    <li><a href="#" rel="#BSS">Berg's Signature Staircase</a></li>
                                     <li>Lower Bunk Window</li>
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
@@ -78,10 +78,10 @@
                            	 <img src="img/images/icons/2.png" 
                                 	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two kids" />
                              <img src="img/images/icons/stairs.png" 
-                                	title="<h4>Berg's Signature Staircase</h4><br />This system is equipped with Berg's Signature Staircase. This innovative 				 											original feature provides safe access to the top loft and lots of storage in each step" />
+                                	title="<h4>Berg's Signature Staircase</h4><br />This system is equipped with Berg's Signature Staircase. This innovative original feature provides safe access to the top loft and lots of storage in each step" />
                              
                              <img src="img/images/icons/full.png" 
-                                title="<h4>Full Loft Bed</h4><br />The frames on this furniture set is built to support two full sized beds. The lofted bed is manufactured with a solid board as the mattress support (no slats here!) and can hold up to 250 lbs. 	
+                                title="<h4>Full Loft Bed</h4><br />The frames on this furniture set is built to support two full sized beds. The lofted bed was designed with a solid board for the mattress support and can hold up to 250 lbs.
                                 			 " />
                                               <div id="rollover">Roll-over icons for more info</div>
                             

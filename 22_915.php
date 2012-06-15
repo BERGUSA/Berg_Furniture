@@ -125,7 +125,6 @@
                                   <li><a href="22_905.php"><b>22-905</b> Twin/Twin</a></li>
                                   <li><a href="22_91.php"><b>22-91</b> Twin w/Pull-Out Desk &amp; Steps</a></li>
                                   <li style="display:block; background-color: #06dec7;"><b>22-915</b> Twin w/Pull-Out Desk</li>
-                                  <li><a href="22_916.php"><b>22-916</b> Twin w/Desk &amp; Back-Side Stairs</a></li>
                                   <li><a href="22_931.php"><b>22-931</b> Full w/Drawers &amp Cabinet</a></li>
                                   <li><a href="22_935.php"><b>22-935</b> Twin w/Drawers &amp Cabinet</a></li>
                               </ul>
@@ -134,7 +133,6 @@
                         		<br /><br />
                               <ul>
                                   <li><a href="22_808.php"><b>22-808</b> Space Saver w/Desk</a></li>
-                                  <li><a href="22_916.php"><b>22-916</b> Captain's Bed w/Desk</a></li>
                                   <li><a href="23_835.php"><b>23-835</b> Utica Dorm Loft</a></li>
                                   <li><a href="91_76.php"><b>91-76</b> Play &amp Study Twin</a></li>
                                   <li><a href="40_525.php"><b>40-525</b> Enterprise Twin/Full</a></li>

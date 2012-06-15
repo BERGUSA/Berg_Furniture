@@ -50,11 +50,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0289A6', end
                             </div>
                             
                             <div class="prodTab">
-                            <a href="22_916.php"><img src="img/Coll_pics/22-916.jpg" />
-                            <p><b>22-916</b><br/> Twin w/Desk and Back-side Stairs</p></a>
-                            </div>
-                            
-                            <div class="prodTab">
                             <a href="22_931.php"><img src="img/Coll_pics/22-931.jpg" />
                             <p><b>22-931</b><br/>Full w/Cabinet and Drawers </p></a>
                             </div>

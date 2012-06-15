@@ -30,7 +30,7 @@
                                 <ul>
                                 	<li>Twin over Full Sized Beds</li>
                                     <li>Bottom Bed Storage Drawer</li>
-                                    <li>Berg's Signature Staircase</li>
+                                    <li><a href="#" rel="#BSS">Berg's Signature Staircase</a></li>
                                     <li>Build-a-Bed Add-on Options</li>
                                 </ul>
                                 
