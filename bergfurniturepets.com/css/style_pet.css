@@ -123,7 +123,7 @@ body {
 /* header */
 
 #header{
-	height:147px;
+	height:130px;
 	width:1020px;
 	margin:0 auto 0 auto;
 	background-color:#e5e5e5;
@@ -177,7 +177,7 @@ body {
 /* body */
 
 .container #welcome{
-	height:460px;
+	height:485px;
 	width:1020px;
 	/*background-color:#94c947;*/
 	margin:0px;
@@ -395,12 +395,13 @@ body {
 }
 /* bed thumbs */
 
-.scrollable{
-	height:160px;
+#scrollable{
+	height:135px;
 	margin:10px auto 0 auto;
 	width:1020px;
 	overflow: hidden;
 }
+
 /*edison show*/
 #scrollable_pics{
 	position: relative;
@@ -457,12 +458,19 @@ body {
 	height:20px;
 	width:1020px;
 	margin:0;
-	font-family:"Franklin Gothic Book"; "Arial"; "Helvetica"; sans-serif;
+	font-family:"Franklin Gothic Demi"; "Arial Bold"; "Helvetica Bold"; sans-serif;
 	text-align: left;
 	background-image:url("../img/pet/title-bkg.png");
 	background-repeat:repeat-x;
 	padding-left:25px;
+	color:#001648;
 	vertical-align:bottom;
+}
+
+.scrollableTitle i{
+	color:#666666;
+	font-size:11px;
+	font-style:italic;
 }
 
 a.browse {
@@ -565,7 +573,7 @@ a.disabled {
 
 
 .imgWrap{
-	height:600px;
+	height:320px;
 	width:498px;
 	float:left;
 	margin:25px 25px 25px; 25px;
@@ -954,6 +962,12 @@ a.disabled {
 	width:127px;
 	height:100px;
 	float:left;
+}
+
+#pawdecoration{
+	width:1000px;
+	height:50px;
+	margin:5px auto;
 }
 
 .pawdecoration{

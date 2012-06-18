@@ -8,8 +8,8 @@ type="text/javascript"></script>
 
 <body>
 
-			<?php include 'options_pet.php'; ?>
-			<?php require("contact_config_pets.php"); ?>
+			<?php include 'options.php'; ?>
+			<?php require("contact_config.php"); ?>
 
 
 <div class="container">
@@ -17,7 +17,6 @@ type="text/javascript"></script>
 	
 	<div id="header">
 		
-		<div id="row1">&nbsp;</div>
 		
 		<div id="pet_logo">
 		
@@ -35,9 +34,9 @@ type="text/javascript"></script>
 			
 			<ul>
 				
-				<a href="pets.php#row4"><li>Contact</li></a>
-				<a href="pets.php#row3"><li>About</li></a>
-				<a href="#row2"><li>Furniture</li></a>
+				<a href="#contactFormWrap"><li>Contact</li></a>
+				<a href="#pawdecoration"><li>About</li></a>
+				<a href="#scrollable"><li>Furniture</li></a>
 				
 			</ul>
 		
@@ -62,7 +61,7 @@ type="text/javascript"></script>
 			<img src="img/pet/2_dogs.png" alt="Dogs on one of our original bunk bed designs">
 			
 		</div>
-				<a href="pets.php#row4"><img style="width: 240px; height: 260px; margin-left:10px; margin-bottom:10px; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5;" src="../img/pet/shop_now.jpg"></a>
+				<a href="#contactFormWrap"><img style="width: 240px; height: 260px; margin-left:10px; margin-bottom:10px; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5;" src="../img/pet/shop_now.jpg"></a>
 			
 				<a href="#" rel="#images"><img style="width: 240px; height: 260px; margin-left:10px; margin-bottom:10px; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5;" src="../img/pet/pics.jpg"></a>
 			
@@ -70,16 +69,16 @@ type="text/javascript"></script>
 			
 	</div>	
 	
-<a name="row2">&nbsp;</a>
+
 	
 <!--	<a class="prevPage browse left"></a> -->
-		
-		<div class="scrollable">
-								<a href="pets.php#row2">
-			<div class="scrollableTitle">
-				The Line-Up:
-			</div>
+
+		<div id="scrollable">
 			
+					
+			<div class="scrollableTitle">
+				The Line-Up: <i>(click icons to view below)</i>
+			</div>
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-85_t.png"
@@ -182,8 +181,8 @@ type="text/javascript"></script>
 					P23-777
 				</div>
 			</div>
-		  </a>
-		<!--  <a href="pets.php#row1">
+
+		<!-- 
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-85_t.png" 
@@ -191,7 +190,7 @@ type="text/javascript"></script>
                 Shown in Natural with Antique Copper Knobs; <b><i>Optional</b> Hanging Shelf and Trundle</i>"/>
 			
 			</div>
-		</a> -->
+	 -->
 		</div>
 		
 <!--		<a class="nextPage browse right"></a> -->
@@ -279,9 +278,8 @@ type="text/javascript"></script>
 	
 		
 		
-		<div id="row3">&nbsp;</div>
 		
-		<div class="pawdecoration"><img src="../img/pet/paw.png"></div>
+		<div id="pawdecoration"><img src="../img/pet/paw.png"></div>
 		
 <!--about-->
 
@@ -330,7 +328,7 @@ type="text/javascript"></script>
 									 </div>
                                        
                                    <!-- SLIDE 4 -->
-                                    <div><a href="why_buy_berg.php"><img src="img/pet/slide_want-to-know-more.jpg" alt="Want to know more? Click here!"/></a>
+                                    <div><a href="why_buy_berg.php" onclick="pageTracker._link(this.href); return false;"><img src="img/pet/slide_want-to-know-more.jpg" alt="Want to know more? Click here!"/></a>
 									</div>
                                    
 								</div>
@@ -351,7 +349,6 @@ type="text/javascript"></script>
 		
 		<div class="pawdecoration"><img src="../img/pet/paw.png"></div>
 <!--contact-->
-<div id="row4">&nbsp;</div>
 
 	<div id="contactFormWrap">
 		
@@ -431,6 +428,8 @@ type="text/javascript"></script>
 		function recordOutboundLink(link, category, action) {
 		  try {
 		    var pageTracker=_gat._getTracker("UA-10894475-1");
+		    pageTracker._setDomainName("none");
+			pageTracker._setAllowLinker(true);
 		    pageTracker._trackEvent(category, action);
 		    setTimeout('document.location = "' + link.href + '"', 100)
 		  }catch(err){}

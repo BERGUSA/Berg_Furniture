@@ -128,6 +128,8 @@
 		function recordOutboundLink(link, category, action) {
 		  try {
 		    var pageTracker=_gat._getTracker("UA-10894475-1");
+		    pageTracker._setDomainName("none");
+			pageTracker._setAllowLinker(true);
 		    pageTracker._trackEvent(category, action);
 		    setTimeout('document.location = "' + link.href + '"', 100)
 		  }catch(err){}

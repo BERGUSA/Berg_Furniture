@@ -5,9 +5,9 @@
 	<body>
     	<div id="outside_container">
 
-			<?php include 'options.php'; ?>
 
 				<?php include 'bss.php'; ?>
+				<?php include 'options.php'; ?>
 			<div id="tip"></div>
             <div class="container">
                 
