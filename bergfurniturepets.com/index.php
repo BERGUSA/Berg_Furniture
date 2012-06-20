@@ -20,13 +20,13 @@ type="text/javascript"></script>
 		
 		<div id="pet_logo">
 		
-			<img src="img\pet\pet_logo_black_sm.png" alt="Berg Furniture Pets! Logo">
+			<img src="img/pet/pet_logo_black_sm.png" alt="Berg Furniture Pets! Logo">
 		
 		</div>
 		
 		<div id="pet_tagline">
 			
-			<img src="img\pet\pet_tagline_black_sm.png" alt="Pets are special... make their beds special too!">
+			<img src="img/pet/pet_tagline_black_sm.png" alt="Pets are special... make their beds special too!">
 			
 		</div>
 		

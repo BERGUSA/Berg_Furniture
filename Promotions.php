@@ -98,7 +98,7 @@ pageTracker._trackPageview();
 										value="Click Here to Print out this Coupon!"
 							/>
 						</div>
-						<img src="img/Shelf-Coupon_5-2012.jpg" alt="Berg Furniture Free Shelf Coupon Now to February 5th Promotion" title="Berg Furniture Free Shelf Coupon!!!" />
+						<img src="img/Shelf-Coupon_7-2012.jpg" alt="Berg Furniture Free Shelf Coupon Now to July 8th Promotion" title="Berg Furniture Free Shelf Coupon!!!" />
                         <div style="margin:20px;">  
                         	
                         	                    

@@ -109,22 +109,24 @@
                       --> 
                       
 						<!-- SHELF PROMO TAB -->
-						<!--
-						 <div id="tab2"><a title="Free Shelf Promo!" href="Promotions.php" >Now till February 5th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
+						
+						 <div id="tab3"><a title="Free Shelf Promo!" href="Promotions.php" >Now till July 8th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
                         	<div class="hidden">
                             	<h2>Free Shelf Promotion Winter 2012 Berg Furniture</h2>
                             	<p>Click here to view the coupon promotion and for more details</p>
                         	</div> 
                         </div> 
-                       -->
+                       
                         
 						<!-- TAB Transforming Bed -->
+						<!--
 					   <div id="tab3"><a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho"></a>
                         	<div class="hidden">
                             	<h2>What's new?</h2> 
                             	<p>Our Transforming Bed!</p>
                         	</div>
                         </div>
+                       -->
                      </div>             
                </div>
          	</div>  
