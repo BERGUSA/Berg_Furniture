@@ -447,7 +447,7 @@
                 		
                 		<div class="simple_overlay_container">
                 			<img src="img/accents/27-blue-jay.jpg">
-                			Blue Jay <i>(#27)</i>
+                			Blue Jay <i>(#26)</i>
                 		</div>
                 		
                 		<div class="simple_overlay_container">

@@ -67,19 +67,18 @@
                                         <img src="img/MainProdPics/91-74G_t.jpg" 
                                         title="Berg's Signature Staircase is a comfortable spot for parents too!"/>
                                        
-                                        <img src="img/MainProdPics/91-74H_t.jpg" 
-                                        title="&quot;Not now mom, I'm reading!&quot;"/>
-                                        
-                                        
                                         <img src="img/MainProdPics/91-74B_t.jpg" 
                                         title="Shown in Nutmeg with Black Knobs"/>
                                         
                                         <img src="img/MainProdPics/91-74E_t.jpg" 
                                         title="Shown in Nutmeg with Black Knobs; <b><i>Optional</b> Deluxe Chair"/>
-                                       
-                                       
+                                        	
+                                        <img src="img/MainProdPics/91-74k_t.jpg" 
+                                        title="&quot;Not now mom, I'm reading!&quot;"/>
+                                        	
+                                        <img src="img/MainProdPics/91-74H_t.jpg" 
+                                        title="&quot;Not now mom, I'm reading!&quot;"/>
                                         
-                                     
                                         
                                       
                                        

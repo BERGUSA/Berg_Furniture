@@ -70,6 +70,7 @@
                             <br />
                             <br />
                             <i>Fits on 3 Drawer Chest (22-22)</i>
+                            <i>and 1 Drawer Desk (22-31)</i>
                             </p>
                            </div>
                            
@@ -120,6 +121,8 @@
                             <br/>22-35
                             <br /><br />
                             <i>47"W x 22"D x 30"H</i>
+                            <br>
+                            <i>Surge Protector Included</i>
                             </p>
                             </div>
                             
@@ -130,7 +133,8 @@
                             <p><b style="font-size:16px;">Desk Hutch</b>
                             <br/>22-73
                             <br /><br />
-                            <i>47"W x 12"D x 43"H</i>
+                            <i>47"W x 12"D x 43"H</i><br>
+                            <i>Light Fixture Included</i>
                             </p>
                             </div>
                               
@@ -155,7 +159,7 @@
                             <br /><br />
                             <i>75"W x 22"D x 30"H </i>
                             <br />
-                            <i>Will also fit under most <a href="/utica.php">Utica Lofts</a></i>
+                            <i>Will fit under most <a href="/utica.php">Utica Lofts</a></i>
                             </p>
                           </div>
                            
@@ -164,7 +168,7 @@
                             <p><b style="font-size:16px;">Cork Board &amp; Shelves for Dorm Lofts</b>
                             <br/>23-83B
                             <br /><br />
-                            <i>Will also fit under <a href="/23_905.php"> Utica Full Loft #23-905</a></i>
+                            <i>Will fit under the <a href="/23_905.php">#23-905</a>, <a href="/23_835.php">#23-835</a>, <a href="/23_766.php">#23-766</a> and <a href="/23_777.php">#23-777</a></i>
                         	</p>
                           </div>
                           

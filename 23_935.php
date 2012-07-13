@@ -56,7 +56,7 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
-                                    	<img title="Shown in Natural with Black knobs and with <b>optional</b> Blue Jay (#27) accents, tundle, and hanging shelf.</b></i>" 
+                                    	<img title="Shown in Natural with Black knobs and with <b>optional</b> Blue Jay (#26) accents, tundle, and hanging shelf.</b></i>" 
                                         src="img/MainProdPics/23-935_t.jpg" />
                                         <img title="From our tradeshow in High Point, NJ. Shown in Chestnut with Antique Copper knobs also with an <b><i>Optional</b> desk and hanging shelf.</i>"
                                         src="img/MainProdPics/23-935A_t.jpg" />
