@@ -87,6 +87,7 @@ pageTracker._trackPageview();
            
             <div class="container">
                 
+                <?php include 'header.php'; ?> 
                 
                <div class="prodContainer">
                		<div class="prodTitle">
@@ -94,11 +95,11 @@ pageTracker._trackPageview();
                  	<div class="prodMain">
                     	<div style="margin:20px;">                      
 							<input type="button" 
-										onClick="pageTracker._trackEvent('Coupons', 'Print', 'Free Shelf'); window.print();"  
+										onClick="pageTracker._trackEvent('Coupons', 'Print', '10% Off Case Goods'); window.print();"  
 										value="Click Here to Print out this Coupon!"
 							/>
 						</div>
-						<img src="img/Shelf-Coupon_7-2012.jpg" alt="Berg Furniture Free Shelf Coupon Now to July 8th Promotion" title="Berg Furniture Free Shelf Coupon!!!" />
+						<img src="img/cg_coupon_web.jpg" alt="Berg Furniture 10% off Case Good Coupon Now to July 29th Promotion" title="Berg Furniture 10% Off Case Good Coupon!!!" />
                         <div style="margin:20px;">  
                         	
                         	                    
@@ -115,7 +116,7 @@ pageTracker._trackPageview();
        
        
    
-   <!--#include file="footer_new.asp" -->
+   <?php include 'footer.php'; ?> 
    
 </body>
 </html>        
