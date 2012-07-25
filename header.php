@@ -184,9 +184,9 @@
 					</div>
                    <div style="float:left; padding-left: 40px; width: 200px; margin-top:10px;"><!-- Third Column -->
                    	
-                   	<a href="/pets.php"><img src="/img/images/furn_icon_13.png" alt="Pet Furniture" style="margin-top:-5px; width:62px; padding-bottom: 7px;" /></a>
+                   	<a href="http://www.bergfurniturepets.com/index.php"><img src="/img/images/furn_icon_13.png" alt="Pet Furniture" style="margin-top:-5px; width:62px; padding-bottom: 7px;" /></a>
 
-                         <h3><a href="/pets.php">Pet Furniture</a></h3>
+                         <h3><a href="http://www.bergfurniturepets.com/index.php">Pet Furniture</a></h3>
                          
                          <br><br>
 
