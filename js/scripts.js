@@ -9,7 +9,7 @@ $(document).ready(function(){
 	  	$('.slideshow').cycle({
 			fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc..
 			timeout: '5000'
-		});	
+		});					//slideshow2 for twin/twin transforming bed				$('.slideshow2').cycle({			fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc..			timeout: '1000'		});	
 		
 		//RIGHT-CLICK ON LOGO
 		//=================================================================================== 

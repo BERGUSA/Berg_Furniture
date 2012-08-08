@@ -120,14 +120,39 @@
                        
                         
 						<!-- TAB Transforming Bed -->
-						
+						<!--
 					   <div id="tab3"><a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho"></a>
                         	<div class="hidden">
                             	<h2>What's new?</h2> 
                             	<p>Our Transforming Bed!</p>
                         	</div>
                         </div>
-                       
+                      -->
+                      
+                      <div id="tab4">                        
+
+                        	<a href="78_12.php">
+							
+								<div class="slideshow2">
+									<img src="img//78-12/1.jpg" />
+									<img src="img//78-12/2.jpg" />
+									<img src="img//78-12/3.jpg" />
+									<img src="img//78-12/4.jpg" />
+									<img src="img//78-12/5.jpg" />
+									<img src="img//78-12/6.jpg" />
+									<img src="img//78-12/7.jpg" />
+									<img src="img//78-12/8.jpg" />
+								</div>
+							
+							</a>
+							<div class="hidden"><h2>Get Inspired by our new room ideas!</h2></div>
+							
+
+                        </div>
+                      
+                      
+                      
+                      
                      </div>             
                </div>
          	</div>  
