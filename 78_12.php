@@ -23,7 +23,7 @@
                     </div>
                  <div class="prodMain">
                         <div class="prodCont"><style> .prodTitle p a:hover {color:#0b90a3 ;}</style>
-                        		<h2>COMING SOON! Twin XL over Twin with Desk</h2><h3>#78-12</h3>
+                        		<h2>Twin XL over Twin with Desk</h2><h3>#78-12</h3>
                                 <br />
                                 <p> 
                                 	Of the Transforming System line, this one sleeps two and offers a significant amount of
@@ -48,16 +48,13 @@
                                     <div style="top:77px; left: 70px;">102"L</div>
                                 </div>
                                 <br />
-                                Knob options,
-                                Finish options,
-                                Extra<br> dimensions,
-				    			and Accent <br>options to come soon!
+                                
 				    			
-				    <!--		<a href="#" rel="#knobs_tb">Click for Knob Options&nbsp;&gt;&gt;</a><br />
-                                <a href="#" rel="#finishes_tb">Click for Finish Options&nbsp;&gt;&gt;</a></br >
-                                <a href="#" rel="#dimensions">Click for Extra Dimensions&nbsp;&gt;&gt;</a></br >
+				    		<a href="#" rel="#knobs_tb">Click for Knob Options&nbsp;&gt;&gt;</a><br />
+                                <a href="#" rel="#finishes_tb2">Click for Finish Options&nbsp;&gt;&gt;</a></br >
+                               <!-- <a href="#" rel="#dimensions">Click for Extra Dimensions&nbsp;&gt;&gt;</a></br > -->
 				    			<a href="#" rel="#accents">Click for Accent Options&nbsp;&gt;&gt;</a>
-					-->
+				
 					
                         </div>
                    <div class="prodShow">
@@ -68,11 +65,14 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
-                                    	<img src="img/MainProdPics/78-12_desk_t.jpg" 
-                                        title="Preliminary Illustration; <b><i>Desk Position</b></i>"/>
+                                    	<img src="img/MainProdPics/78-12A_t.jpg" 
+                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b></i>"/>
                                         
-                                        <img src="img/MainProdPics/78-12_t.jpg" 
-                                        title="Preliminary Illustration; <b><i>Bed Position</b></i>"/>
+                                        <img src="img/MainProdPics/78-12B_t.jpg" 
+                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Bed Position</b></i>"/>
+                                        
+                                        <img src="img/MainProdPics/78-12C_t.jpg" 
+                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b></i>"/>
                                       
                                        
                                        
@@ -117,7 +117,7 @@
                               <ul>
                           		  <li><a href="78_14.php"><b>78-14</b> Desk with Twin Bed Transforming Unit</a></li>
                           		                            		 
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> <b>COMING SOON!</b> Twin XL over Twin with Desk Transforming Unit</a></li>
+                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> Twin XL over Twin with Desk Transforming Unit</a></li>
                               
                               <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming System</a></li>
                                   <br/>        
