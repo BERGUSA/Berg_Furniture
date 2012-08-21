@@ -52,7 +52,7 @@
                                         title="Shown in Brandy; <b><i>Optional</b> Bookcase and Custom Knobs*</i>"/>
                                         
                                         <img src="img/MainProdPics/22-950B_t.jpg" 
-                                        title="Shown in White; <b><i>Optional</b> Lime Green Oslo Knobs and Bookcase</i>"/>
+                                        title="Shown in White; <b><i>Optional</b> Key Lime Oslo Knobs and Bookcase</i>"/>
                                         
                                         <img src="img/MainProdPics/22-950-show_t.jpg" 
                                         title="From our latest tradeshow in High Point, NC: Shown in White with Satin Nickel knobs and <b><i>Optional</b> Raven (#95) Accents and Wide Bookcase</i>"/>
