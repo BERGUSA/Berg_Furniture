@@ -65,7 +65,7 @@ type="text/javascript"></script>
 			
 				<a href="#" rel="#images"><img style="width: 240px; height: 260px; margin-left:10px; margin-bottom:10px; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5;" src="../img/pet/pics.jpg"></a>
 			
-				<a href="/index.php"><img style="width: 490px; height: 100px; margin-left:10px;" src="../img/pet/berg_website.jpg"></a>
+				<a href="http://www.bergfurniture.com"><img style="width: 490px; height: 100px; margin-left:10px;" src="../img/pet/berg_website.jpg"></a>
 			
 	</div>	
 	
