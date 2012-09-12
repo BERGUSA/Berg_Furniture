@@ -84,9 +84,6 @@
                                         
 										<img src="img/MainProdPics/78-14G_t.jpg" 
                                         title="Shown in Chestnut; <b>Feature:</b> <i>deep storage cubbies</i>"/>
-                                        
-                                        <img src="img/MainProdPics/78-14E_t.jpg" 
-                                        title="Shown in Nutmeg; <b>Bed Position</b> <i>with Bronze Knobs</i>"/>
                                        
                                     </div>
                                 </div>

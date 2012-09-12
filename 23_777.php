@@ -78,13 +78,25 @@
                                         
                                         <img src="img/MainProdPics/23-777C_t.jpg" 
                                         title="Shown in White with Red Knobs; <b><i>Optional</b> Under-bed 4 Drawer Chest</i>"/>
+                                        
+                                        <img src="img/MainProdPics/23-777G_t.jpg" 
+                                        title="Remove the middle bed to transform it into a two bed loft!<br><i>Shown with optional Hanging Shelves (23-13) and Trundle (22-84)</i>"/>
+                                        
+                                        <img src="img/MainProdPics/23-766E_t.jpg" 
+                                        title="Turn it into the Bifecta (23-766) by removing the bottom bed.<br><i>Shown with optional one drawer desk (23-31) that fits perfectly underneath!</i>"/>
+										
+										<img src="img/MainProdPics/23-835A_comp_t.jpg" 
+                                        title="Remove both beds to create a study station for one child! <br><i>Shown with optional six drawer desk (23-83A), hanging shelf (23-31) and cork & shelves (23-83B)</i>"/>
 										
 										<img src="img/MainProdPics/23-777D_t.jpg" 
                                         title="Remove the middle bed, add another headboard, and add 1 or 2 optional under-bed chests to create a new stand-alone bed!"/>
+                                        
+										<img src="img/MainProdPics/23-766D_t.jpg" 
+                                        title="Remove the middle bed and add a footboard to use it as a single bedroom set!<br><i>Shown with optional one drawer desk (23-30) and 4 drawer dresser (23-764)</i>"/>
 										
 										<img src="img/MainProdPics/23-777E_t.jpg" 
-                                        title="Another option: Remove the middle bed, add a new footboard, and two storage drawers for another great stand-alone bed! "/>
-                                       
+                                        title="Remove the middle bed, add a new footboard, and two storage drawers for another great stand-alone bed! "/>
+                                        
                                     </div>
                                 </div>
                             <a class="nextPage browse right"></a>
@@ -120,7 +132,7 @@
                                   <li><a href="23_835.php"><b>23-835</b> Twin Dorm Loft</a></li>
                                   <li><a href="23_905.php"><b>23-905</b> Full Loft</a></li>
                                   <li><a href="23_935.php"><b>23-935</b> Full/Full Dorm Loft</a></li>
-                                  <li><a href="23_766.php"><b>23-935</b> Twin/Twin Dorm Loft</a></li>
+                                  <li><a href="23_766.php"><b>23-766</b> Bifecta Double Twin Loft</a></li>
                                   <li style="display:block; background-color:#F60;"><b>23-777</b> Trifecta Triple Twin Loft</li>
                                   <li><a href="mix_and_match.php"><b>Mix &amp; Match</b></a></li>
                                   <br />

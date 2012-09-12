@@ -58,12 +58,35 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
-                                    	<img title="Shown in Chestnut with Navy Blue knobs <i>and with <b>optional</b> hanging shelf, 23-764 4 drawer dresser,<br>and 23-30 desk.</b></i>" 
+                                    	<img title="Shown in Chestnut with Navy Blue knobs.<br><i>Also shown with <b>optional</b> hanging shelf, 23-764 4 drawer dresser, and 23-30 desk.</i>" 
                                         src="img/MainProdPics/23-766A_t.jpg" />
-                                        <img title="Shown in Chestnut with Navy Blue knobs <i>and with <b>optional</b> hanging shelf, 23-764 4 drawer dresser,<br>and 23-30 desk.</i>"
+                                        
+                                        <img title="Shown in Chestnut with Navy Blue knobs.<br><i>Also shown with <b>optional</b> hanging shelf, 23-764 4 drawer dresser, and 23-30 desk.</i>"
                                         src="img/MainProdPics/23-766B_t.jpg" />
-                                        <img title="Shown in Chestnut with Navy Blue Knobs; detail of <b>Optional</b> 23-30 1 drawer desk and 23-764 4 drawer dresser."
+                                        
+                                        <img title="Shown in Chestnut with Navy Blue Knobs;<i> detail of <b>Optional</b> 23-30 1 drawer desk and 23-764 4 drawer dresser</i>"
                                         src="img/MainProdPics/23-766C_t.jpg" />
+                                        
+                                        <img src="img/MainProdPics/23-766E_t.jpg" 
+                                        title="Sown in Nutmeg (18)<br><i>with optional hanging shelf (23-13) and one drawer desk (23-31) that fits perfectly underneath!</i>"/>
+                                        
+                                        <img src="img/MainProdPics/23-835A_comp_t.jpg" 
+                                        title="Remove the bottom bed to create a study station for one child! <br><i>Shown with optional six drawer desk (23-83A), hanging shelf (23-13) and cork & shelves (23-83B)</i>"/>
+                                        
+                                        <img src="img/MainProdPics/23-777G_t.jpg" 
+                                        title="Rearrange the bedrails to reconfigure your space!<br><i>Shown with optional Hanging Shelves (23-13) and Trundle (22-84)</i>"/>
+                                        
+                                        <img src="img/MainProdPics/23-777F_t.jpg" 
+                                        title="Add bed rails underneath the bottom bed to create our Trifecta (23-777) unit!<br><i>Shown with optional Hanging Shelves (23-31), Bookshelf (23-14) and 4 Drawer Dresser (23-764)</i>"/>
+                                        
+                                        <img src="img/MainProdPics/23-777D_t.jpg" 
+                                        title="Remove the bottom bed, add another headboard, and add 1 or 2 optional under-bed chests to create a new stand-alone bed!"/>
+                                        
+										<img src="img/MainProdPics/23-766D_t.jpg" 
+                                        title="Remove the bottom bed and add a footboard to use it as a single bedroom set!<br><i>Shown with optional one drawer desk (23-30) and 4 drawer dresser (23-764)</i>"/>
+										
+										<img src="img/MainProdPics/23-777E_t.jpg" 
+                                        title="Remove the bottom bed, add a new footboard, and two storage drawers for another great stand-alone bed! "/>
                                        
                                        
                                     	
@@ -98,7 +121,7 @@
                                   <li><a href="23_835.php"><b>23-835</b> Twin Dorm Loft</a></li>
                                   <li><a href="23_905.php"><b>23-905</b> Full Dorm Loft</a></li>
                                   <li><a href="23_935.php"><b>23-935</b> Full/Full Dorm Loft</a></li>
-                                  <li style="display:block; background-color: #F60;"><b>23-766</b> Twin/Twin Dorm Loft</li>
+                                  <li style="display:block; background-color: #F60;"><b>23-766</b> Bifecta Double Twin Loft</li>
                                   <li><a href="23_777.php"><b>23-777</b> Trifecta Triple Twin Loft</a></li>
                                   <li><a href="mix_and_match.php"><b>Mix &amp; Match</b></a></li>
                                   <br />

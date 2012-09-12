@@ -66,16 +66,23 @@
                             	<div class="scrollable">
                                 	<div class="items">
                                     	<img src="img/MainProdPics/78-12A_t.jpg" 
-                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b></i>"/>
+                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b> Shown with optional hanging shelf (23-13)</i>"/>
+                                        
+                                        <img src="img/MainProdPics/78-12E_t.jpg" 
+                                        title="Desk stays completely level throughout the transition to a bed. <i>Shown in Nutmeg with Hunter Green (#45) knobs and optional hanging shelf (23-13)</i>"/>
                                         
                                         <img src="img/MainProdPics/78-12B_t.jpg" 
-                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Bed Position</b></i>"/>
+                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Bed Position</b> Shown with optional hanging shelf (23-13)</i>"/>
                                         
                                         <img src="img/MainProdPics/78-12C_t.jpg" 
-                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b></i>"/>
+                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b> Shown with optional hanging shelf (23-13)</i>"/>
+                                        
+                                        <img src="img/MainProdPics/78-12D_t.jpg" 
+                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b> Shown with optional hanging shelf (23-13)</i>"/>
+                                        
+                                        <img src="img/MainProdPics/78-12F_t.jpg" 
+                                        title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b> Shown with optional hanging shelf (23-13)</i>"/>
                                       
-                                       
-                                       
                                     </div>
                                 </div>
                             <a class="nextPage browse right"></a>

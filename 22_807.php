@@ -21,7 +21,7 @@
                         <div class="prodCont">
                         		<h2>Twin Over Twin with 2 Chests</h2><h3>#22-807</h3>
                                 <br />
-                                <p>There's no such thing as "enough space" for a child.  So how about two children?  The twin over twin Space Saver comes with two rooms worth of organized space, including 10 extra-deep dresser drawers and the 4-drawer Berg Signature Staircase.  As if those 14 drawers weren't enough, check out the bookshelves behind the chests!  Casters attached to the bottom bed headboard make it easy to pull out.  Stairs can be installed in either the left or right side.
+                                <p>There's no such thing as "enough space" for a child.  So how about two children?  The twin over twin Space Saver comes with two rooms worth of organized space, including 10 extra-deep dresser drawers and the 4-drawer Berg Signature Staircase.  As if those 14 drawers weren't enough, check out the bookshelves behind the chests!  Casters attached to the bottom bed headboard make it easy to pull out.  Stairs can be installed on either the left or right side.
                                 </p>
                                 <br />
                                 <h3>Features</h3>
