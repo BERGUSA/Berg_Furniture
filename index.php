@@ -13,6 +13,11 @@
                         <div id="slide-bkg">
                       		<div class="wrapper">
 					    		<div class="slides">
+					    			
+					    			<!-- SLIDE High Point -->
+                                    <div><a href="http://www.facebook.com/pages/Berg-Furniture/251098782140"><img src="img/we-are-going-to-high-point_website.jpg" 
+                                    	alt="We're going to High Point! Click to view updates from the show on our Facebook!"/></a>
+									</div>
                                     
                                      <!-- SLIDE 1 -->
                                      <div><a href="transforming_beds.php"><img src="img/slide_tb.jpg" 
@@ -30,10 +35,10 @@
 									</div>
                                        
                                    <!-- SLIDE 4 -->
-                                    <div><a href="22_915.php"><img src="img/slide2-june2.jpg" 
+                                    <!--<div><a href="22_915.php"><img src="img/slide2-june2.jpg" 
                                     	alt="Captain's Bed, Kids, View the 22-915 Bedroom System"/></a>
 									</div>
-									
+									-->
 								
                                     
 									<!-- SLIDE 5 -->
