@@ -64,6 +64,18 @@
                             	<div class="scrollable">
                                 	<div class="items">
                                 		
+                                		<img src="img/MainProdPics/albion2_t.jpg" 
+                                        title="Shown in Chestnut with #44 Antique Copper knobs; <b><i>Desk Position</b></i>"/>
+                                        
+                                        <img src="img/MainProdPics/albion1_t.jpg" 
+                                        title="Shown in Chestnut with #44 Antique Copper knobs; <b><i>Bed Position</b></i>"/>
+                                        
+                                        <img src="img/MainProdPics/albion8_t.jpg" 
+                                        title="Shown in Chestnut with #44 Antique Copper knobs; <b><i>Bed Position</b></i>"/>
+                                        
+                                        <img src="img/MainProdPics/albion9_t.jpg" 
+                                        title="Shown in Chestnut with #44 Antique Copper knobs; <b><i>Desk Position</b></i>"/>
+                                		
                                 		<img src="img/MainProdPics/78-14F_t.jpg" 
                                         title="Shown in Nutmeg; <b><i>Desk Position</b> Bronze Knobs</i>"/>
                                 		

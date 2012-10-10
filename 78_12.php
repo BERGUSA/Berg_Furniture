@@ -65,6 +65,22 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
+                                		
+                                		<img src="img/MainProdPics/albion5_t.jpg" 
+                                        title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Desk Position</b> Black Knobs</i>"/>
+                                        
+                                		<img src="img/MainProdPics/albion3_t.jpg" 
+                                        title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Desk Position</b> Black Knobs</i>"/>
+                                        
+                                        <img src="img/MainProdPics/albion4_t.jpg" 
+                                        title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Bed Position</b> Black Knobs</i>"/>
+                                        
+                                        <img src="img/MainProdPics/albion6_t.jpg" 
+                                        title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Bed Position</b> Black Knobs</i>"/>
+                                        
+                                        <img src="img/MainProdPics/albion7_t.jpg" 
+                                        title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Desk Position</b> Black Knobs</i>"/>
+                                		
                                     	<img src="img/MainProdPics/78-12A_t.jpg" 
                                         title="Shown in Nutmeg with Hunter Green (#45) Knobs; <b><i>Desk Position</b> Shown with optional hanging shelf (23-13)</i>"/>
                                         
