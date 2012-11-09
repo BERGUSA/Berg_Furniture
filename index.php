@@ -91,8 +91,18 @@
 
                         </div>
                         
-                        <!--Pet Website Coming soon tab-->
+                        <div id="tab2">
                         
+                        <a title="Free Shelf Promo!" href="Promotions.php" >Now till Nov 25th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
+                        	<div class="hidden">
+                            	<h2>Free Shelf Promotion Fall 2012 Berg Furniture</h2>
+                            	<p>Click here to view the coupon promotion and for more details</p>
+                        
+                        </div>
+                        </div>
+                        
+                        <!--Pet Website Coming soon tab-->
+                        <!--
                         <div id="tab2">
                         	<a href="http://www.bergfurniturepets.com/index.php" onclick="pageTracker._link(this.href); return false;">
                         	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
@@ -101,7 +111,7 @@
                         	</div> 
                         	</a>
                         </div> 
-						
+						-->
 					<!-- TAB Facebook -->
 					   
 					   
