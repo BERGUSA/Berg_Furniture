@@ -190,7 +190,7 @@ body {
 
 .container #product{
 	background-color:transparent;
-	height:450px;
+	height:480px;
 	width:1000px;
 	margin-top:25px;
 	background-color:white;
@@ -254,7 +254,7 @@ body {
 .container #about{
 	height:470px;
 	width:967px;
-	margin:50px auto 0 auto;
+	margin:0 auto 0 auto;
 	background-color:transparent;
 	/*border: 1px solid #001648;
 	-moz-box-shadow:    inset 0 0 10px #000000;
@@ -517,7 +517,7 @@ a.disabled {
 }
 
 #image_caption {	
-	height:120px;
+	height:170px;
 	width:390px;
 	margin:10px 0px 10px 0;
 	font-family: "Times", "Times New Roman", serif;
@@ -567,6 +567,20 @@ a.disabled {
 #image_caption h3{
 	font-family:"Times New Roman", "Times", serif;
 	color:#007083;
+	font-size:12px;
+	font-style:italic;
+}
+
+#image_caption h4{
+	font-family:"Times New Roman", "Times", serif;
+	color:red;
+	font-size:15px;
+	font-weight:bold;
+}
+
+#image_caption h5{
+	font-family:"Times New Roman", "Times", serif;
+	color:#001648;
 	font-size:12px;
 	font-style:italic;
 }
@@ -967,7 +981,7 @@ a.disabled {
 #pawdecoration{
 	width:1000px;
 	height:50px;
-	margin:5px auto;
+	margin:10px auto;
 }
 
 .pawdecoration{

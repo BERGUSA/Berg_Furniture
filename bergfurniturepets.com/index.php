@@ -82,7 +82,9 @@ type="text/javascript"></script>
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-85_t.png"
-                data-caption="<h1>P22-85</h1> <h3>shown in Brandy #28</h3> <br>
+                data-caption="<h1>P22-85</h1> <h3>shown in Brandy #28</h3><br>
+                <!--<h4>Holiday Promotion Price: $94.50</h4>
+                <h5>Originally $135</h5><br>-->
                 <h2>Pamper your pooch with this model! The P22-85 is perfect to give your small animal their very own twin bed,
                 	to scale of course. Not too high off the ground, this model is accessable for kittens, puppies and toy dogs.
                 	<br><i>Maximum Weight of Pet Limit: 50lbs</i></h2>"/>
@@ -94,7 +96,9 @@ type="text/javascript"></script>
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-86_t.png" 
-                data-caption="<h1>P22-86</h1> <h3>shown in Chestnut #10</h3> <br>
+                data-caption="<h1>P22-86</h1> <h3>shown in Chestnut #10</h3><br>
+                <!--<h4>Holiday Promotion Price: $105</h4>
+                <h5>Originally $150</h5><br>-->
                 <h2>A traditional full bed, scaled down! This model is great for those looking for a little more bed space than
                 	the P22-85. Great for kittens, puppies and toy dogs!<br><i>Maximum Weight of Pet Limit: 50lbs</i>
                 </h2>"/>
@@ -106,7 +110,9 @@ type="text/javascript"></script>
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-88_t.png" 
-                data-caption="<h1>P22-88</h1> <h3>shown in Chestnut #10</h3> <br>
+                data-caption="<h1>P22-88</h1> <h3>shown in Chestnut #10</h3><br>
+                <!--<h4>Holiday Promotion Price: $238</h4>
+                <h5>Originally $340</h5><br>-->
                 <h2>Give your pet an incredible spot to relax! Spacious yet space efficient, the trundle is perfect for
                 	storing toys, accessories and grooming supplies!
                 	The low height it great as it is not too hard to get up and off of.
@@ -119,7 +125,9 @@ type="text/javascript"></script>
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p22-89_t.png" 
-                data-caption="<h1>P22-89</h1> <h3>shown in Brandy #28</h3> <br>
+                data-caption="<h1>P22-89</h1> <h3>shown in Brandy #28</h3><br>
+                <!--<h4>Holiday Promotion Price: $269.50</h4>
+                <h5>Originally $385</h5><br>-->
                 <h2>A larger model than the P22-88 for those that are looking for more storage space 
                 	or a larger bed. The low height it great as there is less strain
                 	on the shoulders and hips to get up and off of.
@@ -132,7 +140,9 @@ type="text/javascript"></script>
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-935_t.png" 
-                data-caption="<h1>P22-935</h1> <h3>shown in Chestnut #10</h3> <br>
+                data-caption="<h1>P22-935</h1> <h3>shown in Chestnut #10</h3><br>
+                <!--<h4>Holiday Promotion Price: $252</h4>
+                <h5>Originally $360</h5><br>-->
                 <h2>From leashes to food dishes, from grooming supplies to toys, this unit offers lots of storage 
                 	in the cabinets for any pet accessory.
                 	A great addition to any household!<br><i>Maximum Weight of Pet Limit: 150lbs</i>
@@ -146,7 +156,9 @@ type="text/javascript"></script>
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p22-945_t.png" 
-                data-caption="<h1>P22-945</h1> <h3>shown in Natural #61</h3> <br>
+                data-caption="<h1>P22-945</h1> <h3>shown in Natural #61</h3><br>
+                <!--<h4>Holiday Promotion Price: $238</h4>
+                <h5>Originally $340</h5><br>-->
                 <h2>The cubbies can be used for any pet accessories however, 
                 	cats are drawn to this model because it is great for nesting!
                 	A great addition to any room in the house and looks fantastic
@@ -160,7 +172,9 @@ type="text/javascript"></script>
 			<div class="bed_thumbs">
 				
 				<img src="img/pet/p40-535_t.png" 
-                data-caption="<h1>P40-535</h1> <h3>shown in Natural #61</h3> <br>
+                data-caption="<h1>P40-535</h1> <h3>shown in Natural #61</h3><br>
+                <!--<h4>Holiday Promotion Price: $297.50</h4>
+                <h5>Originally $425</h5><br>-->
                 <h2>A double decker for pets! This model has stairs to make the top more acccessable for the little ones.
                 	It's sleek design looks great in any room of the house.
                 	<br><i>Maximum Weight of Pet Limit: 50lbs</i></h2>"/>
@@ -172,7 +186,9 @@ type="text/javascript"></script>
 			<div class="bed_thumbs">
 					
 				<img src="img/pet/p23-777_t.png" 
-                data-caption="<h1>P23-777</h1> <h3>shown in Natural #61</h3> <br>
+                data-caption="<h1>P23-777</h1> <h3>shown in Natural #61</h3><br>
+                <!--<h4>Holiday Promotion Price: $252</h4>
+                <h5>Originally $360</h5><br>-->
                 <h2>Want multiple beds for your pets but don't have a lot of space?
                 	The triple decker fits snuggly into a room taking up minimal space
                 	while giving your pet plenty of nooks and crannies to hide and sleep.
