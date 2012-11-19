@@ -744,6 +744,7 @@ a.disabled {
 	border: 3px solid #9F9;
 	border-radius: 15px;
 	text-align: center;
+	margin:0 auto;
 }
 
 .MsgSent h2 {

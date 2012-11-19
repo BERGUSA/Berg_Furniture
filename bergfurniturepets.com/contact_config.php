@@ -5,7 +5,7 @@
 //==============
 
 //Put in your email address below:
-$to = 'Berg-USA@bergfurniture.com';
+$to = 'marketing@bergfurniture.com';
 
 
 //User info 
@@ -33,7 +33,7 @@ $msg .= "State : $state \r\n\n"; //add senders state to the message
 $msg .= "Zip code : $zip \r\n\n"; //add senders zip code to the message
 $msg .= "e-Mail : $email \r\n\n";  //add sender's email to the message
 $msg .= "Phone Number : $phone \r\n\n"; //add senders phone number
-$msg .= "Item : $item \r\n\n";
+$msg .= "Item # : $item \r\n\n";
 $msg .= "Finish : $finish \r\n\n";
 //$msg .= "Store Info : $store \r\n\n"; //add senders store info
 //$msg .= "Subject : $subject \r\n\n"; //add subject to the message (optional! It will be displayed in the header anyway)
@@ -71,7 +71,7 @@ $msg .= "Finish : $finish \r\n\n";
   	echo nl2br("
    	<div class=\"MsgSent\">
 		<h2>Thank You!</h2>
-		<p>Inital order has been sent<br /> A Berg Furniture representative will contact you to process payment shortly.</p>
+		<p>Inital order has been sent!<br /> A Berg Furniture representative will contact you to process payment shortly.</p>
 	</div>
    ");
 

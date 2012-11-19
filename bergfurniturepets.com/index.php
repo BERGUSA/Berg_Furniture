@@ -340,7 +340,7 @@ type="text/javascript"></script>
 							<label for="state"><strong> State:</strong></label>
 							<!--<input placeholder="State" input id="state" name="state" type="text" class="required" size="20" />-->
 							
-							<select id="state" size="1" class="required">
+							<select id="state" size="1" class="required" input id="state" name="state">
 									<option value="">Select</option>
 									<option value="AL">Alabama</option>
 									<option value="AK">Alaska</option>
@@ -418,7 +418,7 @@ type="text/javascript"></script>
 							<!--item number-->	
 							<label for="item"><strong> Item Number:</strong></label>
 							<!--<input placeholder="item" input id="item" name="item" type="text" class="required" size="20" />-->
-										<select id="item" size="1" class="required">
+										<select id="item" size="1" class="required" input id="item" name="item">
 											<option value="">Select</option>
 											<option value="P22-85">P22-85</option>
 											<option value="P22-86">P22-86</option>
@@ -434,7 +434,7 @@ type="text/javascript"></script>
 							<!--finish-->	
 							<label for="finish"><strong> Finish:</strong></label>
 							<!--<input placeholder="Finish" input id="finish" name="finish" type="text" class="required" size="20" />-->
-										<select id="finish" size="1" class="required">
+										<select id="finish" size="1" class="required" input id="finish" name="finish">
 											<option value="">Select</option>
 											<option value="Natural">Natural</option>
 											<option value="Chestnut">Chestnut</option>
