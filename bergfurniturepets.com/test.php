@@ -61,7 +61,7 @@ type="text/javascript"></script>
 			<img src="img/pet/2_dogs.png" alt="Dogs on one of our original bunk bed designs">
 			
 		</div>
-				<a href="#scrollable"><img style="width: 240px; height: 260px; margin-left:10px; margin-bottom:10px; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5;" src="../img/pet/pet_promo.jpg"></a>
+				<a href="#contactFormWrap"><img style="width: 240px; height: 260px; margin-left:10px; margin-bottom:10px; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5;" src="../img/pet/shop_now.jpg"></a>
 			
 				<a href="#" rel="#images"><img style="width: 240px; height: 260px; margin-left:10px; margin-bottom:10px; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5;" src="../img/pet/pics.jpg"></a>
 			

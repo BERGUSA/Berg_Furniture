@@ -462,10 +462,46 @@ $(document).ready(function(){
 
 				
 				
+				//add more than one pet bed
+				
+
+
+
+//show or hide the element based on the name provided
+//must provide in string format, surrounded by "" or ''
+//ex ShowHide('dropdown2') will hide dropdown2
+//ex ShowHide('dropdown1','dropdown2', 'dropdown3') will hide all three
+    function ShowHide() {
+        var myElements = arguments;
+        var myElement;
+        var CheckBoxValue = document.getElementById("checkbox1").checked;
+        if (CheckBoxValue == true) {    //checkbox is not selected
+            for (var i = 0; i < myElements.length; i++) {
+                myElement = document.getElementById(myElements[i]);
+                myElement.selectedIndex = -1;
+                myElement.style.visibility = "visible";
+                //document.getElementById(myElements[i]).style.visibility = "visible";
+            }
+        } else {                        //checkbox is selected
+            for (var i = 0; i < myElements.length; i++) {
+                myElement = document.getElementById(myElements[i]);
+                myElement.style.visibility = "hidden";
+                //document.getElementById(myElements[i]).style.visibility = "hidden";
+            }
+        }
+    }
+
+
+
+
+				
 
 				// CONTACT FORM VALIDATION
 
 				//=================================================================================== 
+
+				
+
 
 				
 
@@ -479,12 +515,28 @@ $(document).ready(function(){
 
 						name: 'First and last name please!',
 
+						address: 'Please give us a valid home address!',
+
 						city: 'Please give us a valid city!',
 
-						state: 'Please give us a valid state!',
+						state: 'Please select a state!',
 
-						email: 'We need a valid email address so we can contact you back!',
+						zip: 'Please give us a valid zipcode!',
+
+						email: 'Please enter a valid e-mail address!',
 						
+						phone: 'Please enter a valid 10-digit phone number!',
+
+						store: 'If you are unsure, type "unsure"',
+						
+						item: 'Please, select an item!',
+						
+						finish: 'Please, select a finish',
+
+						modelNo: 'If you are unsure, type "unsure"',
+
+						purchaseDate: 'If you are unsure, type "unsure"',
+
 						subject: 'What is your message about?',
 
 						message: "We wanna hear from you, don't leave this blank!"
@@ -504,6 +556,7 @@ $(document).ready(function(){
 						email: {email: true},
 
 						message: {minlength: 10}
+
 					}
 
 					
@@ -518,6 +571,6 @@ $(document).ready(function(){
 
 				});
 
+		
 
-
-}); //end scripts.js
+});
