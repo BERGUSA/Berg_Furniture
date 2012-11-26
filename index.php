@@ -90,7 +90,7 @@
 							
 
                         </div>
-                        
+                        <!--
                         <div id="tab2">
                         
                         <a title="Free Shelf Promo!" href="Promotions.php" >Now till Nov 25th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
@@ -100,18 +100,8 @@
                         
                         </div>
                         </div>
-                        
-					<!-- TAB Facebook -->
-					   
-					   
-					 <!--  
-					   <div id="tab2"><a title="Pet Website Coming Soon!" href="http://www.facebook.com/home.php?#/pages/Barrington-NJ/Berg-Furniture/251098782140?ref=nf" target="_blank" onClick="javascript: pageTracker._trackPageview("/G1/facebook.com");" >Berg Furniture on Facebook</a>
-                        	<div class="hidden">
-                            	<h2>Join us on Facebook!</h2>
-                            	<p>For the latest news, pictures, and information.</p>
-                        	</div>
-                       </div> 
-                      --> 
+                        -->
+					
                       
 						<!-- SHELF PROMO TAB -->
 						<!--
@@ -136,7 +126,7 @@
                       
                       <!--Pet Website Coming soon tab-->
                         
-                        <div id="tab3">
+                        <div id="tab2">
                         	<a href="http://www.bergfurniturepets.com/index.php" onclick="pageTracker._link(this.href); return false;">
                         	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
                         	<div class="hidden">
@@ -146,7 +136,7 @@
                         </div> 
 						
                       
-                    <!--
+                    
                       <div id="tab4">                        
 
                         	<a href="78_12.php">
@@ -167,7 +157,7 @@
 							
 
                         </div>
-                     -->
+                     
                       
                       
                       
