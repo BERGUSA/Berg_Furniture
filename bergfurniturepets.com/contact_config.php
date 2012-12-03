@@ -5,7 +5,7 @@
 //==============
 
 //Put in your email address below:
-$to = 'marketing@bergfurniture.com';
+$to = 'Berg-USA@bergfurniture.com';
 
 
 //User info 
