@@ -5,7 +5,7 @@
 //==============
 
 //Put in your email address below:
-$to = 'Berg-USA@bergfurniture.com';
+$to = 'marketing@bergfurniture.com';
 
 
 //User info 
@@ -20,7 +20,7 @@ $phone = stripslashes($_POST['phone']); //sender's phone number
 $item = $_POST['item'];
 $finish = $_POST['finish'];
 //The subject
-$subject = stripslashes($_POST['subject']); // the subject
+//$subject = stripslashes($_POST['subject']); // the subject
 
 
 //The message you will receive in your mailbox
@@ -36,7 +36,7 @@ $msg .= "Phone Number : $phone \r\n\n"; //add senders phone number
 $msg .= "Item # : $item \r\n\n";
 $msg .= "Finish : $finish \r\n\n";
 //$msg .= "Store Info : $store \r\n\n"; //add senders store info
-//$msg .= "Subject : $subject \r\n\n"; //add subject to the message (optional! It will be displayed in the header anyway)
+$msg .= "Subject : Pet Bed Order"; //add subject to the message (optional! It will be displayed in the header anyway)
 //$msg .= "---Message--- \r\n".stripslashes($_POST['message'])."\r\n\n";  //==the message itself
 
 //Extras: User info (Optional!)

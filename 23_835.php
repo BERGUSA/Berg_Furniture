@@ -77,6 +77,11 @@
                          <div id="icons">
                            	 <img src="img/images/icons/1.png" 
                                 	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two kids" />
+                             
+                             <a href="http://youtu.be/WapX_ZGx5ZU">
+                             <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4><br>Click to view an animation of how this unit turns into the Trifecta, Bifecta, and much more!">
+                                </a>
+                             
                              <img src="img/images/icons/stairs.png" 
                                 	title="<h4>Berg's Signature Staircase</h4><br />This system is equipped with Berg's Signature Staircase. This innovative 				 											original feature provides safe access to the top loft and lots of storage in each step" />
                              

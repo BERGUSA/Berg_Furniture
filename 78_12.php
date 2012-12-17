@@ -111,7 +111,7 @@
                                 	title="<h4>Two Beds</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two people." />
                               
                              <a href="http://youtu.be/G56f6qhotBU">
-                             <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4>Click to view a YouTube video on our prototype from our latest tradeshow!">
+                             <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4><br>Click to view a YouTube video on our prototype from our latest tradeshow!">
                                 </a>
                              
                              <img src="img/images/icons/twin.png" 

@@ -109,6 +109,11 @@
                          <div id="icons">
                            	 <img src="img/images/icons/3.png" 
                                 	title="<h4>Three Bed</h4><br />This Smart Bedroom System is able to provide a sleeping environment for up to three kids" />
+                             
+                             <a href="http://youtu.be/WapX_ZGx5ZU">
+                             <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4><br>Click to view an animation of how this unit turns into the Bifecta (#23-766), Dorm Loft (#23-835), and much more!">
+                                </a>
+                             
                              <img src="img/images/icons/stairs.png" 
                                 	title="<h4>Berg's Signature Staircase</h4><br />This system is equipped with Berg's Signature Staircase. This innovative 				 											original feature provides safe access to the top loft and lots of storage in each step" />
                              
