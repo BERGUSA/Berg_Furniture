@@ -33,11 +33,11 @@
                           </div>
                             
 						<div class="goodsTab">
-                            <img src="img/casegoods/6drawer-dresser.jpg" />
+                            <img src="img/casegoods/6drawer-dresser_NEW.jpg" />
                             <p><b style="font-size:16px;">6 Drawer Dresser</b>
-                            <br/>22-23
+                            <br/>22-28
                             <br /><br />
-                            <i>53"W x 22"D x 30"H </i>
+                            <i>54"W x 22"D x 35"H </i>
                             </p>
                           </div>
                             
@@ -64,9 +64,9 @@
                            <div class="goodsTab">
                             <img src="img/casegoods/chest-hutch.jpg" />
                             <p><b style="font-size:16px;">Chest Hutch</b>
-                            <br/>22-71
+                            <br/>22-75
                             <br /><br />
-                            <i>36"W x 12"D x 44"H</i>
+                            <i>34"W x 12"D x 40"H</i>
                             <br />
                             <br />
                             <i>Fits on 3 Drawer Chest (22-22)</i>
@@ -129,11 +129,11 @@
                             
                             
                             <div class="goodsTab">
-                            <img src="img/casegoods/hutch2.jpg" />
+                            <img src="img/casegoods/hutch2-NEW.jpg" />
                             <p><b style="font-size:16px;">Desk Hutch</b>
-                            <br/>22-73
+                            <br/>22-76
                             <br /><br />
-                            <i>47"W x 12"D x 43"H</i><br>
+                            <i>47"W x 12"D x 40"H</i><br>
                             <i>Light Fixture Included</i>
                             </p>
                             </div>
@@ -244,7 +244,7 @@
                             <p><b style="font-size:16px;">Sierra Bookcase</b>
                             <br/>22-06
                             <br /><br />
-                            <i>34"W x 12"D x 64"H</i>
+                            <i>34"W x 12"D x 72"H</i>
                             </p>
                           </div> 
                           
