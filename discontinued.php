@@ -430,6 +430,20 @@
 								</p>
 						</div>
 						
+						<div  class="discTab">
+								<img src="img/discontinued/22-23.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Double Dresser </strong>22-23-xx
+								</p>
+						</div>
+						
+						<div  class="discTab">
+								<img src="img/discontinued/22-73.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Computer Desk Hutch </strong>22-73-xx
+								</p>
+						</div>
+						
 						<a id="backtotop" style="font-family:'Times New Roman', Times, serif; font-size:14px;" href="#outside_container">Back to Top</a> 
 					
 					</div>
