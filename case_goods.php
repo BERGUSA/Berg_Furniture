@@ -70,7 +70,7 @@
                             <br />
                             <br />
                             <i>Fits on 3 Drawer Chest (22-22)</i>
-                            <i>and 1 Drawer Desk (22-31)</i>
+                            <i>and 1 Drawer Desk (23-30)</i>
                             </p>
                            </div>
                            
