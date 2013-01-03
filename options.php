@@ -47,31 +47,6 @@
                 		
                         <div class="simple_overlay_container" id="knob_class">
                         	<br><br>
-                			Wood<br>Knobs:
-                		</div>
-                		
-                		<div class="simple_overlay_container">
-                			<img src="img/knobs/28-brandy.jpg">
-                			Brandy <i>(#28)</i>
-                		</div>
-                		
-                		<div class="simple_overlay_container">
-                			<img src="img/knobs/10-chestnut.jpg">
-                			Chestnut <i>(#10)</i>
-                		</div>
-                		
-                		<div class="simple_overlay_container">
-                			<img src="img/knobs/18-nutmeg.jpg">
-                			Nutmeg <i>(#18)</i>
-                		</div>
-                		
-                		<div class="simple_overlay_container">
-                			<img src="img/knobs/61-natural.jpg">
-                			Natural <i>(#61)</i>
-                		</div>
-                		
-                        <div class="simple_overlay_container" id="knob_class">
-                        	<br><br>
                 			Plastic<br>Knobs:
                 		</div>
                 		
@@ -119,6 +94,31 @@
                 			<img src="img/knobs/96-black.jpg">
                 			Black <i>(#96)</i>
                 		</div>
+                		
+                		<div class="simple_overlay_container" id="knob_class">
+                        	<br><br>
+                			Wood<br>Knobs:
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/knobs/28-brandy-new.jpg">
+                			Brandy <i>(#28)</i>
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/knobs/10-chestnut-new.jpg">
+                			Chestnut <i>(#10)</i>
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/knobs/18-nutmeg-new.jpg">
+                			Nutmeg <i>(#18)</i>
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/knobs/61-natural-new.jpg">
+                			Natural <i>(#61)</i>
+                		</div>
               </div>  	
                 		<div class="simple_overlay_knob_subtitle">      
                 			Oslo Knobs <i>*Optional, Hand Painted*</i> <br><br>
@@ -140,13 +140,13 @@
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/knobs/01-red-oslo.jpg">
-                			Red <i>(#01)</i>
+                			<img src="img/knobs/56-fuchsia-oslo.jpg">
+                			Fuchsia <i>(#56)</i>
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/knobs/79-orange-oslo.jpg">
-                			Orange <i>(#79)</i>
+                			<img src="img/knobs/01-red-oslo.jpg">
+                			Red <i>(#01)</i>
                 		</div>
                 		
                 		<div class="simple_overlay_container">
@@ -165,13 +165,13 @@
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/knobs/06-chocolate-oslo.jpg">
-                			Chocolate <i>(#06)</i>
+                			<img src="img/knobs/13-dark-purple-oslo.jpg">
+                			Dark Purple <i>(#13)</i>
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/knobs/20-espresso-oslo.jpg">
-                			Espresso <i>(#20)</i>
+                			<img src="img/knobs/16-gray-oslo.jpg">
+                			Gray <i>(#16)</i>
                 		</div>
                 
                 </div>

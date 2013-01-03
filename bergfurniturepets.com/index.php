@@ -508,7 +508,7 @@ type="text/javascript"></script>
 									 </div>
                                        
                                    <!-- SLIDE 4 -->
-                                    <div><a href="why_buy_berg.php" onclick="pageTracker._link(this.href); return false;"><img src="img/pet/slide_want-to-know-more.jpg" alt="Want to know more? Click here!"/></a>
+                                    <div><a href="www.bergfurniture.com/why_buy_berg.php" onclick="pageTracker._link(this.href); return false;"><img src="img/pet/slide_want-to-know-more.jpg" alt="Want to know more? Click here!"/></a>
 									</div>
                                    
 								</div>
