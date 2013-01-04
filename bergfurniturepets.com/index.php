@@ -309,7 +309,7 @@ type="text/javascript"></script>
 				3. Once payment is processed, please allow 3 business days for 
 				your bed to leave our facility and up to 5 days in transit.<br><br>
 
-				Holiday promotion includes standard shipping. 
+				New Year promotion includes standard shipping. 
 				An additional charge will be applied for purchases requiring a faster delivery time. 
 				All time frames are calculated when weather conditions are normal and any business day closures will result in a longer delivery time.
 
