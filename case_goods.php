@@ -244,7 +244,7 @@
                             <p><b style="font-size:16px;">Sierra Bookcase</b>
                             <br/>22-06
                             <br /><br />
-                            <i>34"W x 12"D x 72"H</i>
+                            <i>34"W x 13"D x 72"H</i>
                             </p>
                           </div> 
                           
