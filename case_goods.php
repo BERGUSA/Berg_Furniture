@@ -143,9 +143,10 @@
                             <div class="goodsTab">
                             <img src="img/casegoods/1drawer-desk.jpg" />
                             <p><b style="font-size:16px;">1 Drawer Desk</b>
-                            <br/>23-31
+                            <br/>23-30
                             <br /><br />
-                            <i>36"W x 22"D x 30"H</i>
+                            <i>34"W x 22"D x 30"H</i><br>
+                            <i>Will fit under the <a href="/23_766.php">#23-766</a></i>
                             </p>
                             </div>
 							
