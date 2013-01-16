@@ -119,6 +119,7 @@
                             <img src="img/casegoods/22-35.jpg" />
                             <p><b style="font-size:16px;">3 Drawer Desk</b>
                             <br/>22-35
+                            <i>shown with optional Desk Hutch #22-76</i>
                             <br /><br />
                             <i>47"W x 22"D x 30"H</i>
                             <br>
