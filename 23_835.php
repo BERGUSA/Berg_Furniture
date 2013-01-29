@@ -6,6 +6,12 @@
     	<div id="outside_container">
 
 			<?php include 'options.php'; ?>
+			
+				<div class="simple_overlay" id="youtube_utica">
+	
+					<iframe width="853" height="480" src="http://www.youtube.com/embed/WapX_ZGx5ZU?rel=0" frameborder="0" allowfullscreen></iframe>
+	
+				</div>
 
             <?php include 'bss.php'; ?>
             <div id="tip"></div>
@@ -78,7 +84,7 @@
                            	 <img src="img/images/icons/1.png" 
                                 	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two kids" />
                              
-                             <a href="http://youtu.be/WapX_ZGx5ZU">
+                             <a href="#" rel="#youtube_utica">
                              <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4><br>Click to view an animation of how this unit turns into the Trifecta, Bifecta, and much more!">
                                 </a>
                              

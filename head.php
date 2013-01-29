@@ -9,6 +9,7 @@
 
 <!-- LINKS -->
 <link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/style-simple-overlay.css" rel="stylesheet" type="text/css" />
 <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
 <!-- FAVICON -->

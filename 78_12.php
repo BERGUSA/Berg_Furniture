@@ -12,6 +12,12 @@
 
                 <?php include 'options.php'; ?>
 
+					<div class="simple_overlay" id="youtube_78-12">
+	
+						<iframe width="640" height="480" src="http://www.youtube.com/embed/8j6p8zPaJtE?rel=0" frameborder="0" allowfullscreen></iframe>
+	
+					</div>
+
             <div id="tip"></div>
             <div class="container">
                 
@@ -110,8 +116,8 @@
                            	 <img src="img/images/icons/2.png" 
                                 	title="<h4>Two Beds</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two people." />
                               
-                             <a href="http://youtu.be/G56f6qhotBU">
-                             <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4><br>Click to view a YouTube video on our prototype from our latest tradeshow!">
+                             <a href="#" rel="#youtube_78-12">
+                             <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4><br>Click to view a YouTube video!">
                                 </a>
                              
                              <img src="img/images/icons/twin.png" 
