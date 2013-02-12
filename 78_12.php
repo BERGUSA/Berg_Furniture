@@ -72,6 +72,9 @@
                             	<div class="scrollable">
                                 	<div class="items">
                                 		
+                                		<img src="img/MainProdPics/albion6_t.jpg" 
+                                        title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Bed Position</b> Black Knobs</i>"/>
+                                		
                                 		<img src="img/MainProdPics/albion5_t.jpg" 
                                         title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Desk Position</b> Black Knobs</i>"/>
                                         
@@ -79,9 +82,6 @@
                                         title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Desk Position</b> Black Knobs</i>"/>
                                         
                                         <img src="img/MainProdPics/albion4_t.jpg" 
-                                        title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Bed Position</b> Black Knobs</i>"/>
-                                        
-                                        <img src="img/MainProdPics/albion6_t.jpg" 
                                         title="Shown in Natural with <b>optional</b> Violet (#66) Accents and Hanging Shelf (#23-13); <b><i>Bed Position</b> Black Knobs</i>"/>
                                         
                                         <img src="img/MainProdPics/albion7_t.jpg" 

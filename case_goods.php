@@ -21,7 +21,7 @@
                    </div>
                     	
                         <div class="CollTabs2">
- <!--row 1-->
+ <!--row 1--><div id="row1">&nbsp;</div>
 						 <div class="goodsTab">
                             <a href="22_825.php"><img src="img/casegoods/shelf.jpg" alt="Our popular hanging shelf!"/></a>
                             <p><b style="font-size:16px;">Hanging Shelf</b>
@@ -58,7 +58,7 @@
                             </p>
                           </div>
                           
- <!--Row 2-->
+ <!--Row 2--><div id="row2">&nbsp;</div>
  						<div class="goodsTab">
                             <img src="img/casegoods/3drawer-chest.jpg" />
                             <p><b style="font-size:16px;">3 Drawer Chest</b>
@@ -99,10 +99,10 @@
                             </p>
                          </div>
                          
-<!--Row 3-->
+<!--Row 3--><div id="row3">&nbsp;</div>
 
 						<div class="goodsTab">
-                            <img src="img/casegoods/hangingthreepocketshelf.jpg" />
+                            <img src="img/casegoods/40-16.jpg" />
                             <p><b style="font-size:16px;">Under Loft Bookcase</b>
                             <br/>40-16
                             <br /><br />
@@ -113,7 +113,7 @@
                           </div>
                           
                          <div class="goodsTab">
-                            <img src="img/casegoods/cork-shelves.jpg" />
+                            <img src="img/casegoods/23-83b.jpg" />
                             <p><b style="font-size:16px;">Cork Board &amp; Shelves for Dorm Lofts</b>
                             <br/>23-83B
                             <br /><br />
@@ -122,7 +122,7 @@
                           </div>
                           
                          <div  class="goodsTab">
-                            <img src="img/casegoods/desk-station.jpg" />
+                            <img src="img/casegoods/23-83a.jpg" />
                             <p><b style="font-size:16px;">Desk Station for Dorm Lofts</b>
                             <br/>23-83A
                             <br /><br />
@@ -133,7 +133,7 @@
                           </div>
                           
                           <div class="goodsTab">
-                            <img src="img/casegoods/3drawer-study-station.jpg" />
+                            <img src="img/casegoods/23-21.jpg" />
                             <p><b style="font-size:16px;">3 Drawer Study Station</b>
                             <br/>23-21
                             <br /><br />
@@ -143,7 +143,7 @@
                             </p>
                           </div>
                           
-<!--Row 4-->
+<!--Row 4--><div id="row4">&nbsp;</div>
                           
                           <div class="goodsTab">
                             <img src="img/casegoods/22-35.jpg" />
@@ -188,10 +188,10 @@
                             </p>
                            </div>
                            
-<!-- Row 5-->
+<!-- Row 5--><div id="row5">&nbsp;</div>
                            
                            <div class="goodsTab">
-                            <img src="img/casegoods/jcb-bookcase.jpg" />
+                            <img src="img/casegoods/22-95a.jpg" />
                             <p><b style="font-size:16px;">Wide Bookcase for Jr. Captain's Beds</b>
                             <br/>22-95A
                             <br /><br />
@@ -202,7 +202,7 @@
                           </div>
                           
                           <div class="goodsTab">
-                            <img src="img/casegoods/jcb-headbookcase.jpg" />
+                            <img src="img/casegoods/22-94.jpg" />
                             <p><b style="font-size:16px;">Twin Bookcase for Jr. Captain's Beds </b>
                             <br/>22-94
                             <br /><br />
@@ -232,10 +232,10 @@
                             </p>
                           </div>
 
-<!--Row 6-->
+<!--Row 6--><div id="row6">&nbsp;</div>
 
 						<div class="goodsTab">
-                            <img src="img/casegoods/trundle.jpg" />
+                            <img src="img/casegoods/22-84.jpg" />
                             <p><b style="font-size:16px;">Trundle</b>
                             <br/>22-84
                             <br /><br />

@@ -1028,7 +1028,7 @@
 		slides: '.slides',
 		pagination: '.pagination',
 		containerClick: false, // Click container for next slide
-		autoStart: 10000, // Set to positive number for auto start and interval time
+		autoStart: 9000, // Set to positive number for auto start and interval time
 		restart: 4000, // Set to positive number for restart and restart time
 		slidespeed: 1000, // Speed of slide animation
 		fadespeed: 300, // Speed of fade animation

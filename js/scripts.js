@@ -38,17 +38,16 @@ $(document).ready(function(){
 			// change the image			wrap.find("img").attr("src", url);		};
 		//get image caption from thumbnail title		var titleStr = $(this).attr("data-caption");				$("div#image_caption").html(titleStr);				// begin loading the image from flickr		img.src = url;
 		// when page loads simulate a "click" on the first image		}).filter(":first").click();
-						
+						//Sable image change~~~~~~~~~~~~~~~~~													$("div#sable_wrap").scrollable(); 				//This function changes an attribute to a new attribute		function changeAttributes (selector, oldAttribute, newAttribute) {			var elem = $(selector);			elem.each(function(){				var attrTitle = $(this).attr(oldAttribute);				var $this = $(this);				$(this).removeAttr(oldAttribute);				$(this).attr(newAttribute, attrTitle);			});		};				//It's called here to change the 'title' attribute to 'data caption' in every thumbnail image		//This is a roundabout way to remove the tooltips from displaying when the thumbnail is hovered over.  		changeAttributes("#sable_wrap img", "title", "data-caption");						$("#sable_wrap img").click(function(){			var url = $(this).attr("src").replace("_hover.jpg","_big.jpg");			var wrap = $("#sableBigWrap").fadeTo("medium", 1);			var img = new Image();			img.onload = function () {				wrap.fadeTo("fast", 1);				wrap.find("img").attr("src",url);			};			img.src = url;		}).filter(":first").click();												//end sable image change~~~~~~~~~~~~~~~~
 		//OVERLAYS
-		//=================================================================================== 
-
+		//=================================================================================== 
 		$("a[rel]").overlay({
 			expose: { 
 		        color: '#000', 
 		        loadSpeed: 300, 
 		        opacity: 0.2,		        		        closeOnEscape: true,		        		        closeOnClick: true
 		    }, 
- 		}); 
+ 		});  		 		
  		
  		//SCROLL TO
 		//=================================================================================== 
@@ -208,4 +207,4 @@ $(document).ready(function(){
 					$(this).next('.error').hide();
 				});
 		
-}); //end scripts.js
+}); //new items		$('h50 img').click( function(e) {			$('#newItem_wrap').slideToggle(300);				});				$('.close-new').click(function() {			$(this).parent().parent().slideToggle(150);		});  		//end scripts.js

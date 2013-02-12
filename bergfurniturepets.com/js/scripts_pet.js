@@ -552,6 +552,8 @@ $(document).ready(function(){
 						address: { minlength: 5 },
 
 						zip: {number: true, minlength: 5 },
+						
+						phone: {number: true, minlength: 10 },
 
 						email: {email: true},
 

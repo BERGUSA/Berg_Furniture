@@ -7,17 +7,17 @@
 		<a href='#' class="close">close</a>
 		</p>
 	</div> 
-	
+
 	<!-- Logo -->
-	
-	<h1><a href="/index.php"><img title="Left Click Go Home, Right Click for Logos" alt="Berg Furniture" src="/img/logo.png"/></a></h1>
+
+	<h1><a href="/index.php"><img title="Left Click Go Home, Right Click for Logos" alt="Berg Furniture" src="img/logo.png"/></a><a href="made_usa.php"><img title="Made in the USA" alt="Made in the USA" style="padding-left:5px;" src="img/usa-star.png"/></a></h1>
 	<div class="hidden">Berg Furniture</div>
 
     <!-- Smart Bedroom Systems -->
 	<div id="SBSsmall">
-		<img alt="Smart Bedroom Systems, Innovative Environments for the Growing Child" src="/img/SBSsmall.png" style= "position:absolute; margin-left:475px;"/>
+		<img alt="Smart Bedroom Systems, Innovative Environments for the Growing Child" src="img/SBSsmall.png" style= "position:absolute; margin-left:405px;"/>
 	</div>
-
+	
     <!-- Nav Bar -->
 	<div id="navigation2" class="editable">
 		<div id="home"><a href="/index.php"></a></div>
@@ -182,7 +182,7 @@
                          <br />                        		     
 
 					</div>
-                   <div style="float:left; padding-left: 40px; width: 200px; margin-top:10px;"><!-- Third Column -->
+                   <div style="float:left; padding-left: 40px; width: 200px; margin-top:10px; color: #074742; font-size:11px; line-height: 16px; font-family:sans-serif; text-decoration:none;"><!-- Third Column -->
                    	
                    	<a href="http://www.bergfurniturepets.com/index.php"><img src="/img/images/furn_icon_13.png" alt="Pet Furniture" style="margin-top:-5px; width:62px; padding-bottom: 7px;" /></a>
 
@@ -198,23 +198,23 @@
 
                          <p>
 
-								<a href="/case_goods.php#row1">Dressers &amp; Chests</a>,
+								<a href="/case_goods.php#row2">Dressers &amp; Chests</a>,
 
-								<a href="/case_goods.php#row2">Night Tables</a>,
+								<a href="/case_goods.php#row1">Night Tables</a>,
 
-								<a href="/case_goods.php#row2">Mirror</a>,
+								<a href="/case_goods.php#row1">Mirror</a>,
 
-								<a href="/case_goods.php#row2">Deluxe Chair</a>,
+								<a href="/case_goods.php#row6">Deluxe Chair</a>,
 
 								<a href="/case_goods.php#row3">Desks &amp Accessories</a>,
 
-								<a href="/case_goods.php#row4">Bookcases</a>,
+								<a href="/case_goods.php#row5">Bookcases</a>,
 
-								<a href="/case_goods.php#row5">Trundle</a>,
+								<a href="/case_goods.php#row6">Trundle</a>,
 
-								<a href="/case_goods.php#row5">Under-bed Drawers</a>,
+								<a href="/case_goods.php#row6">Under-bed Drawers</a>,
 
-								<a href="/case_goods.php#row6">Shelves</a>
+								<a href="/case_goods.php#row1">Shelves</a>
 
                          </p>
 
