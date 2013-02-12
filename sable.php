@@ -45,7 +45,7 @@
 	<a href="#" rel="#sable"><img src="img/sable/22-24.jpg" title="Extra Deep Drawers provide plenty of room for storage!"
 		onmouseover="this.src='img/sable/22-24_hover.jpg'" 
 		onmouseout="this.src='img/sable/22-24.jpg'"/></a>
-	<a href="storelocator/store_locator.php"><img src="img/sable/sable.jpg" title="Extra Deep Drawers provide plenty of room for storage!"/></a>
+	<img src="img/sable/sable.jpg" title="Extra Deep Drawers provide plenty of room for storage!"/>
 	<a href="#" rel="#sable"><img src="img/sable/22-950-hb.jpg" title="Extra Deep Drawers provide plenty of room for storage!"
 		onmouseover="this.src='img/sable/22-950-hb_hover.jpg'" 
 		onmouseout="this.src='img/sable/22-950-hb.jpg'"/></a>
