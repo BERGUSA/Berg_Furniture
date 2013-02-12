@@ -10,12 +10,12 @@
 
 	<!-- Logo -->
 
-	<h1><a href="/index.php"><img title="Left Click Go Home, Right Click for Logos" alt="Berg Furniture" src="img/logo.png"/></a><a href="made_usa.php"><img title="Made in the USA" alt="Made in the USA" style="padding-left:5px;" src="img/usa-star.png"/></a></h1>
+	<h1><a href="/index.php"><img title="Left Click Go Home, Right Click for Logos" alt="Berg Furniture" src="/img/logo.png"/></a><a href="made_usa.php"><img title="Made in the USA" alt="Made in the USA" style="padding-left:5px;" src="/img/usa-star.png"/></a></h1>
 	<div class="hidden">Berg Furniture</div>
 
     <!-- Smart Bedroom Systems -->
 	<div id="SBSsmall">
-		<img alt="Smart Bedroom Systems, Innovative Environments for the Growing Child" src="img/SBSsmall.png" style= "position:absolute; margin-left:405px;"/>
+		<img alt="Smart Bedroom Systems, Innovative Environments for the Growing Child" src="/img/SBSsmall.png" style= "position:absolute; margin-left:405px;"/>
 	</div>
 	
     <!-- Nav Bar -->
