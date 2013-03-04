@@ -81,10 +81,10 @@
                              	onmouseover="this.src='img/why_buy_berg-2_hover.jpg'" 
 								onmouseout="this.src='img/why_buy_berg-2.jpg'"></a><br>
 								
-							<h50><a href="#"><img src="img/new_items.jpg" 
+							<h50><a href="#newItem_wrap"><img src="img/new_items.jpg" 
                              	alt="Get Inspired! View our room ideas!" 
                              	onmouseover="this.src='img/new_items_hover.jpg'" 
-								onmouseout="this.src='img/new_items.jpg'"
+								onmouseout="this.src='img/new_items.jpg'">
 								</a></h50><br>
                              
                    		 </div> 

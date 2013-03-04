@@ -117,7 +117,7 @@
                            	 <img src="img/images/icons/3.png" 
                                 	title="<h4>Three Bed</h4><br />This Smart Bedroom System is able to provide a sleeping environment for up to three kids" />
                              
-                             <a href="#" rel="#youtube_utica">
+                             <a href="javascript:popup3()">
                              <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4><br>Click to view an animation of how this unit turns into the Bifecta (#23-766), Dorm Loft (#23-835), and much more!">
                                 </a>
                              

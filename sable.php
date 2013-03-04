@@ -1,5 +1,5 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | Utica | 23&ndash;815</title>
+<title>Berg Furniture | Sable Finish</title>
 
 </head>
 	<body>

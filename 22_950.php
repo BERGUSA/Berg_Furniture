@@ -20,7 +20,7 @@
                         <div class="prodCont"><style> .prodTitle p a:hover {color:#8be93b ;}</style>
                         		<h2>Low Frame Twin</h2><h3>#22-950</h3>
                                 <br />
-                                <p>This great low-frame Captain's Bed is available in twin and full sizes. The low-set frame and sleek, clean arrangement of storage space makes it perfect for teens and young adults.  The 8 extra-deep drawers and additional shelves provide plenty of organized space, without sacrificing style.  <br /><br /><b>Optional Bookcase Shown (#22-95A)</b>
+                                <p>This great low-frame Captain's Bed is available in twin and full sizes. The low-set frame and sleek, clean arrangement of storage space makes it perfect for teens and young adults.  The 8 extra-deep drawers and additional shelves provide plenty of organized space, without sacrificing style.  <br /><br /><b>Images show optional wide bookcase (#22-95A) and/or headboard bookcase (22-94)</b>
                                 </p>
                                 <br />
                                 <h3>Features</h3>

@@ -228,22 +228,22 @@
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/knobs/28-brandy.jpg">
+                			<img src="img/knobs/28-brandy-new.jpg">
                 			Brandy <i>(#28)</i>
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/knobs/10-chestnut.jpg">
+                			<img src="img/knobs/10-chestnut-new.jpg">
                 			Chestnut <i>(#10)</i>
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/knobs/18-nutmeg.jpg">
+                			<img src="img/knobs/18-nutmeg-new.jpg">
                 			Nutmeg <i>(#18)</i>
                 		</div>
                 		
                 		<div class="simple_overlay_container">
-                			<img src="img/knobs/61-natural.jpg">
+                			<img src="img/knobs/61-natural-new.jpg">
                 			Natural <i>(#61)</i>
                 		</div>
                 		

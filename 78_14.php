@@ -12,11 +12,6 @@
 
                 <?php include 'options.php'; ?>
                 
-              		  <div class="simple_overlay" id="youtube_78-14">
-	
-						<iframe width="853" height="480" src="http://www.youtube.com/embed/ThH5Sccbqho?rel=0" frameborder="0" allowfullscreen></iframe>
-	
-					  </div>
 
             <div id="tip"></div>
             <div class="container">
@@ -114,7 +109,7 @@
                            	 <img src="img/images/icons/1.png" 
                                 	title="<h4>One Bed</h4><br />This Smart Bedroom System is designed to provide an enriching environment for one person." />
                               
-                              <a href="#" rel="#youtube_78-14">
+                              <a href="javascript:popup2()">
                              <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4>Click to view a YouTube video on this model!">
                                 </a>
                              

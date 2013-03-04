@@ -12,12 +12,6 @@
 
                 <?php include 'options.php'; ?>
 
-					<div class="simple_overlay" id="youtube_78-12">
-	
-						<iframe width="640" height="480" src="http://www.youtube.com/embed/8j6p8zPaJtE?rel=0" frameborder="0" allowfullscreen></iframe>
-	
-					</div>
-
             <div id="tip"></div>
             <div class="container">
                 
@@ -43,7 +37,7 @@
                                 <h3>Features</h3>
                                 <ul>
                                 	<li>All the features of the <a href="transforming_beds.php">Transforming Bed Line</a></li>
-                                    <li>Two Bed Frames</li>
+                                    <li>Two Bed Frames (twin XL over twin)</li>
                                     <li>Space for Hanging Bookshelves</li>
                                     <li>The Berg Signature Staircase</li>
                                     
@@ -56,7 +50,7 @@
                                 <br />
                                 
 				    			
-				    		<a href="#" rel="#knobs_tb">Click for Knob Options&nbsp;&gt;&gt;</a><br />
+				    		<a href="#" rel="#knobs">Click for Knob Options&nbsp;&gt;&gt;</a><br />
                                 <a href="#" rel="#finishes_tb2">Click for Finish Options&nbsp;&gt;&gt;</a></br >
                                <!-- <a href="#" rel="#dimensions">Click for Extra Dimensions&nbsp;&gt;&gt;</a></br > -->
 				    			<a href="#" rel="#accents">Click for Accent Options&nbsp;&gt;&gt;</a>
@@ -116,7 +110,7 @@
                            	 <img src="img/images/icons/2.png" 
                                 	title="<h4>Two Beds</h4><br />This Smart Bedroom System is designed to provide an enriching environment for two people." />
                               
-                             <a href="#" rel="#youtube_78-12">
+                             <a href="javascript:popup1()">
                              <img src="img/images/icons/youtube.png" img title="<h4>See it in action!</h4><br>Click to view a YouTube video!">
                                 </a>
                              

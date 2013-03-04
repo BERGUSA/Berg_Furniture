@@ -1,10 +1,9 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | Transforming Bed Video | 78&ndash;14</title>
+<title>Berg Furniture | Transforming Systems | 78&ndash;12</title>
 
 </head>
 	<body>
     	<div id="outside_container">
-
 
             <div id="tip"></div>
             <div class="container">
@@ -13,33 +12,34 @@
                 
                <div class="prodContainer"> 
                		<div class="prodTitle">
-                    	<p><a href="transforming_beds.php">The Transforming Bed Collection </a></p>
+                    	<p><a href="78_12.php">The Twin XL/Twin Transforming Bed </a></p>
                     </div>
                  <div class="prodMain">
-
-
-<br><br><br><br><br>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/ThH5Sccbqho" frameborder="0" allowfullscreen></iframe>
-
-
-
-                            
-
-
-
+                        
+                        
+                        
+                        
+						<iframe width="853" height="480" src="http://www.youtube.com/embed/ThH5Sccbqho?rel=0" frameborder="0" allowfullscreen></iframe>                        
+                        
+                        
+                        
+                         
+                   </div>
                     <div class="prodFtr">
                     	<style> #thisColl a:hover {color:#0b90a3;}</style>
-                        <div id="thisColl"><b><a href="/jr_captains_bed.php">All Transforming Beds</a></b>
+                        <div id="thisColl"><b><a href="/transforming_beds.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_14.php"><b>78-14</b> Twin Transforming Bed</li></a>
-                              <li><!--<a href="78_12.php">--><b>COMING SOON!</b> Transforming Bunk Bed Twin/Twin</a></li>
-                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming Bed</a></li>
+                          		  <li><a href="78_14.php"><b>78-14</b> Desk with Twin Bed Transforming Unit</a></li>
+                          		                            		 
+                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> Twin XL over Twin with Desk Transforming Unit</a></li>
+                              
+                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming System</a></li>
                                   <br/>        
                                   <br />
                               </ul>
                         </div>
-                        <div id="similarItems"><b>You Might Also Like:</b>
+                     <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
                               	

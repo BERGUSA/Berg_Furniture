@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="description" content="Berg Furniture offers a wide variety of innovative children's furniture. Our Collections are fresh, unique, colorful, and exciting." />
 <meta name="keywords" content="Berg, Furniture, Children, Beds, Innovative, Systems, Bedroom, Smart, Loft" />
 

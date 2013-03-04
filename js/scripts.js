@@ -207,4 +207,4 @@ $(document).ready(function(){
 					$(this).next('.error').hide();
 				});
 		
-}); //new items		$('h50 img').click( function(e) {			$('#newItem_wrap').slideToggle(300);				});				$('.close-new').click(function() {			$(this).parent().parent().slideToggle(150);		});  		//end scripts.js
+}); //new items		$('h50 img').click( function(e) {			$('#newItem_wrap').slideToggle(300);				});				$('.close-new').click(function() {			$(this).parent().parent().slideToggle(150);		});  								//pop-upsfunction popup1(){  cuteLittleWindow = window.open("YouTubeVideo1.php", "littleWindow", "location=no,width=960,height=800"); }function popup2(){  cuteLittleWindow = window.open("YouTubeVideo2.php", "littleWindow", "location=no,width=960,height=800"); }function popup3(){  cuteLittleWindow = window.open("YouTubeVideo3.php", "littleWindow", "location=no,width=960,height=800"); }//end scripts.js
