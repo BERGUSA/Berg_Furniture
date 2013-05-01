@@ -99,7 +99,7 @@ pageTracker._trackPageview();
 										value="Click Here to Print out this Coupon!"
 							/>
 						</div>
-						<img src="img/Shelf-Coupon_11-2012.jpg" alt="Berg Furniture Hanging Shelf Promotion! Now till November 25th" title="Berg Furniture 10% Off Case Good Coupon!!!" />
+						<img src="img/Shelf_Coupon.jpg" alt="Berg Furniture Hanging Shelf Promotion! For the month of April 2013" title="Berg Furniture Free Hanging Shelf Coupon!!!" />
                         <div style="margin:20px;">  
                         	
                         	                    

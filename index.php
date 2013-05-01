@@ -125,12 +125,6 @@
 
 <!-- TAB Room Ideas-->
 						<div id="tab1">
-			<!--			<a title="Free Shelf Promo!" href="Promotions.php" >Now till May 31st, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
-                        	<div class="hidden">
-                            	<h2>Free Shelf Promotion Spring 2012 Berg Furniture</h2>
-                            	<p>Click here to view the coupon promotion and for more details</p>
-                         -->
-                        
 
                         	<a href="room_ideas.php">
 							
@@ -143,7 +137,7 @@
 							<div class="hidden"><h2>Get Inspired by our new room ideas!</h2></div>
 							
 
-                        </div>
+                   </div>
                         <!--
                         <div id="tab2">
                         
@@ -159,13 +153,13 @@
                       
 						<!-- SHELF PROMO TAB -->
 						<!--
-						 <div id="tab3"><a title="Case Good Promo!" href="Promotions.php" >Now till July 8th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
+						 <div id="tab3"><a title="Case Good Promo!" href="Promotions.php" >For the month of April 2013 | Free Shelf Coupon Promotion Berg Furniture</a>
                         	<div class="hidden">
-                            	<h2>Free Shelf Promotion Winter 2012 Berg Furniture</h2>
+                            	<h2>Free Shelf Promotion April 2013 Berg Furniture</h2>
                             	<p>Click here to view the coupon promotion and for more details</p>
                         	</div> 
                         </div> 
-                       -->
+                      -->
                        
                         
 						<!-- TAB Transforming Bed -->
