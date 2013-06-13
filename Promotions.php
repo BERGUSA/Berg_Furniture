@@ -95,11 +95,11 @@ pageTracker._trackPageview();
                  	<div class="prodMain">
                     	<div style="margin:20px;">                      
 							<input type="button" 
-										onClick="pageTracker._trackEvent('Coupons', 'Print', '10% Off Case Goods'); window.print();"  
+										onClick="pageTracker._trackEvent('Coupons', 'Print', 'Shelf Promo'); window.print();"  
 										value="Click Here to Print out this Coupon!"
 							/>
 						</div>
-						<img src="img/Shelf_Coupon.jpg" alt="Berg Furniture Hanging Shelf Promotion! For the month of April 2013" title="Berg Furniture Free Hanging Shelf Coupon!!!" />
+						<img src="img/Shelf_Coupon_6-2013.jpg" alt="Berg Furniture Hanging Shelf Promotion! For the month of April 2013" title="Berg Furniture Free Hanging Shelf Coupon!!!" />
                         <div style="margin:20px;">  
                         	
                         	                    

@@ -138,53 +138,17 @@
 							
 
                    </div>
-                        <!--
-                        <div id="tab2">
-                        
-                        <a title="Free Shelf Promo!" href="Promotions.php" >Now till Nov 25th, 2012 Free Shelf Coupon Promotion Berg Furniture</a>
-                        	<div class="hidden">
-                            	<h2>Free Shelf Promotion Fall 2012 Berg Furniture</h2>
-                            	<p>Click here to view the coupon promotion and for more details</p>
-                        
-                        </div>
-                        </div>
-                        -->
 					
                       
 						<!-- SHELF PROMO TAB -->
-						<!--
-						 <div id="tab3"><a title="Case Good Promo!" href="Promotions.php" >For the month of April 2013 | Free Shelf Coupon Promotion Berg Furniture</a>
+						
+						 <div id="tab2"><a title="Shelf Promo!" href="Promotions.php" >June 14th-July 13th 2013 | Free Shelf Coupon Promotion Berg Furniture</a>
                         	<div class="hidden">
-                            	<h2>Free Shelf Promotion April 2013 Berg Furniture</h2>
+                            	<h2>Free Shelf Promotion June 14th-July 13th 2013 Berg Furniture</h2>
                             	<p>Click here to view the coupon promotion and for more details</p>
                         	</div> 
                         </div> 
-                      -->
-                       
-                        
-						<!-- TAB Transforming Bed -->
-						<!--
-					   <div id="tab3"><a href="http://www.youtube.com/watch?feature=player_detailpage&v=ThH5Sccbqho"></a>
-                        	<div class="hidden">
-                            	<h2>What's new?</h2> 
-                            	<p>Our Transforming Bed!</p>
-                        	</div>
-                        </div>
-                      -->
                       
-                      <!--Pet Website Coming soon tab-->
-                        
-                        <div id="tab2">
-                        	<a href="http://www.bergfurniturepets.com/index.php" onclick="pageTracker._link(this.href); return false;">
-                        	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
-                        	<div class="hidden">
-                            	<h2>Pet Website Coming Soon</h2>
-                        	</div> 
-                        	</a>
-                        </div> 
-						
-                      
-                    
                       <div id="tab4">                        
 
                         	<a href="78_12.php">
