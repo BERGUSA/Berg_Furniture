@@ -140,14 +140,26 @@
                    </div>
 					
                       
+                      <!--Pet Bed Website-->
+                      
+                      <div id="tab2">
+                        	<a href="http://www.bergfurniturepets.com/index.php" onclick="pageTracker._link(this.href); return false;">
+                        	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
+                        	<div class="hidden">
+                            	<h2>Pet Website Coming Soon</h2>
+                        	</div> 
+                        	</a>
+                        </div> 
+                      
 						<!-- SHELF PROMO TAB -->
-						
+						<!--
 						 <div id="tab2"><a title="Shelf Promo!" href="Promotions.php" >June 14th-July 13th 2013 | Free Shelf Coupon Promotion Berg Furniture</a>
                         	<div class="hidden">
                             	<h2>Free Shelf Promotion June 14th-July 13th 2013 Berg Furniture</h2>
                             	<p>Click here to view the coupon promotion and for more details</p>
                         	</div> 
                         </div> 
+                     -->
                       
                       <div id="tab4">                        
 
