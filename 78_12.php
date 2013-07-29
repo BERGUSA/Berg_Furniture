@@ -142,7 +142,6 @@
                           		                            		 
                                   <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> Twin XL over Twin with Desk Transforming Unit</a></li>
                               
-                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming System</a></li>
                                   <br/>        
                                   <br />
                               </ul>
