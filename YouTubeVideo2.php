@@ -12,7 +12,7 @@
                 
                <div class="prodContainer"> 
                		<div class="prodTitle">
-                    	<p><a href="78_12.php">The Twin XL/Twin Transforming Bed </a></p>
+                    	<p><a href="78_14.php">The Twin Transforming Bed </a></p>
                     </div>
                  <div class="prodMain">
                         
@@ -29,11 +29,8 @@
                         <div id="thisColl"><b><a href="/transforming_beds.php">All Transforming Beds</a></b>
                         		<br /><br />
                               <ul>
-                          		  <li><a href="78_14.php"><b>78-14</b> Desk with Twin Bed Transforming Unit</a></li>
-                          		                            		 
-                                  <li style="display:block; background-color: #0b90a3;color:#000;"><a href="78_12.php"><b>78-12</b> Twin XL over Twin with Desk Transforming Unit</a></li>
-                              
-                              <li><!--<a href="22_959.php">--><b>COMING SOON!</b> Full Transforming System</a></li>
+                          		 	 <li style="display:block; background-color: #0b90a3;color:#000;"><b>78-14</b> Desk with Twin Transforming Unit</li>
+                              		<li><a href="78_12.php"> Twin XL over Twin with Desk Transforming Unit</a></li>
                                   <br/>        
                                   <br />
                               </ul>
