@@ -102,6 +102,16 @@
 <!--Row 3--><div id="row3">&nbsp;</div>
 
 						<div class="goodsTab">
+                            <img src="img/casegoods/chair.jpg" />
+                            <p><b style="font-size:16px;">Deluxe Chair</b>
+                            <br/>24-03
+                            <br /><br />
+                            <i>18.5"W x 17"D x 34.5"H
+                            <br /><b>Available in Natural (#61) and Nutmeg (#18) finishes only</b></i>
+                            </p>
+                        </div> 
+
+						<div class="goodsTab">
                             <img src="img/casegoods/40-16.jpg" />
                             <p><b style="font-size:16px;">Under Loft Bookcase</b>
                             <br/>40-16
@@ -128,17 +138,6 @@
                             <br /><br />
                             <i>75"W x 22"D x 30"H </i>
                             <br />
-                            <i>Will fit under most <a href="/utica.php">Utica Lofts</a></i>
-                            </p>
-                          </div>
-                          
-                          <div class="goodsTab">
-                            <img src="img/casegoods/23-21.jpg" />
-                            <p><b style="font-size:16px;">3 Drawer Study Station</b>
-                            <br/>23-21
-                            <br /><br />
-                            <i>75"W x 22"D x 30"H</i>
-                            <br>
                             <i>Will fit under most <a href="/utica.php">Utica Lofts</a></i>
                             </p>
                           </div>
@@ -251,19 +250,6 @@
                             (2x)<i> 35.5"W x 38.5"D x 7"H </i>
                         	</p>
                           </div>
-                          
-                          <div class="goodsTab">
-                            <img src="img/casegoods/chair.jpg" />
-                            <p><b style="font-size:16px;">Deluxe Chair</b>
-                            <br/>24-03
-                            <br /><br />
-                            <i>18.5"W x 17"D x 34.5"H
-                            <br /><b>Available in Natural (#61) and Nutmeg (#18) finishes only</b></i>
-                            </p>
-                          </div> 
-                          
-                            
-                          
                           
                           
                       

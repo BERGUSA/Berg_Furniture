@@ -89,11 +89,8 @@
                         <div id="thisColl"><b><a href="/jr_captains_bed.php">All Jr. Captain's Beds</a></b>
                         		<br /><br />
                               <ul>
-                               	  <li><a href="22_940.php"><b>22-940</b> High Frame Twin</a></li>
                                   <li><a href="22_950.php"><b>22-950</b> Low Frame Twin</a></li>
-                                  <li><a href="22_952.php"><b>22-952</b> Low Frame Full 16 Drawer</a></li>
                                   <li style="display:block; background-color: #8be93b;color:#000;"><b>22-959</b> Low Frame Full</li>
-                                  <li><a href="22_965.php"><b>22-965</b> High Frame Twin w/Stairs</a></li>
                                   
                                   <br />
                               </ul>

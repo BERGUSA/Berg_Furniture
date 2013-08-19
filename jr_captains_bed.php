@@ -22,33 +22,17 @@
                    <style> .CollTabs2 a:hover p{color:#000; background-color:#8be93b;}</style>
                     	
                         <div class="CollTabs2">
-                            <div class="prodTab">
-                            <a href="22_940.php"><img src="img/Coll_pics/22-940.jpg" />
-                            <p><b>22-940</b><br/>High Frame Twin</p></a>
-                            </div>
-                            
                             
                             <div class="prodTab">
                             <a href="22_950.php"><img src="img/Coll_pics/22-950.jpg" />
                             <p><b>22-950</b><br/>Low Frame Twin</p></a>
                             </div>
                             
-                             <div class="prodTab">
-                            <a href="22_952.php"><img src="img/Coll_pics/22-952.jpg" />
-                            <p><b>22-952</b><br/>16 Drawer Low Frame Full</p></a>
-                            </div>
-                             
-                            
                             <div class="prodTab">
                             <a href="22_959.php"><img src="img/Coll_pics/22-959.jpg" />
                             <p><b>22-959</b><br/>Low Frame Full</p> </a>
                             </div>
                             
-                            
-                           <div class="prodTab">
-                            <a href="22_965.php"><img src="img/Coll_pics/22-965.jpg" />
-                            <p><b>22-965</b><br/>High Frame Twin</p></a>
-                            </div>
                          </div>
        
                      </div>
