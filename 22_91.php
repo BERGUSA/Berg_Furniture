@@ -31,7 +31,7 @@
                                   
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
-                                    <div style="top:21px; left: 5px;">47"H</div>
+                                    <div style="top:21px; left: 5px;">45"H</div>
                                     <div style="top:40px; left: 40px;">42"D</div>
                                     <div style="top:77px; left: 70px;">77"L</div>
                                 </div>

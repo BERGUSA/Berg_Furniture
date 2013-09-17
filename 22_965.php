@@ -35,7 +35,7 @@
                                     <li><a href="#" rel="#BSS">Berg Signature Staircase</a></li>
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
-                                    <div style="top:21px; left: 5px;">38"H</div>
+                                    <div style="top:21px; left: 5px;">36"H</div>
                                     <div style="top:40px; left: 40px;">42"D</div>
                                     <div style="top:77px; left: 70px;">96"L</div>
                                 </div>
