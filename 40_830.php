@@ -192,7 +192,6 @@ pageTracker._trackPageview();
                         		<br /><br />
                               <ul>
                                   <li><a href="22_950.asp"><b>22-950</b> Jr. Captain's Twin</a></li>
-                                  <li><a href="22_940.asp"><b>22-940</b> Jr. Captain's Twin</a></li>
                                   <li><a href="22_895.asp"><b>22-895</b> Captain's Bed Twin</a></li>
                                   <li><a href="22_931.asp"><b>22-931</b> Captain's Bed Full</a></li>
                                   <li><a href="91_76.asp"><b>91-76</b> Play &amp Study</a></li>

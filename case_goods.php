@@ -87,17 +87,6 @@
                             <i>36"W x 22"D x 47.5"H</i>
                             </p>
                           </div>
-                          
-                         <div class="goodsTab">
-                            <img src="img/casegoods/chifferobe.jpg" />
-                            <p><b style="font-size:16px;">Chifferobe</b>
-                            <br/>22-43
-                            <br /><br />
-                            <i>36"W x 22"D x 56.5"H
-                            <br>
-                            Features two adjustable shelves behind the door.</i>
-                            </p>
-                         </div>
                          
 <!--Row 3--><div id="row3">&nbsp;</div>
 

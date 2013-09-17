@@ -99,7 +99,6 @@
                         <div id="thisColl"><b><a href="/utica.php">All Uticas</a></b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="23_805.php"><b>23-805</b> Twin/Twin Loft</a></li>
                                   <li><a href="23_815.php"><b>23-815</b> Twin/Full Loft</a></li>
                                   <li style="display:block; background-color: #F60;"><b>23-835</b> Twin Dorm Loft</li>
                                   <li><a href="23_905.php"><b>23-905</b> Full Loft</a></li>

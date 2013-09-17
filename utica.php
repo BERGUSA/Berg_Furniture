@@ -30,11 +30,7 @@
                         
                         
                         <div class="CollTabs2">
-                            <div class="prodTab">
-                            <a href="23_805.php"><img src="img/Coll_pics/23-805.jpg" />
-                            <p><b>23-805</b><br/>Twin over Twin</p></a>
-                            </div>
-                            
+                                                        
                             <div class="prodTab">
                             <a href="23_815.php"><img src="img/Coll_pics/23-815.jpg" />
                             <p><b>23-815</b><br/>Twin over Full</p></a>

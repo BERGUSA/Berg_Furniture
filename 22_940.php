@@ -87,9 +87,7 @@
                               <ul>
                                   <li style="display:block; background-color: #8be93b;color:#000;"><b>22-940</b> High Frame Twin</li>
                                   <li><a href="22_950.php"><b>22-950</b> Low Frame Twin</a></li>
-                                  <li><a href="22_952.php"><b>22-952</b> Low Frame Full 16 Drawer</a></li>
                                   <li><a href="22_959.php"><b>22-959</b> Low Frame Full</a></li>
-                                  <li><a href="22_965.php"><b>22-965</b> High Frame Twin w/Stairs</a></li>
                                   
                                   <br />
                               </ul>

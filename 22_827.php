@@ -57,6 +57,9 @@
                                         <img src="img/MainProdPics/22-827B_t.jpg" 
                                         title="Shown in White with Antique Pewter Knobs; <b><i>Optional</b> Hanging Shelf</i>"/>
                                         
+                                        <img src="img/MainProdPics/22-807-show_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in White with Satin Nickel Knobs and <b><i>Optional</b> Hanging Shelf and Apple Green (#52) Accents</i>"/>
+                                        
                                         <img src="img/MainProdPics/22-827A_t.jpg" 
                                         title="Shown in White with Antique Pewter Knobs; <b><i>Optional</b> Hanging Shelf</i>"/>
                                         
@@ -108,7 +111,6 @@
                         <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="23_805.php"><b>23-805</b> Utica Twin/Twin</a></li>
                                   <li><a href="22_905.php"><b>22-905</b> Captain's Bed Twin/Twin</a></li>
                                   <li><a href="91_76.php"><b>91-76</b> Play &amp; Study </a></li>
                                   

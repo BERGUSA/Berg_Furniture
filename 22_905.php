@@ -130,7 +130,6 @@
                                   <li><a href="22_805.php"><b>22-805</b> Space Saver Twin/Twin</a></li>
                                   <li><a href="22_807.php"><b>22-807</b> Space Saver Twin/Twin</a></li>
                                   <li><a href="40_515.php"><b>40-515</b> Enterprise Twin/Twin</a></li>
-                                  <li><a href="23_805.php"><b>23-805</b> Utica Twin/Twin</a></li>
                                   <li><a href="23_855.php"><b>23-905</b> Utica Full/Full</a></li> 
                                   <br />
                               </ul>

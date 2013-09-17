@@ -444,6 +444,43 @@
 								</p>
 						</div>
 						
+						<div  class="discTab">
+								<img src="img/discontinued/22-43.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Chifferobe </strong>22-43-xx
+								</p>
+						</div>
+						
+						<div  class="discTab">
+								<img src="img/discontinued/22-940.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Twin Jr. Captain's Bed with High Frame </strong>22-940-xx
+								</p>
+						</div>
+						
+						<div  class="discTab">
+								<img src="img/discontinued/22-965.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Twin Jr. Captain's Bed with High Frame and Stairs </strong>22-965-xx
+								</p>
+						</div>
+						
+						<div  class="discTab">
+								<img src="img/discontinued/23-805.jpg"  />
+                              <p><b style="font-size:16px;">Utica</b>
+								 <br /><strong>Twin/Twin </strong>22-805-xx
+								</p>
+						</div>
+						
+						<div  class="discTab">
+								<img src="img/discontinued/22-952.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Full 16 Drawer Jr. Captain's Bed</strong> 22-952-xx
+								</p>
+						</div>
+						
+						<br>
+						
 						<a id="backtotop" style="font-family:'Times New Roman', Times, serif; font-size:14px;" href="#outside_container">Back to Top</a> 
 					
 					</div>

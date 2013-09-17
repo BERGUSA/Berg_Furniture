@@ -116,7 +116,6 @@
                                   <li><a href="22_905.php"><b>22-905</b> Captain's Bed Twin/Twin</a></li>
                                   <li><a href="22_815.php"><b>22-815</b> Space Saver Twin/Full w/Desk</a></li>
                                   <li><a href="22_816.php"><b>22-816</b> Space Saver Twin/Full</a></li>
-                                  <li><a href="23_805.php"><b>23-805</b> Utica Twin/Twin</a></li>
                                  
                               </ul>
                       </div>

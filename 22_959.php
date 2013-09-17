@@ -98,7 +98,6 @@
                         <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="22_950.php"><b>22-940</b> Jr. Captain's Twin</a></li>
                                   <li><a href="22_895.php"><b>22-895</b> Captain's Bed Twin</a></li>
                                   <li><a href="22_915.php"><b>22-935</b> Captain's Bed Twin w/Desk</a></li>
                                   <li><a href="91_74.php"><b>91-74</b> Play &amp; Study</a></li>

@@ -99,7 +99,6 @@
                         <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="23_805.php"><b>23-805</b> Utica Twin/Twin</a></li>
                                   <li><a href="22_905.php"><b>22-905</b> Captain's Bed Twin/Twin</a></li>
                                   <li><a href="91_74.php"><b>91-74</b> Play &amp; Study </a></li>
                                   <li><a href="40_515.php"><b>40-525</b> Enterprise Twin/Twin </a></li>

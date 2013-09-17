@@ -97,7 +97,6 @@
                               <ul>
                                  <li><a href="22_895.php"><b>22-895</b> Captain's Bed Twin</a></li>
                                   <li><a href="22_931.php"><b>22-931</b> Captain's Bed Twin</a></li>
-                                  <li><a href="22_940.php"><b>22-940</b> Jr. Captain's Bed</a></li>
                                   <li><a href="91_76.php"><b>91-76</b> Play &amp; Study Twin</a></li>
                                   <li><a href="40_830.php"><b>40-830</b> Enterprise Twin Bed</a></li>
                                   <br />

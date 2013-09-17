@@ -95,9 +95,7 @@
                         <div id="thisColl"><b><a href="/jr_captains_bed.php">All Jr. Captain's Beds</a></b>
                         		<br /><br />
                               <ul>
-                               	  <li><a href="22_940.php"><b>22-940</b> High Frame Twin</a></li>
                                   <li><a href="22_950.php"><b>22-950</b> Low Frame Twin</a></li>
-                                  <li><a href="22_952.php"><b>22-952</b> Low Frame Full 16 Drawer</a></li>
                                   <li><a href="22_959.php"><b>22-959</b> Low Frame Full</a></li>
                                   <li style="display:block; background-color: #8be93b;color:#000;"><b>22-965</b> High Frame Twin w/Stairs</li>
                                   
@@ -107,7 +105,6 @@
                         <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="22_959.php"><b>22-940</b> Jr. Captain's Twin</a></li>
                                   <li><a href="22_931.php"><b>22-895</b> Captain's Bed Full</a></li>
                                   <li><a href="22_935.php"><b>22-935</b> Captain's Bed Twin</a></li>
                                   <li><a href="91_74.php"><b>91-74</b> Play &amp; Study</a></li>
