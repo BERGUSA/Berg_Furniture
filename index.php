@@ -12,6 +12,7 @@
                     <div id="loopedSlider"> 
                         <div id="slide-bkg">
                       		<div class="wrapper">
+          <!--This is where you update the sliding images on the homepage-->
 					    		<div class="slides">
 					    			
 					    			<!-- SLIDE High Point -->
@@ -20,7 +21,12 @@
                                     	alt="We're going to High Point! Click to view updates from the show on our Facebook!"/></a>
 									</div>
 									-->
-                                    
+									
+									<!--HP slide; when Almog wants you to take this down, un-comment slide 4. It's currently a discontinued model-->
+									
+									<div><a href="javascript:popup4()"><img src="img/new/view_hp_pics_slide.jpg" 
+                                    	alt="View images from our recent tradeshow on Facebook!" title="View images from our recent tradeshow on Facebook!"/></a>
+                                   </div>
                                      <!-- SLIDE 1 -->
                                      <div><a href="transforming_beds.php"><img src="img/new/78-12-slide.jpg" 
                                     	alt="View Transforming Bed Collection"/></a>
@@ -37,9 +43,9 @@
 									</div>
                                        
                                    <!-- SLIDE 4 -->
-                                    <div><a href="22_915.php"><img src="img/new/22-915-slide.jpg" 
+                                   <!-- <div><a href="22_915.php"><img src="img/new/22-915-slide.jpg" 
                                     	alt="Captain's Bed, Kids, View the 22-915 Bedroom System"/></a>
-									</div>
+									</div> -->
 								
                                     
 									<!-- SLIDE 5 -->
@@ -49,6 +55,7 @@
 									</div>
                                    
 								</div>
+								
                               		<div class="pagination">
                                 	
 									<ul>
@@ -68,6 +75,8 @@
                             </div>
     						
                          </div>  
+                         
+         <!-- this is where you manipulate the three tabs to the right of the slider -->
                          
                          <div id="welcometeir_wrapper">
                          	
@@ -89,6 +98,9 @@
                              
                    		 </div> 
                     </div>
+                    
+                    
+        <!-- the new items. the div is currently hidden but is displayed when the new_items hyperlink is selected-->
                     
                                      
                     <div id="newItem_wrap">
@@ -119,8 +131,9 @@
 						
 					</div>
                     
-						
-                <div id="tabs"> <!--The three bottom tabs under the slide show -->
+						<!--The three bottom tabs under the slide show -->
+                <div id="tabs"> 
+                	
 
 
 <!-- TAB Room Ideas-->
