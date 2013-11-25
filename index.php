@@ -22,7 +22,7 @@
 									</div>
 									-->
 									
-									<!--HP slide; when Almog wants you to take this down, un-comment slide 4. It's currently a discontinued model-->
+		<!--HP slide; when Almog wants you to take this down, un-comment slide 4. It's currently a discontinued model-->
 									
 									<div><a href="javascript:popup4()"><img src="img/new/view_hp_pics_slide.jpg" 
                                     	alt="View images from our recent tradeshow on Facebook!" title="View images from our recent tradeshow on Facebook!"/></a>

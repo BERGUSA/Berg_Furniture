@@ -30,34 +30,45 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0289A6', end
                     	
                         <div class="CollTabs2">
                             <div class="prodTab">
-                            <a href="22_895.php"><img src="img/Coll_pics/22-895.jpg" />
-                            <p><b>22-895</b><br/>Twin w/12 Drawers</p></a>
+                            <a href="22_721.php"><img src="img/Coll_pics/22-721.jpg" />
+                            <p><b>22-721</b><br/> Twin w/ Hide Away Desk</p> </a>
+                            </div>
+                            <div class="prodTab">
+                            <a href="22_722.php"><img src="img/Coll_pics/22-722.jpg" />
+                            <p><b>22-722</b><br/> Full w/ Pull-Out Desk &amp; Steps</p> </a>
                             </div>
                             
                             <div class="prodTab">
-                            <a href="22_905.php"><img src="img/Coll_pics/22-905.jpg" />
-                            <p><b>22-905</b><br/> Twin over Twin </p></a>
+                            <a href="22_731.php"><img src="img/Coll_pics/22-731new.jpg"/>
+                            <p><b>22-731</b><br/>Twin w/ 9 Drawers</p></a>
                             </div>
                             
                             <div class="prodTab">
-                            <a href="22_91.php"><img src="img/Coll_pics/22-91.jpg" />
-                            <p><b>22-91</b><br/> Twin w/Pull-out Desk &amp; Steps</p> </a>
+                            <a href="22_732.php"><img src="img/Coll_pics/22-732.jpg" />
+                            <p><b>22-732</b><br/> Full w/ Storage </p></a>
                             </div>
                             
-                            <div class="prodTab">
-                            <a href="22_915.php"><img src="img/Coll_pics/22-915.jpg" />
-                            <p><b>22-915</b><br/> Twin w/Pull-out Desk</p> </a>
-                            </div>
                             
                             <div class="prodTab">
+                            <a href="22_741.php"><img src="img/Coll_pics/22-741.jpg" />
+                            <p><b>22-741</b><br/> Twin over Twin </p></a>
+                            </div>
+                            
+                                                       
+                            <div class="prodTab">
+                            <a href="22_742.php"><img src="img/Coll_pics/22-742m.jpg" />
+                            <p><b>22-742</b><br/> Full over Twin</p> </a>
+                            </div>
+                            
+                            <!--<div class="prodTab">
                             <a href="22_931.php"><img src="img/Coll_pics/22-931.jpg" />
                             <p><b>22-931</b><br/>Full w/Cabinet and Drawers </p></a>
-                            </div>
+                            </div>-->
                             
-                            <div class="prodTab">
+                            <!--<div class="prodTab">
                             <a href="22_935.php"><img src="img/Coll_pics/22-935.jpg" />
                             <p><b>22-935</b><br/> Twin w/Cabinet and Drawers</p></a>
-                            </div>
+                            </div>-->
                        
                       
                       

@@ -1,5 +1,5 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | Captain's Bed | 22&ndash;895</title>
+<title>Berg Furniture | Captain's Bed | 22&ndash;731</title>
 </head>
 	<body>
     	<div id="outside_container">
@@ -18,7 +18,7 @@
                     </div>
                  <div class="prodMain">
                         <div class="prodCont">
-                        		<h2>Twin Bed with 12 Drawers</h2><h3>#22-895</h3>
+                        		<h2>Twin Bed with 6 Drawers, 2 One Door Cabinets</h2><h3>#22-731</h3>
                                 <br />
                                 <p style="font-size:14px;">
                                 The Captain's motto:  less is more.  Berg's Captain's Bed line was designed to be compact enough to fit in virtually any room without sacrificing storage capacity.  The 12 spacious drawers provide enough space to fit a child's clothes, games, toys, and sense of discovery.  The stairs provide even more storage space and safe, easy access to the bed.  Options make life easier; so if need be, switch out 6 of the drawers for another bed, a cabinet, or a pull-out desk. Stairs can be installed on either the left or right side.
@@ -31,7 +31,7 @@
                                     <li>12 Drawers</li>
                                     <li>Side Shelves</li>
                                     <li><a href="#" rel="#BSS">Berg Signature Staircase</a></li>
-                                    <li>Available in Full-size (22-899) </li>
+                                    <li>Available in Full-size (22-732) </li>
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
                                     <div style="top:21px; left: 5px;">45"H</div>
@@ -51,17 +51,15 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
-                                    	<img src="img/MainProdPics/22-895C_t.jpg" 
-                                        title="Shown in White with Matching Knobs"/>
+                                    	
+                                    	<img src="img/MainProdPics/22-731new_t.jpg" 
+                                        title="Shown in Sable with Square Satin Nickel knobs!"/>
                                         
-                                        <img src="img/MainProdPics/22-895A_t.jpg" 
-                                        title="Shown in White with Purple Knobs"/>
-                                        
-                                        <img src="img/MainProdPics/22-895B_t.jpg" 
-                                        title="Shown in White with Purple Knobs; <b><i>Optional</b> 3 Drawer Chest and Mirror</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-895-show_t.jpg" 
-                                        title="From our latest tradeshow in High Point, NC: Shown in Nutmeg with Satin Nickel knobs and <b><i>Optional</b> Black Accents</i>"/>
+                                       <img src="img/MainProdPics/22-731b_t.jpg" 
+                                        title="Shown in White with Satin Nickle knobs!"/>
+                                       
+                                        <img src="img/MainProdPics/22-731-show_t.jpg" 
+                                        title="From our latest tradeshow in High Point, NC: Shown in Nutmeg with Nutmeg knobs and <b><i>Optional</b> Hanging Shelf</i>"/>
                                         
                                         <img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
                                         title="Berg's Signature Staircase is comfortable for parents too!"/>
@@ -92,18 +90,18 @@
                         <div id="thisColl"><b><a href="/captains_bed.php">All Captain's Beds</a></b>
                         		<br /><br />
                               <ul>
-                                  <li style="display:block; background-color: #06dec7;"><b>22-895</b> Twin w/12 Drawers</li>
-                                  <li><a href="22_905.php"><b>22-905</b> Twin/Twin</a></li>
-                                  <li><a href="22_91.php"><b>22-91</b> Twin w/Pull-Out Desk &amp; Steps</a></li>
-                                  <li><a href="22_915.php"><b>22-915</b> Twin w/Pull-Out Desk</a></li>
-                                  <li><a href="22_931.php"><b>22-931</b> Full w/Drawers &amp; Cabinet</a></li>
-                                  <li><a href="22_935.php"><b>22-935</b> Twin w/Drawers &amp; Cabinet</a></li>
+                                  <li><a href="22_721.php"><b>22-721</b> Twin w/ Desk</a></li>
+                                  <li><a href="22_722.php"><b>22-722</b> Full w/ Desk</a></li>
+                                  <li><a href="22_731.php"><b>22-731</b> Twin w/ Storage</a></li>
+                                  <li><a herf="22_732.php"><b>22-732</b> Full w/ Storage</a></li>
+                                  <li><a href="22_741.php"><b>22-741</b> Twin w/ Twin</a></li>
+                                  <li><a href="22_742.php"><b>22-742</b> Full w/ Twin</a></li>
                               </ul>
                         </div>
                         <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="22_935.php"><b>22-935</b> Captain's Bed Twin</a></li>
+                                  <li><a href="22_741.php"><b>22-741</b> Captain's Bed Twin</a></li>
                                   <li><a href="22_950.php"><b>22-950</b> Jr. Captain's Bed</a></li>
                                   <li><a href="91_74.php"><b>91-74</b> Play &amp; Study Twin</a></li>
                                   <br />

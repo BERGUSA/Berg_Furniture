@@ -18,22 +18,22 @@
                     </div>
                  <div class="prodMain">
                         <div class="prodCont">
-                        		<h2>Twin with Hide Away Desk</h2><h3>#22-721</h3>
+                        		<h2>Full with Storage</h2><h3>#22-732</h3>
                                 <br />
-                                <p>When a bed is truly more than just a bed.  This line of Captain's Beds fits snugly into any room and eliminates clutter by providing a 3 drawer 1 door chest and a pullout desk in a small, concise package.  Children can play, think, and sleep all in one. And, with the Berg Signature Staircase, there's even more room for storage and safe access to the bed. Stairs can be installed on either the left or right side. 
+                                <p>When a bed is truly more than just a bed.  This line of Captain's Beds fits snugly into any room and eliminates clutter by providing a 6 drawer and 2 door chests in a small, concise package.  Children can play, think, and sleep all in one. And, with the Berg Signature Staircase, there's even more room for storage and safe access to the bed. Stairs can be installed on either the left or right side. 
                                 </p>
                                 <br />
                                 <h3>Features</h3>
                                 <ul>
-                                	<li>Deluxe Hide Away Desk</li>
-                                    <li>3 Drawer, 1 Door Cabinet Chest</li>
+                                	<li>Deluxe Storage</li>
+                                    <li>6 Drawer, 2 Door Cabinet Chests</li>
                                     <li><a href="#" rel="#BSS">Berg Signature Staircase</a></li>
-                                    <li>Also available with a Full Size Bed (22-722)</li>
+                                    <li>Also available with a Twin Size Bed (22-731)</li>
                                   
                                 </ul>
                                 <div class="dimensions"><img src="img/dimbkg.png"/>
                                     <div style="top:21px; left: 5px;">45"H</div>
-                                    <div style="top:40px; left: 40px;">42"D</div>
+                                    <div style="top:40px; left: 40px;">58"D</div>
                                     <div style="top:77px; left: 70px;">96"L</div>
                                 </div>
                                 <br />
@@ -49,20 +49,20 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
-                                    	<img src="img/MainProdPics/22-721A_t.jpg" 
-                                        title="Shown in Brandy with Purple Knobs"/>
+                                    	<img src="img/MainProdPics/22-732a_t.jpg" 
+                                        title="Shown in Nutmeg with Black Knobs"/>
                                         
-                                        <img src="img/MainProdPics/22-721B_t.jpg" 
-                                        title="Shown in Chestnut with Black knobs!"/>
+                                        <img src="img/MainProdPics/22-732b_t.jpg" 
+                                        title="Shown in Nature with Red knobs!"/>
                                         
-                                        <img src="img/MainProdPics/22-721C_t.jpg" 
-                                        title="Shown in White with Satin Nickel Knobs; <b><i>Optional</b> Hanging Shelf</i> also shown."/>
+                                        <img src="img/MainProdPics/22-732c_t.jpg" 
+                                        title="Shown in Nutmeg with Oslo Blue knobs!"/>
                                         
-                                        <img src="img/MainProdPics/22-721D_t.jpg" 
-                                        title="The desk included. It can stand alone!"/>
+										                                        
+                                        <img src="img/MainProdPics/22-732e_t.jpg" 
+                                        title="Shown in Nutmeg with Sable Accents and Satin Nickle knobs!"/>
                                         
-										<img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
-                                        title="Berg's Signature Staircase is comfortable for parents too!"/>
+                                        
                                        
                                     </div>
                                 </div>
@@ -104,10 +104,9 @@
                         <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="22_808.php"><b>22-808</b> Space Saver w/Desk</a></li>
-                                  <li><a href="23_835.php"><b>23-835</b> Utica Dorm Loft</a></li>
-                                  <li><a href="91_76.php"><b>91-76</b> Play &amp Study Twin</a></li>
-                                  <li><a href="40_525.php"><b>40-525</b> Enterprise Twin/Full</a></li>
+                                  <li><a href="22_741.php"><b>22-741</b> Captain's Bed Twin</a></li>
+                                  <li><a href="22_950.php"><b>22-950</b> Jr. Captain's Bed</a></li>
+                                  <li><a href="91_74.php"><b>91-74</b> Play &amp; Study Twin</a></li>
                                   <br />
                               </ul>
                       </div>

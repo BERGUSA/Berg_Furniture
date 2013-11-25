@@ -1,5 +1,5 @@
 <?php include 'head.php'; ?>
-<title>Berg Furniture | Captain's Bed | 22&ndash;905</title>
+<title>Berg Furniture | Captain's Bed | 22&ndash;741</title>
 </head>
 	<body>
     	<div id="outside_container">
@@ -18,7 +18,7 @@
                     </div>
                  <div class="prodMain">
                         <div class="prodCont">
-                        		<h2>Captain's Bed for Two</h2><h3>#22-905</h3>
+                        		<h2>Captain's Bed for Two</h2><h3>#22-741</h3>
                                 <br />
                                 <p>This twin over twin Captain&acute;s Bed is perfect for siblings who share a bedroom.  Sleeping arrangements are just one of the things that children will share with the loads of organizational space and room for imagination that are included.  The lower bed can be fully removed, providing lots of freedom for rearranging.  The Berg Signature Staircase can go on either side to deliver safe access to the top bed, and provides even more storage space.
                                 </p>
@@ -48,48 +48,19 @@
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
                                 	<div class="items">
-                                    	<img src="img/MainProdPics/22-905D_t.jpg" 
-                                        title="Shown in Natural with Antique Copper Knobs; <b><i>Optional</b> Hanging Shelf</i>"/>
+                                    	<img src="img/MainProdPics/22-741A_t.jpg" 
+                                        title="Shown in Nutmeg with Purple Knobs"/>
                                         
-                                        <img src="img/MainProdPics/22-905E_t.jpg" 
-                                        title="Shown in Natural with Antique Copper Knobs; <b><i>Optional</b> Hanging Shelf</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-905H_t.jpg" 
-                                        title="Shown in White; <b><i>Optional</b> Lime Green Olso Knobs and Hanging Shelf</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-905I_t.jpg" 
-                                        title="Shown in White; <b><i>Optional</b> Lime Green Olso Knobs and Hanging Shelf</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-905J_t.jpg" 
-                                        title="Shown in White; <b><i>Optional</b> Lime Green Olso Knobs and Hanging Shelf</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-905K_t.jpg" 
-                                        title="Shown in White; <b><i>Optional</b> Lime Green Olso Knobs and Hanging Shelf</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-905F_t.jpg" 
-                                        title="Shown in White with Purple Knobs"/>
-                                        
-                                        <img src="img/MainProdPics/22-905G_t.jpg" 
-                                        title="Shown in White; <b><i>Optional</b> Hanging Shelf and Custom Knobs*</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-905A_t.jpg" 
-                                        title="Shown in Natural; <b><i>Optional</b> Hanging Shelf and Custom Knobs*</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-905C_t.jpg" 
-                                        title="Shown in White; <b><i>Optional</b> Lime Green Olso Knobs and Hanging Shelf</i>"/>
-                                        
-                                        <img src="img/MainProdPics/22-905B_t.jpg" 
-                                        title="Shown in White with Purple Knobs; <b><i>Optional</b> 3 Drawer Chest</i>"/>
-										
-										<img src="img/MainProdPics/22-905L_t.jpg" 
-                                        title="Shown in White; <b><i>Optional</b> Blue Jay Accents</i>"/>
-										
-										<img src="img/MainProdPics/22-905M_t.jpg" 
-                                       title="Shown in White; <b><i>Optional</b> Green Apple Accents</i>"/>
-										
-										<img src="img/MainProdPics/22-905N_t.jpg" 
-                                       title="Shown in White; <b><i>Optional</b> Tangerine Accents</i>"/>
                                        
+                                        <img src="img/MainProdPics/22-741C_t.jpg" 
+                                        title="Shown in Brandy; <b><i>Optional</b> Hanging Shelf</i>"/>
+                                        
+                                        <img src="img/MainProdPics/22-741D_t.jpg" 
+                                        title="Shown in White with Lime Green Accents and Satin Nickle knobs!</i>"/>
+                                        
+                                        <img src="img/MainProdPics/22-741E_t.jpg" 
+                                        title="Shown in White with Satin Nickle knobs!</i>"/>
+                                        
                                        <img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
                                         title="Berg's Signature Staircase is comfortable for parents too!"/>
                                     </div>
@@ -116,12 +87,12 @@
                     	<div id="thisColl"><b><a href="/captains_bed.php">All Captain's Beds</a></b>
                         		<br /><br />
                               <ul>
-                                 <li><a href="22_895.php"><b>22-895</b> Twin w/12 Drawers</a></li>
-                                  <li style="display:block; background-color: #06dec7;"><b>22-905</b> Twin/Twin</li>
-                                  <li><a href="22_91.php"><b>22-91</b> Twin w/Pull-Out Desk &amp; Steps</a></li>
-                                  <li><a href="22_915.php"><b>22-915</b> Twin w/Pull-Out Desk</a></li>
-                                  <li><a href="22_931.php"><b>22-931</b> Full w/Drawers &amp; Cabinet</a></li>
-                                  <li><a href="22_935.php"><b>22-935</b> Twin w/Drawers &amp; Cabinet</a></li>
+                                  <li><a href="22_721.php"><b>22-721</b> Twin w/ Desk</a></li>
+                                  <li><a href="22_722.php"><b>22-722</b> Full w/ Desk</a></li>
+                                  <li><a href="22_731.php"><b>22-731</b> Twin w/ Storage</a></li>
+                                  <li><a herf="22_732.php"><b>22-732</b> Full w/ Storage</a></li>
+                                  <li><a href="22_741.php"><b>22-741</b> Twin w/ Twin</a></li>
+                                  <li><a href="22_742.php"><b>22-742</b> Full w/ Twin</a></li>
                               </ul>
                         </div>
                         <div id="similarItems"><b>You Might Also Like:</b>
@@ -130,7 +101,7 @@
                                   <li><a href="22_805.php"><b>22-805</b> Space Saver Twin/Twin</a></li>
                                   <li><a href="22_807.php"><b>22-807</b> Space Saver Twin/Twin</a></li>
                                   <li><a href="40_515.php"><b>40-515</b> Enterprise Twin/Twin</a></li>
-                                  <li><a href="23_855.php"><b>23-905</b> Utica Full/Full</a></li> 
+                                  <li><a href="23_855.php"><b>23-741</b> Utica Full/Full</a></li> 
                                   <br />
                               </ul>
                       </div>
