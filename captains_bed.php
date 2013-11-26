@@ -30,7 +30,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0289A6', end
                     	
                         <div class="CollTabs2">
                             <div class="prodTab">
-                            <a href="22_721.php"><img src="img/Coll_pics/22-721.jpg" />
+                            <a href="22_721.php"><img src="img/Coll_pics/22-721.jpg"/>
                             <p><b>22-721</b><br/> Twin w/ Hide Away Desk</p> </a>
                             </div>
                             <div class="prodTab">
