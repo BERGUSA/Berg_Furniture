@@ -44,7 +44,7 @@
                    <div class="prodShow">
                    	 <div class="imgWrap">
                             	<img src="img/1px.gif" width="500" height="392" />
-                            	<div id="image_caption"></div>
+                            	<div id="image_caption"></div> 
                             </div>
                             <a class="prevPage browse left"></a>
                             	<div class="scrollable">
