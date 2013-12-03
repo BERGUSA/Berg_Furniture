@@ -43,9 +43,9 @@
 									</div>
                                        
                                    <!-- SLIDE 4 -->
-                                   <!-- <div><a href="22_915.php"><img src="img/new/22-915-slide.jpg" 
+                                   <div><a href="captains_bed.php"><img src="img/new/new captain-slide.png" 
                                     	alt="Captain's Bed, Kids, View the 22-915 Bedroom System"/></a>
-									</div> -->
+									</div> 
 								
                                     
 									<!-- SLIDE 5 -->
