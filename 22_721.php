@@ -61,7 +61,19 @@
                                         <img src="img/MainProdPics/22-721D_t.jpg" 
                                         title="The desk included. It can stand alone!"/>
                                         
-										<img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
+                                        <img src="img/MainProdPics/22-721brandywithbrandyopen_t.jpg" 
+                                        title="Shown in Brandy with Brandy knobs!"/>
+                                        
+                                        <img src="img/MainProdPics/22-721brandywithpurple_t.jpg" 
+                                        title="Shown in Brandy with Purple knobs!"/>
+                                        
+                                        <img src="img/MainProdPics/22-721brandywithpurpleopen_t.jpg" 
+                                        title="Shown in Brandy with Purple knobs! Look at all that room!"/>
+                                        
+                                        <img src="img/MainProdPics/22-721whitewithblack_t.jpg" 
+                                        title="Shown in White with Black accents and Satin Nickle knobs!"/>
+                                        
+                                        <img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
                                         title="Berg's Signature Staircase is comfortable for parents too!"/>
                                        
                                     </div>

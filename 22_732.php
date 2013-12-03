@@ -58,6 +58,10 @@
                                         <img src="img/MainProdPics/22-732c_t.jpg" 
                                         title="Shown in Nutmeg with Oslo Blue knobs!"/>
                                         
+                                        <img src="img/MainProdPics/22-732nutmegwithchestnut_t.jpg" 
+                                        title="Shown in Nutmeg with Chestnut knobs!"/>
+                                        
+                                        
 										                                        
                                         <img src="img/MainProdPics/22-732e_t.jpg" 
                                         title="Shown in Nutmeg with Sable Accents and Satin Nickle knobs!"/>

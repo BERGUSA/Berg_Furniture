@@ -64,6 +64,24 @@
                                         <img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
                                         title="Berg's Signature Staircase is comfortable for parents too!"/>
                                        
+                                       <img src="img/MainProdPics/22-731sablewithsatin_t.jpg" 
+                                        title="Shown in Sable with Square Satin Nickel knobs!Look at all that room!"/>
+                                       
+                                       <img src="img/MainProdPics/22-731whitewithblack_t.jpg" 
+                                        title="Shown in White with black accents Satin Nickle knobs!"/>
+                                       
+                                       <img src="img/MainProdPics/22-731whitewithblackpurple_t.jpg" 
+                                        title="Shown in White with Black accents and Oslo Purple knobs!"/>
+                                       
+                                       <img src="img/MainProdPics/22-731whitewithpink_t.jpg" 
+                                        title="Shown in White with Hot Pink accents and  Satin Nickel knobs!"/>
+                                       
+                                       <img src="img/MainProdPics/22-731whitewithpurple_t.jpg" 
+                                        title="Shown in White with Oslo Purple knobs!"/>
+                                       
+                                       
+                                       
+                                       
                                        
                                     </div>
                                 </div>

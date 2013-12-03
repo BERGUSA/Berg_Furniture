@@ -55,9 +55,13 @@
                                         <img src="img/MainProdPics/22-722b_t.jpg" 
                                         title="Shown in Nutmeg with Sable Accents and Satin Nickle knobs!"/>
                                         
-                                        
-                                        
+                                        <img src="img/MainProdPics/22-721D_t.jpg" 
+                                        title="The desk included. It can stand alone!"/>
 										
+										<img src="img/MainProdPics/22-722sablewithsatin_t.jpg" 
+                                        title="Shown in Sable with and Square Satin Nickle knobs!"/>
+										
+									
                                        
                                     </div>
                                 </div>

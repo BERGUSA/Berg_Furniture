@@ -63,6 +63,15 @@
                                         
                                        <img src="img/MainProdPics/girl-mom-stairs_t.jpg" 
                                         title="Berg's Signature Staircase is comfortable for parents too!"/>
+                                   
+                                       <img src="img/MainProdPics/22-741sablewithhunter_t.jpg" 
+                                        title="Shown in Sable with Hunter Green knobs!"/>
+                                   
+                                       <img src="img/MainProdPics/22-741sablewithsatin_t.jpg" 
+                                        title="Shown in Sable with Satin Nickle knobs knobs!"/>
+                                   
+                                   
+                                   
                                     </div>
                                 </div>
                             <a class="nextPage browse right"></a>
