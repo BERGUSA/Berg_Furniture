@@ -25,8 +25,8 @@
                                 <br />
                                 <h3>Features</h3>
                                 <ul>
-                                	<li>2 Beds</li>
-                                    <li>6 Drawer Chest</li>
+                                	<li>2 Beds, Full and Twin</li>
+                                    <li>3 Drawer, 1 door Chest</li>
                                     <li><a href="#" rel="#BSS">Berg Signature Staircase</a></li>
                                     
                                 </ul>
