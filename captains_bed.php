@@ -35,12 +35,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0289A6', end
                             </div>
                             <div class="prodTab">
                             <a href="22_722.php"><img src="img/Coll_pics/22-722.jpg" />
-                            <p><b>22-722</b><br/> Full w/ Pull-Out Desk &amp; Steps</p> </a>
+                            <p><b>22-722</b><br/> Full w/ Hide Away Desk</p> </a>
                             </div>
                             
                             <div class="prodTab">
                             <a href="22_731.php"><img src="img/Coll_pics/22-731new.jpg"/>
-                            <p><b>22-731</b><br/>Twin w/ 9 Drawers</p></a>
+                            <p><b>22-731</b><br/>Twin w/ Storage</p></a>
                             </div>
                             
                             <div class="prodTab">
