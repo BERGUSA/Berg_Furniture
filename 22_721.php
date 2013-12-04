@@ -20,7 +20,7 @@
                         <div class="prodCont">
                         		<h2>Twin with Hide Away Desk</h2><h3>#22-721</h3>
                                 <br />
-                                <p>When a bed is truly more than just a bed.  This line of Captain's Beds fits snugly into any room and eliminates clutter by providing a 3 drawer 1 door chest and a pullout desk in a small, concise package.  Children can play, think, and sleep all in one. And, with the Berg Signature Staircase, there's even more room for storage and safe access to the bed. Stairs can be installed on either the left or right side. 
+                                <p>This line of Captain's Beds fits snugly into any room and eliminates clutter by providing a 3-drawer chest, cabinet  and a hide away desk in a small, concise package. Children can think and sleep all in one. And, with the Berg Signature Staircase, there's even more room for storage and safe access to the bed. Stairs can be installed on either the left or right side.
                                 </p>
                                 <br />
                                 <h3>Features</h3>

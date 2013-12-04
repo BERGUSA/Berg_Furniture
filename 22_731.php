@@ -21,7 +21,7 @@
                         		<h2>Twin Bed with 6 Drawers, 2 One Door Cabinets</h2><h3>#22-731</h3>
                                 <br />
                                 <p style="font-size:14px;">
-                                The Captain's motto:  less is more.  Berg's Captain's Bed line was designed to be compact enough to fit in virtually any room without sacrificing storage capacity.  The 6 spacious drawers provide enough space to fit a child's clothes, games, toys, and sense of discovery.  The stairs provide even more storage space and safe, easy access to the bed.  Options make life easier; so if need be, switch out a cabinet for another bed, or a pull-out desk. Stairs can be installed on either the left or right side.
+                                The twin-sized Captain’s Bed was designed to be compact enough to fit virtually any room without sacrificing storage capacity. The 6 deep drawers and 2 cabinets provide enough space to fit a child’s clothes, games, toys, and more.  The stairs provide even more storage space and safe, easy access to the bed. Stairs can be installed on either the left or right side.
                                 </p>
                                 <br />
                                 <br />

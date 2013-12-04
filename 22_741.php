@@ -20,7 +20,7 @@
                         <div class="prodCont">
                         		<h2>Captain's Bed for Two</h2><h3>#22-741</h3>
                                 <br />
-                                <p>This twin over twin Captain&acute;s Bed is perfect for siblings who share a bedroom.  Sleeping arrangements are just one of the things that children will share with the loads of organizational space and room for imagination that are included.  The lower bed can be fully removed, providing lots of freedom for rearranging.  The Berg Signature Staircase can go on either side to deliver safe access to the top bed, and provides even more storage space.
+                                <p>This twin over twin Captain’s Bed is perfect for siblings who share a bedroom. Sleeping arrangements are just one of the things that children will share with the loads of organizational space and room for imagination that are included. The lower bed can be fully removed, providing lots of freedom for rearranging. The Berg Signature Staircase can go on either side to deliver safe access to the top bed, and provides even more storage space. 
                                 </p>
                                 <br />
                                 <h3>Features</h3>

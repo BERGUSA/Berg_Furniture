@@ -20,7 +20,7 @@
                         <div class="prodCont">
                         		<h2>Full with Storage</h2><h3>#22-732</h3>
                                 <br />
-                                <p>When a bed is truly more than just a bed.  This line of Captain's Beds fits snugly into any room and eliminates clutter by providing a 6 drawer and 2 door chests in a small, concise package.  Children can play, think, and sleep all in one. And, with the Berg Signature Staircase, there's even more room for storage and safe access to the bed. Stairs can be installed on either the left or right side. 
+                                <p>The full-sized Captain’s Bed was designed to be compact enough to fit in virtually any room without sacrificing storage capacity. The 6 deep drawers and 2 cabinets provide enough space to fit a child’s clothes, games, toys and more.  The stairs provide even more storage space and safe, easy access to the bed. Stairs can be installed on either the left or right side. 
                                 </p>
                                 <br />
                                 <h3>Features</h3>
