@@ -21,15 +21,15 @@
                         		<h2>Twin Bed with 6 Drawers, 2 One Door Cabinets</h2><h3>#22-731</h3>
                                 <br />
                                 <p style="font-size:14px;">
-                                The Captain's motto:  less is more.  Berg's Captain's Bed line was designed to be compact enough to fit in virtually any room without sacrificing storage capacity.  The 12 spacious drawers provide enough space to fit a child's clothes, games, toys, and sense of discovery.  The stairs provide even more storage space and safe, easy access to the bed.  Options make life easier; so if need be, switch out 6 of the drawers for another bed, a cabinet, or a pull-out desk. Stairs can be installed on either the left or right side.
+                                The Captain's motto:  less is more.  Berg's Captain's Bed line was designed to be compact enough to fit in virtually any room without sacrificing storage capacity.  The 6 spacious drawers provide enough space to fit a child's clothes, games, toys, and sense of discovery.  The stairs provide even more storage space and safe, easy access to the bed.  Options make life easier; so if need be, switch out a cabinet for another bed, or a pull-out desk. Stairs can be installed on either the left or right side.
                                 </p>
                                 <br />
                                 <br />
                                 <h3>Features</h3>
                                 <ul>
                                 	<li>Twin-Size Bed</li>
-                                    <li>12 Drawers</li>
-                                    <li>Side Shelves</li>
+                                    <li>6 Drawers</li>
+                                    <li>2 Front Cubbies</li>
                                     <li><a href="#" rel="#BSS">Berg Signature Staircase</a></li>
                                     <li>Available in Full-size (22-732) </li>
                                 </ul>
