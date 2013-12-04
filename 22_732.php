@@ -25,7 +25,7 @@
                                 <br />
                                 <h3>Features</h3>
                                 <ul>
-                                	<li>Deluxe Storage</li>
+                                	<li>2-3 Drawer, 1 Door Chest</li>
                                     <li>6 Drawer, 2 Door Cabinet Chests</li>
                                     <li><a href="#" rel="#BSS">Berg Signature Staircase</a></li>
                                     <li>Also available with a Twin Size Bed (22-731)</li>
