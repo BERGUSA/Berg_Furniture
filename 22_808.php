@@ -95,7 +95,7 @@
                         		<br /><br />
                               <ul>
                                   <li><a href="23_815.php"><b>23-815</b> Utica Twin/Full</a></li>
-                                  <li><a href="22_905.php"><b>22-905</b> Captain's Bed Twin/Twin</a></li>
+                                  <li><a href="22_741.php"><b>22-741</b> Captain's Bed Twin/Twin</a></li>
                                   <li><a href="40_515.php"><b>40-515</b> Enterprise Twin/Twin</a></li>
                                   <li><a href="40_525.php"><b>40-525</b> Enterprise Twin/Full w/Desk</a></li>
                                   

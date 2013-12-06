@@ -113,7 +113,7 @@
                        <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="22_905.php"><b>22-905</b> Captain's Bed Twin/Twin</a></li>
+                                  <li><a href="22_741.php"><b>22-741</b> Captain's Bed Twin/Twin</a></li>
                                   <li><a href="22_815.php"><b>22-815</b> Space Saver Twin/Full w/Desk</a></li>
                                   <li><a href="22_816.php"><b>22-816</b> Space Saver Twin/Full</a></li>
                                  

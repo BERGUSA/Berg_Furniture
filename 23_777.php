@@ -155,7 +155,7 @@
                               <ul>
                                   <li><a href="22_805.php"><b>22-805</b> Space Saver Twin/Twin </a></li>
                                   <li><a href="22_815.php"><b>22-815</b> Space Saver Twin/Full</a></li>
-                                  <li><a href="22_905.php"><b>22-905</b> Captain's Bed Twin/Twin</a></li>
+                                  <li><a href="22_741.php"><b>22-741</b> Captain's Bed Twin/Twin</a></li>
                                   
                                   <li><a href="40_525.php"><b>40-525</b> Enterprise Twin/Full w/Desk</a></li>
                               </ul>

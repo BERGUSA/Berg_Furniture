@@ -101,8 +101,8 @@
                         <div id="similarItems"><b>You Might Also Like:</b>
                         		<br /><br />
                               <ul>
-                                  <li><a href="22_895.php"><b>22-895</b> Captain's Bed Twin</a></li>
-                                  <li><a href="22_931.php"><b>22-931</b> Captain's Bed Full</a></li>
+                                  <li><a href="22_731.php"><b>22-731</b> Captain's Bed Twin</a></li>
+                                  <li><a href="22_732.php"><b>22-732</b> Captain's Bed Full</a></li>
                                   <li><a href="91_74.php"><b>91-74</b> Play &amp; Study</a></li>
                                   
                               </ul>
