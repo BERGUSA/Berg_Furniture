@@ -205,7 +205,7 @@
                             <p><b style="font-size:16px;">Sierra Bookcase</b>
                             <br/>22-06
                             <br /><br />
-                            <i>34"W x 13"D x 72"H
+                            <i>34"W x 13"D x 64"H
                             <br>
                             Comes with levelers, another great safety feature from Berg!</i>
                             </p>
