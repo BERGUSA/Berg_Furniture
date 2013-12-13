@@ -130,7 +130,7 @@
 									<img class="floor_plan" src="img/rooms/22-895C-top-web.jpg" />
 							</div>
 							
-							<div class="room_overlay" id="22-905CC">
+							<div class="room_overlay" id="22-905">
 									
 									<img class="room_3d" src="img/rooms/22-905CC-web.jpg" />
 									<p>	
