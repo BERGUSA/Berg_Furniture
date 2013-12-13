@@ -134,7 +134,7 @@
 									
 									<img class="room_3d" src="img/rooms/22-905CC-web.jpg" />
 									<p>	
-										<a href="22_905.php"><span>Captain's Bed 22-905</span> Twin over Twin in White</a><br/>
+										<a href="22_741.php"><span>Captain's Bed 22-741</span> Twin over Twin in White</a><br/>
 										<small>Also Shown: <a href="case_goods.php#row6">Hanging Shelf #23-13</a></small>
 									</p>
 									<img class="floor_plan" src="img/rooms/22-905-top-web-s.jpg" />
