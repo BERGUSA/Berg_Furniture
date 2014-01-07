@@ -387,6 +387,58 @@
                 
 <!--end finishes-->
  
+ <!--finishes play and study-->
+
+              <div class="simple_overlay" id="finishes_ps">
+              	
+                	<div class="simple_overlay_knob_title">      
+                			Available Finishes
+                		</div> 
+              	
+              			<div class="simple_overlay_container">
+                			<img src="img/finishes/28-brandy.jpg">
+                			Brandy <i>(#28)</i>
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/finishes/10-chestnut.jpg">
+                			Chestnut <i>(#10)</i>
+                		</div>
+                		
+                		<div class="simple_overlay_container">
+                			<img src="img/finishes/18-nutmeg.jpg">
+                			Nutmeg <i>(#18)</i>
+                		</div>
+              	
+              	        <div class="simple_overlay_container">
+                			<img src="img/finishes/61-natural.jpg">
+                			Natural <i>(#61)</i>
+                		</div>
+
+                		<div class="simple_overlay_container">
+                			<img src="img/finishes/94-white.jpg">
+                			White <i>(#94)</i>
+                		</div>
+
+                        <!-- <div class="simple_overlay_container">
+                			<img src="img/finishes/82-Sable.jpg">
+                			Sable <i>(#82)</i>
+                		</div> -->
+                </div>
+                
+<!--end play and study finishes-->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
                 
 <!--finishes-->
