@@ -420,7 +420,10 @@
                 			White <i>(#94)</i>
                 		</div>
 
-
+                        <div class="simple_overlay_container">
+                			<img src="img/finishes/82-Sable.jpg">
+                			Sable <i>(#82)</i>
+                		</div>
                 </div>
                 
 <!--end finishes-->
