@@ -6,7 +6,7 @@ jQuery Overlays
 .simple_overlay {
 	display:none;
 	z-index:9999;	
-	min-height:200px;
+	min-height:400px;
 }
 
 .simple_overlay i{
@@ -242,7 +242,7 @@ jQuery Overlays
 	z-index:9999;
 	right:-476px;
 	width:775px;
-	height:376px;
+	height:188px;
 	background-color:#FFF;
 	border:8px solid #0099FF;
 	-webkit-box-shadow:5px 5px 5px #666;
