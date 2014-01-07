@@ -41,7 +41,7 @@
                                 
                                 <br />
                                 <a href="#" rel="#knobs">Click for Knob Options&nbsp;&gt;&gt;</a><br />
-                                <a href="#" rel="#finishes">Click for Finish Options&nbsp;&gt;&gt;</a><br />
+                                <a href="#" rel="#finishes_ps">Click for Finish Options&nbsp;&gt;&gt;</a><br />
                                 <a href="#" rel="#accents">Click for Accent Options&nbsp;&gt;&gt;</a>
                         </div>
                    <div class="prodShow">
