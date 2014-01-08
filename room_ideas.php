@@ -414,7 +414,7 @@
 											<a href="#"><img width="200px" rel="#22-895" src="img/rooms/22-895BC_thumb.jpg" /></a>
 										</div>
 										<div class="animate" data-id="id-1" data-alpha="2" data-beta="1" data-gamma="2">
-											<a href="#"><img width="200px" rel="#22-895B" src="img/rooms/22-895CC_thumb.jpg" /></a>
+											<a href="#"><img width="200px" rel="#22-895B" src="img/rooms/22-731_thumb.jpg" /></a>
 										</div>
 										<div class="animate" data-id="id-1" data-alpha="1" data-beta="2" data-gamma="2">
 											<a href="#"><img width="200px" rel="#22-905" src="img/rooms/22-905CC_thumb.jpg" /></a>
