@@ -122,12 +122,12 @@
 							
 							<div class="room_overlay" id="22-895B">
 									
-									<img class="room_3d" src="img/rooms/22-895CC-web.jpg" />
+									<img class="room_3d" src="img/rooms/22-731-web.jpg" />
 									<p>	
 										<a href="22_731.php"><span>Captain's Bed 22-731</span> Twin 12 Drawer in Brandy</a><br/>
 										<small>Also Shown: <a href="case_goods.php#row3">3 Drawer Desk #22-35</a>, <a href="case_goods.php#row3">Desk Hutch #22-73</a> and <a href="case_goods.php#row6">Utica Bookshelf #23-14</a></small>
 									</p>
-									<img class="floor_plan" src="img/rooms/22-895C-top-web.jpg" />
+									<img class="floor_plan" src="img/rooms/22-731_thumb.jpg" />
 							</div>
 							
 							<div class="room_overlay" id="22-905">
