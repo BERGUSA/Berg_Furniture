@@ -479,6 +479,36 @@
 								</p>
 						</div>
 						
+						<div  class="discTab">
+								<img src="img/discontinued/22-895.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Twin 12 Drawer Captain's Bed</strong> 22-895-xx
+								 <br/>Both Twin and Full version.
+								</p>
+						</div>
+						<div  class="discTab">
+								<img src="img/discontinued/22-916.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Full Captain's Bed with Desk</strong> 22-916-xx
+								
+								</p>
+						</div>
+						<div  class="discTab">
+								<img src="img/discontinued/22-915.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Twin Captain's Bed</strong> 22-915-xx
+								</p>
+						</div>
+						<div  class="discTab">
+								<img src="img/discontinued/22-905.jpg"  />
+                              <p><b style="font-size:16px;">Sierra</b>
+								 <br /><strong>Twin over Twin Captain's Bed</strong> 22-905-xx
+								 <br/>Both Twin and Full version.
+								</p>
+						</div>
+						
+						
+						
 						<br>
 						
 						<a id="backtotop" style="font-family:'Times New Roman', Times, serif; font-size:14px;" href="#outside_container">Back to Top</a> 
