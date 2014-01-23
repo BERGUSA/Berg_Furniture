@@ -489,7 +489,7 @@
 						<div  class="discTab">
 								<img src="img/discontinued/22-916.jpg"  />
                               <p><b style="font-size:16px;">Sierra</b>
-								 <br /><strong>Full Captain's Bed with Desk</strong> 22-916-xx
+								 <br /><strong>Twin Captain's Bed with Desk, stairs on back</strong> 22-916-xx
 								
 								</p>
 						</div>
