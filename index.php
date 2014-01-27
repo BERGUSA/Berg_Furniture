@@ -154,8 +154,19 @@
 					
                       
                       <!--Pet Bed Website-->
-                      
-                      <div id="tab2">
+                      <div id="tab2">                        
+
+                        	<a href="captains_bed.php">
+							
+								<div class="slideshow2">
+									<img src="img/images/CAP-21.jpg" />
+									<img src="img/images/CAP-22.jpg" />
+									<img src="img/images/CAP-31.jpg" />
+									<img src="img/images/CAP-32.jpg" />
+									<img src="img/images/CAP-41.jpg" />
+									
+								</div>
+                      <!--<div id="tab2">
                         	<a href="http://www.bergfurniturepets.com/index.php" onclick="pageTracker._link(this.href); return false;">
                         	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
                         	<div class="hidden">
