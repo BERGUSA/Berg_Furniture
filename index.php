@@ -166,14 +166,7 @@
 									<img src="img/images/CAP-41.jpg" />
 									
 								</div>
-                      <!--<div id="tab2">
-                        	<a href="http://www.bergfurniturepets.com/index.php" onclick="pageTracker._link(this.href); return false;">
-                        	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
-                        	<div class="hidden">
-                            	<h2>Pet Website Coming Soon</h2>
-                        	</div> 
-                        	</a>
-                        </div>-->
+                      
                       
 						<!-- SHELF PROMO TAB -->
 						<!--
