@@ -154,18 +154,18 @@
 					
                       
                       <!--Pet Bed Website-->
-                      <!--<div id="tab2">
+                      <div id="tab2">
                         	<a href="http://www.bergfurniturepets.com/index.php" onclick="pageTracker._link(this.href); return false;">
                         	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
                         	<div class="hidden">
                             	<h2>Pet Website Coming Soon</h2>
                         	</div> 
                         	</a>
-                      </div>-->
+                      </div>
                       
                       
                       
-                      <div id="tab2">                        
+                     <!-- <div id="tab2">                        
 
                         	<a href="captains_bed.php">
 							
@@ -182,7 +182,7 @@
 							<div class="hidden"><h2>Check out the new Captain's Beds!</h2></div>
 							
 
-                        </div>
+                     </div>-->
                       
                       
                       
