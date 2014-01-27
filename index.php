@@ -182,8 +182,8 @@
                             	<h2>Free Shelf Promotion June 14th-July 13th 2013 Berg Furniture</h2>
                             	<p>Click here to view the coupon promotion and for more details</p>
                         	</div> 
-                        </div> 
-                     -->
+                        </div>--> 
+                     
                       
                       <div id="tab4">                        
 
