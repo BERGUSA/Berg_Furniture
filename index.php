@@ -153,53 +153,27 @@
                    </div>
 					
                       
-                      <!--Pet Bed Website-->
-                      <div id="tab2">
-                        	<a href="http://www.bergfurniturepets.com/index.php" onclick="pageTracker._link(this.href); return false;">
-                        	<a title="Pet Website Coming Soon!">Looking for our pet website? We're working on it! Feel free to contact us!</a>
-                        	<div class="hidden">
-                            	<h2>Pet Website Coming Soon</h2>
-                        	</div> 
-                        	</a>
-                      </div>
-                      
-                      
-                      
-                     <!-- <div id="tab2">                        
+                      <!--New Captains Beds-->
+                         
+                     <div id="tab2">                        
 
                         	<a href="captains_bed.php">
 							
 								<div class="slideshow2">
-									<img src="img/images/CAP-21.jpg" />
-									<img src="img/images/CAP-22.jpg" />
-									<img src="img/images/CAP-31.jpg" />
-									<img src="img/images/CAP-32.jpg" />
-									<img src="img/images/CAP-41.jpg" />
+									<img src="img/images/CAP-21.jpg"/>
+									<img src="img/images/CAP-22.jpg"/>
+									<img src="img/images/CAP-31.jpg"/>
+									<img src="img/images/CAP-32.jpg"/>
+									<img src="img/images/CAP-41.jpg"/>
 									
 								</div>
 							
 							</a>
-							<div class="hidden"><h2>Check out the new Captain's Beds!</h2></div>
-							
-
-                     </div>-->
+							<h2>Check out the new Captain's Beds!</h2>
+							</div>
                       
                       
-                      
-                      
-                      
-                      
-                      
-                      
-						<!-- SHELF PROMO TAB -->
-						<!--
-						 <div id="tab2"><a title="Shelf Promo!" href="Promotions.php" >June 14th-July 13th 2013 | Free Shelf Coupon Promotion Berg Furniture</a>
-                        	<div class="hidden">
-                            	<h2>Free Shelf Promotion June 14th-July 13th 2013 Berg Furniture</h2>
-                            	<p>Click here to view the coupon promotion and for more details</p>
-                        	</div> 
-                        </div>--> 
-                     
+                                  
                       
                       <div id="tab4">                        
 
