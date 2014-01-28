@@ -155,7 +155,7 @@
                       
                       <!--New Captains Beds-->
                          
-                     <div id="tab2">                        
+                     <div id="tab5">                        
 
                         	<a href="captains_bed.php">
 							
