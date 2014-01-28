@@ -152,7 +152,24 @@
 
                    </div>
 					
-                      
+                      <!--New Captains Beds-->
+                         
+                     <div id="tab2">                        
+
+                        	<a href="captains_bed.php">
+							
+								<div class="slideshow">
+									<img src="img/images/CAP-21.jpg"/>
+									<img src="img/images/CAP-22.jpg"/>
+									<img src="img/images/CAP-31.jpg"/>
+									<img src="img/images/CAP-32.jpg"/>
+									<img src="img/images/CAP-41.jpg"/>
+									
+								</div>
+							
+							</a>
+							<h2>Check out the new Captain's Beds!</h2>
+							</div>
                                             
                       
               <!--transforming bed-->                    
@@ -175,24 +192,7 @@
 							</a>
 							<div class="hidden"><h2>Get Inspired by our new room ideas!</h2></div>
 							
-<!--New Captains Beds-->
-                         
-                     <div id="tab2">                        
 
-                        	<a href="captains_bed.php">
-							
-								<div class="slideshow">
-									<img src="img/images/CAP-21.jpg"/>
-									<img src="img/images/CAP-22.jpg"/>
-									<img src="img/images/CAP-31.jpg"/>
-									<img src="img/images/CAP-32.jpg"/>
-									<img src="img/images/CAP-41.jpg"/>
-									
-								</div>
-							
-							</a>
-							<h2>Check out the new Captain's Beds!</h2>
-							</div>
                         </div>
 
                      </div>      
