@@ -159,11 +159,11 @@
                         	<a href="captains_bed.php">
 							
 								<div class="slideshow">
-									<img src="img/images/CAP-21.jpg"/>
-									<img src="img/images/CAP-22.jpg"/>
-									<img src="img/images/CAP-31.jpg"/>
-									<img src="img/images/CAP-32.jpg"/>
-									<img src="img/images/CAP-41.jpg"/>
+									<img src="img/images/cap21.jpg"/>
+									<img src="img/images/cap22.jpg"/>
+									<img src="img/images/cap31.jpg"/>
+									<img src="img/images/cap32.jpg"/>
+									<img src="img/images/cap41.jpg"/>
 									
 								</div>
 							
